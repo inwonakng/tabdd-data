@@ -1,0 +1,26 @@
+[
+  {
+    "Operation": "DataDistill",
+    "Time": 1.011838674545288
+  },
+  {
+    "Operation": "Train -- Default",
+    "Time": 0.016556262969970703
+  },
+  {
+    "Operation": "Inference -- Train",
+    "Time": 0.0008511543273925781
+  },
+  {
+    "Operation": "Inference -- Train - Original",
+    "Time": 0.03239178657531738
+  },
+  {
+    "Operation": "Inference -- Val",
+    "Time": 0.007272243499755859
+  },
+  {
+    "Operation": "Inference -- Test",
+    "Time": 0.007160186767578125
+  }
+]

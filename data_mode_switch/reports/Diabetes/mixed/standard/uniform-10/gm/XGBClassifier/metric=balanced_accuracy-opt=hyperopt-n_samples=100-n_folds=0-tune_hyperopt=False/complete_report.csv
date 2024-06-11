@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.95,-1,0,0,29.06059193611145,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.47229741953662296,-1,0,0,29.06059193611145,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.4729495542146651,-1,0,0,29.06059193611145,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.47083645911477867,-1,0,0,29.06059193611145,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.058837175369263,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5126716650882023,-1,0,0,28.058837175369263,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5096056477540882,-1,0,0,28.058837175369263,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5039384846211553,-1,0,0,28.058837175369263,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.227980136871338,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.533788496614999,-1,0,0,28.227980136871338,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5408501640041412,-1,0,0,28.227980136871338,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5247561890472618,-1,0,0,28.227980136871338,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.95,-1,0,0,28.067530870437622,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5006715374878175,-1,0,0,28.067530870437622,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5050250322850831,-1,0,0,28.067530870437622,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5033758439609902,-1,0,0,28.067530870437622,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.95,-1,0,0,28.223132133483887,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5398979239241647,-1,0,0,28.223132133483887,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5278119614315508,-1,0,0,28.223132133483887,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.548762190547637,-1,0,0,28.223132133483887,-1,Diabetes,XGBClassifier,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,27.88974380493164,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.48027595035351955,-1,0,0,27.88974380493164,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.47894834569644096,-1,0,0,27.88974380493164,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.4748687171792948,-1,0,0,27.88974380493164,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,27.944281101226807,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5016994881650643,-1,0,0,27.944281101226807,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5131697422104541,-1,0,0,27.944281101226807,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5087209302325582,-1,0,0,27.944281101226807,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.975,-1,0,0,27.94043278694153,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5581057659876978,-1,0,0,27.94043278694153,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5534073797008622,-1,0,0,27.94043278694153,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5478244561140284,-1,0,0,27.94043278694153,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.975,-1,0,0,27.949186325073242,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5608998931368583,-1,0,0,27.949186325073242,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.562499551449483,-1,0,0,27.949186325073242,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5536384096024005,-1,0,0,27.949186325073242,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.975,-1,0,0,27.956867218017578,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5195828308652247,-1,0,0,27.956867218017578,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5119578290746012,-1,0,0,27.956867218017578,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5280382595648911,-1,0,0,27.956867218017578,-1,Diabetes,XGBClassifier,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.019571542739868,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5061186868818783,-1,0,0,28.019571542739868,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5023928674909302,-1,0,0,28.019571542739868,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.49962490622655664,-1,0,0,28.019571542739868,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,27.99664282798767,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5019587319718704,-1,0,0,27.99664282798767,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.504832788810596,-1,0,0,27.99664282798767,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5076894223555889,-1,0,0,27.99664282798767,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,27.97715973854065,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5596940092504497,-1,0,0,27.97715973854065,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5659712796797961,-1,0,0,27.97715973854065,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5556076519129782,-1,0,0,27.97715973854065,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9833333333333334,-1,0,0,27.9867000579834,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5571412326823255,-1,0,0,27.9867000579834,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5521874630165702,-1,0,0,27.9867000579834,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5567329332333083,-1,0,0,27.9867000579834,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,27.991921186447144,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5327833431430693,-1,0,0,27.991921186447144,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5279101676094319,-1,0,0,27.991921186447144,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.534039759939985,-1,0,0,27.991921186447144,-1,Diabetes,XGBClassifier,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.047993659973145,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5234407460243821,-1,0,0,28.047993659973145,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5157100333046121,-1,0,0,28.047993659973145,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.518192048012003,-1,0,0,28.047993659973145,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.05475354194641,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5012145231929335,-1,0,0,28.05475354194641,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5059611132383546,-1,0,0,28.05475354194641,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.49578019504876214,-1,0,0,28.05475354194641,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.039411783218384,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.55129310058116,-1,0,0,28.039411783218384,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5569733211299448,-1,0,0,28.039411783218384,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5420105026256564,-1,0,0,28.039411783218384,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.069504499435425,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5433760552654072,-1,0,0,28.069504499435425,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5441225423125617,-1,0,0,28.069504499435425,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.542854463615904,-1,0,0,28.069504499435425,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.032205820083618,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5242638707535062,-1,0,0,28.032205820083618,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5217164237598511,-1,0,0,28.032205820083618,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5247561890472618,-1,0,0,28.032205820083618,-1,Diabetes,XGBClassifier,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.144049167633057,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.540158991378174,-1,0,0,28.144049167633057,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.528844014605227,-1,0,0,28.144049167633057,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5388222055513878,-1,0,0,28.144049167633057,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.123671054840088,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5180748070808205,-1,0,0,28.123671054840088,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5151500135866831,-1,0,0,28.123671054840088,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5040322580645161,-1,0,0,28.123671054840088,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.99,-1,0,0,28.12197208404541,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5351750152605673,-1,0,0,28.12197208404541,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5428195822168823,-1,0,0,28.12197208404541,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5269129782445612,-1,0,0,28.12197208404541,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.114227533340454,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.531621024879972,-1,0,0,28.114227533340454,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5292081144934517,-1,0,0,28.114227533340454,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5339459864966242,-1,0,0,28.114227533340454,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.128188371658325,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5174517836159664,-1,0,0,28.128188371658325,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5208711610935935,-1,0,0,28.128188371658325,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5128469617404351,-1,0,0,28.128188371658325,-1,Diabetes,XGBClassifier,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.115163803100586,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.537024275903756,-1,0,0,28.115163803100586,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5255604665094242,-1,0,0,28.115163803100586,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5321642910727682,-1,0,0,28.115163803100586,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.127894401550293,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.511886243336221,-1,0,0,28.127894401550293,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5098949364521772,-1,0,0,28.127894401550293,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.49896849212303074,-1,0,0,28.127894401550293,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.131023168563843,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5539449832484679,-1,0,0,28.131023168563843,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5459099369665151,-1,0,0,28.131023168563843,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5407914478619655,-1,0,0,28.131023168563843,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.148190021514893,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5416681402026818,-1,0,0,28.148190021514893,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5393389709273126,-1,0,0,28.148190021514893,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5424793698424606,-1,0,0,28.148190021514893,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.116880178451538,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5228586536668178,-1,0,0,28.116880178451538,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5214279618019305,-1,0,0,28.116880178451538,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5165978994748688,-1,0,0,28.116880178451538,-1,Diabetes,XGBClassifier,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.210456609725952,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5387124668247641,-1,0,0,28.210456609725952,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5237783841008086,-1,0,0,28.210456609725952,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5320705176294074,-1,0,0,28.210456609725952,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.19155216217041,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5297313855540671,-1,0,0,28.19155216217041,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5210522171904822,-1,0,0,28.19155216217041,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5160352588147037,-1,0,0,28.19155216217041,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.18965744972229,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5590697912886011,-1,0,0,28.18965744972229,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5475020450385528,-1,0,0,28.18965744972229,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5407914478619655,-1,0,0,28.18965744972229,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.20780062675476,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5433764211255414,-1,0,0,28.20780062675476,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.541588794778886,-1,0,0,28.20780062675476,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5413540885221305,-1,0,0,28.20780062675476,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9928571428571429,-1,0,0,28.20027995109558,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5289866025443235,-1,0,0,28.20027995109558,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5303420677904422,-1,0,0,28.20027995109558,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5247561890472618,-1,0,0,28.20027995109558,-1,Diabetes,XGBClassifier,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.240431308746338,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5431745228661308,-1,0,0,28.240431308746338,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.534465073781107,-1,0,0,28.240431308746338,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5359152288072018,-1,0,0,28.240431308746338,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.23886775970459,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5294902013465133,-1,0,0,28.23886775970459,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5194587370815693,-1,0,0,28.23886775970459,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5200675168792198,-1,0,0,28.23886775970459,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.242393970489502,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5598534426975046,-1,0,0,28.242393970489502,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5528476590166113,-1,0,0,28.242393970489502,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5515753938484621,-1,0,0,28.242393970489502,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.242543697357178,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5523991054585651,-1,0,0,28.242543697357178,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5511551811700814,-1,0,0,28.242543697357178,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5533570892723181,-1,0,0,28.242543697357178,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.24358057975769,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.531116354341804,-1,0,0,28.24358057975769,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5335322118374275,-1,0,0,28.24358057975769,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5277569392348087,-1,0,0,28.24358057975769,-1,Diabetes,XGBClassifier,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.30240750312805,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5486400008029864,-1,0,0,28.30240750312805,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5415006326145408,-1,0,0,28.30240750312805,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5473555888972244,-1,0,0,28.30240750312805,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.2921462059021,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5367645733584152,-1,0,0,28.2921462059021,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5278052243786889,-1,0,0,28.2921462059021,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.529351087771943,-1,0,0,28.2921462059021,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.29776644706726,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5573612066937538,-1,0,0,28.29776644706726,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5496613144563575,-1,0,0,28.29776644706726,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5486684171042762,-1,0,0,28.29776644706726,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.30128502845764,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5500276485268496,-1,0,0,28.30128502845764,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5426219385459758,-1,0,0,28.30128502845764,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5449174793698425,-1,0,0,28.30128502845764,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.284232139587402,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5314588406169851,-1,0,0,28.284232139587402,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5264944190465174,-1,0,0,28.284232139587402,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5251312828207052,-1,0,0,28.284232139587402,-1,Diabetes,XGBClassifier,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.371440887451172,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5473538562486784,-1,0,0,28.371440887451172,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5366239210337194,-1,0,0,28.371440887451172,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5412603150787697,-1,0,0,28.371440887451172,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.383694410324097,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5375887714387941,-1,0,0,28.383694410324097,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5282730537727285,-1,0,0,28.383694410324097,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5254126031507876,-1,0,0,28.383694410324097,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.361923933029175,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5496449895167099,-1,0,0,28.361923933029175,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5526604815244329,-1,0,0,28.361923933029175,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.542291822955739,-1,0,0,28.361923933029175,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.371854066848755,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.5597934836326823,-1,0,0,28.371854066848755,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5540657287281865,-1,0,0,28.371854066848755,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5536384096024005,-1,0,0,28.371854066848755,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,28.464343070983887,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.529750868211943,-1,0,0,28.464343070983887,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.5239619555986352,-1,0,0,28.464343070983887,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.5260690172543137,-1,0,0,28.464343070983887,-1,Diabetes,XGBClassifier,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed

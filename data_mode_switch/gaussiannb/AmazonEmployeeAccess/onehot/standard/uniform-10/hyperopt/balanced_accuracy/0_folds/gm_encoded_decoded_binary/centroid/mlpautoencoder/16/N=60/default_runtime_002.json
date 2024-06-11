@@ -1,0 +1,27 @@
+[
+  {
+    "Operation": "Train -- Default",
+    "Time": 0.001171112060546875,
+    "Hostname": "silkworm"
+  },
+  {
+    "Operation": "Inference -- Train",
+    "Time": 0.0008151531219482422,
+    "Hostname": "silkworm"
+  },
+  {
+    "Operation": "Inference -- Train - Original",
+    "Time": 0.022411584854125977,
+    "Hostname": "silkworm"
+  },
+  {
+    "Operation": "Inference -- Val",
+    "Time": 0.006696939468383789,
+    "Hostname": "silkworm"
+  },
+  {
+    "Operation": "Inference -- Test",
+    "Time": 0.005410671234130859,
+    "Hostname": "silkworm"
+  }
+]

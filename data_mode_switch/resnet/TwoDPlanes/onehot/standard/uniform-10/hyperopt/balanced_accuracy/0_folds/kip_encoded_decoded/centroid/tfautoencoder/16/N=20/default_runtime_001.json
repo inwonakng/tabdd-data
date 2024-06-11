@@ -1,0 +1,27 @@
+[
+  {
+    "Operation": "Train -- Default",
+    "Time": 5.011368036270142,
+    "Hostname": "idea-node-05"
+  },
+  {
+    "Operation": "Inference -- Train",
+    "Time": 0.00391387939453125,
+    "Hostname": "idea-node-05"
+  },
+  {
+    "Operation": "Inference -- Train - Original",
+    "Time": 0.050403594970703125,
+    "Hostname": "idea-node-05"
+  },
+  {
+    "Operation": "Inference -- Val",
+    "Time": 0.009831905364990234,
+    "Hostname": "idea-node-05"
+  },
+  {
+    "Operation": "Inference -- Test",
+    "Time": 0.008265495300292969,
+    "Hostname": "idea-node-05"
+  }
+]

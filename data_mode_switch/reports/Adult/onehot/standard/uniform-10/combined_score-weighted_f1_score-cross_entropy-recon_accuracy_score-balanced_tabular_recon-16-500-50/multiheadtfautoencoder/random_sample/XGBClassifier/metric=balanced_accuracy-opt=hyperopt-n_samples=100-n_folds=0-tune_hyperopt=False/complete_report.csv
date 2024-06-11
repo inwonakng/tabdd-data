@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.9,-1,0,0,0.008198976516723633,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.694084224590134,-1,0,0,0.008198976516723633,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6893329616993513,-1,0,0,0.008198976516723633,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.6995332313604173,-1,0,0,0.008198976516723633,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006359100341796875,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7602291920295621,-1,0,0,0.006359100341796875,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7578177995139757,-1,0,0,0.006359100341796875,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7633795445441727,-1,0,0,0.006359100341796875,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8500000000000001,-1,0,0,0.005999088287353516,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.6720989063344627,-1,0,0,0.005999088287353516,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6636985592563935,-1,0,0,0.005999088287353516,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.6674856021079042,-1,0,0,0.005999088287353516,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.0061719417572021484,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.724423396319604,-1,0,0,0.0061719417572021484,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7268822389425669,-1,0,0,0.0061719417572021484,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7348500013611399,-1,0,0,0.0061719417572021484,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9,-1,0,0,0.006121158599853516,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.647289238262833,-1,0,0,0.006121158599853516,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6376778000933316,-1,0,0,0.006121158599853516,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.6387879632660071,-1,0,0,0.006121158599853516,-1,Adult,XGBClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006003856658935547,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7200547204059071,-1,0,0,0.006003856658935547,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.717058572988972,-1,0,0,0.006003856658935547,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7281321108045646,-1,0,0,0.006003856658935547,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.005991220474243164,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7569974050277648,-1,0,0,0.005991220474243164,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.754049631561347,-1,0,0,0.005991220474243164,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7626437102749277,-1,0,0,0.005991220474243164,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006009817123413086,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.6778162335954023,-1,0,0,0.006009817123413086,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6773357385135261,-1,0,0,0.006009817123413086,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.6775161284842366,-1,0,0,0.006009817123413086,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.006159067153930664,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.713101256894205,-1,0,0,0.006159067153930664,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7034639753706163,-1,0,0,0.006159067153930664,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7106478084317396,-1,0,0,0.006159067153930664,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.006474971771240234,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7079506480587564,-1,0,0,0.006474971771240234,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6999490965169141,-1,0,0,0.006474971771240234,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7037821369732465,-1,0,0,0.006474971771240234,-1,Adult,XGBClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9833333333333334,-1,0,0,0.005997180938720703,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7337698077798483,-1,0,0,0.005997180938720703,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7308646457652919,-1,0,0,0.005997180938720703,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.737356750261124,-1,0,0,0.005997180938720703,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.0061948299407958984,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.735543979096293,-1,0,0,0.0061948299407958984,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7319106084476035,-1,0,0,0.0061948299407958984,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7431523917888674,-1,0,0,0.0061948299407958984,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9833333333333334,-1,0,0,0.005992889404296875,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.718545173410673,-1,0,0,0.005992889404296875,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7129554840698098,-1,0,0,0.005992889404296875,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7119183762276612,-1,0,0,0.005992889404296875,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9666666666666667,-1,0,0,0.006354808807373047,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7155998675160589,-1,0,0,0.006354808807373047,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7014741026354656,-1,0,0,0.006354808807373047,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7220154756487981,-1,0,0,0.006354808807373047,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006420135498046875,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7093042037294403,-1,0,0,0.006420135498046875,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7051393479010988,-1,0,0,0.006420135498046875,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.702109316521516,-1,0,0,0.006420135498046875,-1,Adult,XGBClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006054878234863281,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7320022820919092,-1,0,0,0.006054878234863281,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7322264905083378,-1,0,0,0.006054878234863281,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7386286996652005,-1,0,0,0.006054878234863281,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006231069564819336,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7404221782614366,-1,0,0,0.006231069564819336,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.731186157609999,-1,0,0,0.006231069564819336,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7435273193056099,-1,0,0,0.006231069564819336,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006423234939575195,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7192819733971073,-1,0,0,0.006423234939575195,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.721129418599926,-1,0,0,0.006423234939575195,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.72519015533574,-1,0,0,0.006423234939575195,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9625,-1,0,0,0.0062448978424072266,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.72315437501746,-1,0,0,0.0062448978424072266,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7145463586608443,-1,0,0,0.0062448978424072266,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.726677226246625,-1,0,0,0.0062448978424072266,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006606101989746094,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7397725751248354,-1,0,0,0.006606101989746094,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7373670462539981,-1,0,0,0.006606101989746094,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7375017679467317,-1,0,0,0.006606101989746094,-1,Adult,XGBClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.0063779354095458984,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7470975053006172,-1,0,0,0.0063779354095458984,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7447803457895203,-1,0,0,0.0063779354095458984,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7532249292872478,-1,0,0,0.0063779354095458984,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006513833999633789,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.737885428123796,-1,0,0,0.006513833999633789,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7294131850973682,-1,0,0,0.006513833999633789,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7398558235602466,-1,0,0,0.006513833999633789,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.99,-1,0,0,0.00616908073425293,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.723255563406233,-1,0,0,0.00616908073425293,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7183842335750286,-1,0,0,0.00616908073425293,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7254424267507176,-1,0,0,0.00616908073425293,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.99,-1,0,0,0.0063402652740478516,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7333724800331293,-1,0,0,0.0063402652740478516,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7189559637274042,-1,0,0,0.0063402652740478516,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7403561192243917,-1,0,0,0.0063402652740478516,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006422758102416992,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7520687761639898,-1,0,0,0.006422758102416992,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7526206388494605,-1,0,0,0.006422758102416992,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7534498755631589,-1,0,0,0.006422758102416992,-1,Adult,XGBClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.00651097297668457,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7393550731487244,-1,0,0,0.00651097297668457,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7366507841930816,-1,0,0,0.00651097297668457,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7467572633187538,-1,0,0,0.00651097297668457,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.00622105598449707,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7421176078098599,-1,0,0,0.00622105598449707,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7372226167051659,-1,0,0,0.00622105598449707,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7438503597605295,-1,0,0,0.00622105598449707,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9916666666666667,-1,0,0,0.006320953369140625,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7245718302391776,-1,0,0,0.006320953369140625,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7288973433458871,-1,0,0,0.006320953369140625,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7245608072357788,-1,0,0,0.006320953369140625,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9916666666666667,-1,0,0,0.008980035781860352,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7353032419086607,-1,0,0,0.008980035781860352,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7254974144449406,-1,0,0,0.008980035781860352,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7389047654428484,-1,0,0,0.008980035781860352,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.0060842037200927734,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7588628855879196,-1,0,0,0.0060842037200927734,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7584108204857398,-1,0,0,0.0060842037200927734,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7548136251535376,-1,0,0,0.0060842037200927734,-1,Adult,XGBClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006483316421508789,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.740234502704517,-1,0,0,0.006483316421508789,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7376417285320216,-1,0,0,0.006483316421508789,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7505317656276769,-1,0,0,0.006483316421508789,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9928571428571429,-1,0,0,0.006228923797607422,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7585689387233949,-1,0,0,0.006228923797607422,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.75366383781964,-1,0,0,0.006228923797607422,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7636009600436875,-1,0,0,0.006228923797607422,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9785714285714286,-1,0,0,0.006634235382080078,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7211727040556681,-1,0,0,0.006634235382080078,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7158172056229464,-1,0,0,0.006634235382080078,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7255987019842554,-1,0,0,0.006634235382080078,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9928571428571429,-1,0,0,0.006254911422729492,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7285070809876708,-1,0,0,0.006254911422729492,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7197755579141507,-1,0,0,0.006254911422729492,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.738466079268284,-1,0,0,0.006254911422729492,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.006360054016113281,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7569284108082021,-1,0,0,0.006360054016113281,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7603939886599773,-1,0,0,0.006360054016113281,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7548318419129153,-1,0,0,0.006360054016113281,-1,Adult,XGBClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.0063631534576416016,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7432734207834126,-1,0,0,0.0063631534576416016,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7436957423172129,-1,0,0,0.0063631534576416016,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7467390465593761,-1,0,0,0.0063631534576416016,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9875,-1,0,0,0.0064051151275634766,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7471343335502421,-1,0,0,0.0064051151275634766,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7415196260922676,-1,0,0,0.0064051151275634766,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7421536937754561,-1,0,0,0.0064051151275634766,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.98125,-1,0,0,0.006268024444580078,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7390448130051736,-1,0,0,0.006268024444580078,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7324231746884093,-1,0,0,0.006268024444580078,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7434711850779769,-1,0,0,0.006268024444580078,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.99375,-1,0,0,0.006255149841308594,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7286097803874512,-1,0,0,0.006255149841308594,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.719618896380141,-1,0,0,0.006255149841308594,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7304776720864596,-1,0,0,0.006255149841308594,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.99375,-1,0,0,0.006802797317504883,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7622449888107168,-1,0,0,0.006802797317504883,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7612697783267443,-1,0,0,0.006802797317504883,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7645435238294658,-1,0,0,0.006802797317504883,-1,Adult,XGBClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.0063631534576416016,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7438667593219557,-1,0,0,0.0063631534576416016,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7474237852640712,-1,0,0,0.0063631534576416016,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7515927895200826,-1,0,0,0.0063631534576416016,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9944444444444445,-1,0,0,0.006613016128540039,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.747034186184605,-1,0,0,0.006613016128540039,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7411674575148353,-1,0,0,0.006613016128540039,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7444859506825247,-1,0,0,0.006613016128540039,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9833333333333334,-1,0,0,0.006518125534057617,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.740356476306915,-1,0,0,0.006518125534057617,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7311175254253839,-1,0,0,0.006518125534057617,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7458973401689164,-1,0,0,0.006518125534057617,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9944444444444445,-1,0,0,0.0061838626861572266,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7418714070132192,-1,0,0,0.0061838626861572266,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.733379316726426,-1,0,0,0.0061838626861572266,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7401543020924097,-1,0,0,0.0061838626861572266,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9944444444444445,-1,0,0,0.0062520503997802734,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.758086735866929,-1,0,0,0.0062520503997802734,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7573435669840398,-1,0,0,0.0062520503997802734,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7591011134533634,-1,0,0,0.0062520503997802734,-1,Adult,XGBClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.00676417350769043,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7481798615197656,-1,0,0,0.00676417350769043,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.744564725063358,-1,0,0,0.00676417350769043,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7523552325389803,-1,0,0,0.00676417350769043,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.995,-1,0,0,0.006330013275146484,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7439049082375,-1,0,0,0.006330013275146484,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7404938794524043,-1,0,0,0.006330013275146484,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7441523690690888,-1,0,0,0.006330013275146484,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.98,-1,0,0,0.006189107894897461,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7443344701023984,-1,0,0,0.006189107894897461,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7372787098254777,-1,0,0,0.006189107894897461,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7504959973276628,-1,0,0,0.006189107894897461,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.995,-1,0,0,0.006790876388549805,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7430229665965331,-1,0,0,0.006790876388549805,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7290700753541467,-1,0,0,0.006790876388549805,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.744609272003031,-1,0,0,0.006790876388549805,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.995,-1,0,0,0.006276845932006836,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.758776779109949,-1,0,0,0.006276845932006836,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7635515809508173,-1,0,0,0.006276845932006836,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7630921700479224,-1,0,0,0.006276845932006836,-1,Adult,XGBClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot

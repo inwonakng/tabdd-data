@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.002130746841430664,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7478756116178078,-1,0,0,0.002130746841430664,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7399622022316217,-1,0,0,0.002130746841430664,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7470967673044004,-1,0,0,0.002130746841430664,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016775131225585938,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7715834846574796,-1,0,0,0.0016775131225585938,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7772033596372598,-1,0,0,0.0016775131225585938,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7661729240797874,-1,0,0,0.0016775131225585938,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016350746154785156,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7263691278025689,-1,0,0,0.0016350746154785156,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.710190192880393,-1,0,0,0.0016350746154785156,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7229492967186777,-1,0,0,0.0016350746154785156,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016503334045410156,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6964608592243103,-1,0,0,0.0016503334045410156,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7000984599402418,-1,0,0,0.0016503334045410156,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.703977457541916,-1,0,0,0.0016503334045410156,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0016245841979980469,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7244710157698291,-1,0,0,0.0016245841979980469,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7158465027612753,-1,0,0,0.0016245841979980469,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7100894831432618,-1,0,0,0.0016245841979980469,-1,House,XGBClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019330978393554688,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7955539765574438,-1,0,0,0.0019330978393554688,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7882823630550032,-1,0,0,0.0019330978393554688,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7840765346186576,-1,0,0,0.0019330978393554688,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001920461654663086,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7464403630858802,-1,0,0,0.001920461654663086,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.732069791495872,-1,0,0,0.001920461654663086,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7547735568851257,-1,0,0,0.001920461654663086,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016362667083740234,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7941029929682595,-1,0,0,0.0016362667083740234,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7811713445411648,-1,0,0,0.0016362667083740234,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7801543571900289,-1,0,0,0.0016362667083740234,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016558170318603516,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7560206545832873,-1,0,0,0.0016558170318603516,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7551770573545589,-1,0,0,0.0016558170318603516,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7509889636909045,-1,0,0,0.0016558170318603516,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016334056854248047,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7912658621499179,-1,0,0,0.0016334056854248047,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7867382761373951,-1,0,0,0.0016334056854248047,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7879395713614514,-1,0,0,0.0016334056854248047,-1,House,XGBClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001667022705078125,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.805114297361678,-1,0,0,0.001667022705078125,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.798441694743776,-1,0,0,0.001667022705078125,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8065204248929718,-1,0,0,0.001667022705078125,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016276836395263672,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7816399597401391,-1,0,0,0.0016276836395263672,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7633273295782126,-1,0,0,0.0016276836395263672,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7814837905236908,-1,0,0,0.0016276836395263672,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001958131790161133,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7981109044946738,-1,0,0,0.001958131790161133,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7990739176906131,-1,0,0,0.001958131790161133,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7910637602305173,-1,0,0,0.001958131790161133,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016317367553710938,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7785183432373317,-1,0,0,0.0016317367553710938,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7694903218727771,-1,0,0,0.0016317367553710938,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.782145837645675,-1,0,0,0.0016317367553710938,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016641616821289062,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8058590523378757,-1,0,0,0.0016641616821289062,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8106257014140672,-1,0,0,0.0016641616821289062,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7971191093412713,-1,0,0,0.0016641616821289062,-1,House,XGBClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016574859619140625,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8247935429362451,-1,0,0,0.0016574859619140625,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8150586588654833,-1,0,0,0.0016574859619140625,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8227779530094395,-1,0,0,0.0016574859619140625,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016415119171142578,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7916469939144761,-1,0,0,0.0016415119171142578,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7862539896617062,-1,0,0,0.0016415119171142578,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.803114085668569,-1,0,0,0.0016415119171142578,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016219615936279297,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8183146425443082,-1,0,0,0.0016219615936279297,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8123775157932456,-1,0,0,0.0016219615936279297,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8136025220216915,-1,0,0,0.0016219615936279297,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016341209411621094,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.77694304514903,-1,0,0,0.0016341209411621094,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7668399988986951,-1,0,0,0.0016341209411621094,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7760009561077543,-1,0,0,0.0016341209411621094,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016450881958007812,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8139980107038765,-1,0,0,0.0016450881958007812,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.807916203851526,-1,0,0,0.0016450881958007812,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8052665602134321,-1,0,0,0.0016450881958007812,-1,House,XGBClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016772747039794922,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8237734621920063,-1,0,0,0.0016772747039794922,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8108847957058973,-1,0,0,0.0016772747039794922,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8285774365141165,-1,0,0,0.0016772747039794922,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019457340240478516,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8077853987988943,-1,0,0,0.0019457340240478516,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8020998349275543,-1,0,0,0.0019457340240478516,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8112270378073262,-1,0,0,0.0019457340240478516,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019559860229492188,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8125124250823077,-1,0,0,0.0019559860229492188,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8126939354676457,-1,0,0,0.0019559860229492188,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8102224675465486,-1,0,0,0.0019559860229492188,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016770362854003906,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.811912134534664,-1,0,0,0.0016770362854003906,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7920233065691601,-1,0,0,0.0016770362854003906,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8143734044335801,-1,0,0,0.0016770362854003906,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016770362854003906,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8206156776978788,-1,0,0,0.0016770362854003906,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8140598822179128,-1,0,0,0.0016770362854003906,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8099279962149961,-1,0,0,0.0016770362854003906,-1,House,XGBClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019648075103759766,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8293391915542665,-1,0,0,0.0019648075103759766,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8186286535685359,-1,0,0,0.0019648075103759766,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8314523309644204,-1,0,0,0.0019648075103759766,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001953125,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8076996389634507,-1,0,0,0.001953125,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7981330828275754,-1,0,0,0.001953125,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8111017745491345,-1,0,0,0.001953125,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019752979278564453,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8224260771632492,-1,0,0,0.0019752979278564453,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8205676486771809,-1,0,0,0.0019752979278564453,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.819868559825732,-1,0,0,0.0019752979278564453,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019538402557373047,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7999245396462785,-1,0,0,0.0019538402557373047,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7760578793224674,-1,0,0,0.0019538402557373047,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7999833256121882,-1,0,0,0.0019538402557373047,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019202232360839844,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8285866067833907,-1,0,0,0.0019202232360839844,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8236346593783298,-1,0,0,0.0019202232360839844,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8239188754070029,-1,0,0,0.0019202232360839844,-1,House,XGBClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019631385803222656,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8301521506455515,-1,0,0,0.0019631385803222656,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8198949486680992,-1,0,0,0.0019631385803222656,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.827440621108625,-1,0,0,0.0019631385803222656,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001638650894165039,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.824379375098238,-1,0,0,0.001638650894165039,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8200332281751583,-1,0,0,0.001638650894165039,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8242724874243903,-1,0,0,0.001638650894165039,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0019979476928710938,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8307841188444347,-1,0,0,0.0019979476928710938,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8198261171155512,-1,0,0,0.0019979476928710938,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8313299426006788,-1,0,0,0.0019979476928710938,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016641616821289062,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8152295525053485,-1,0,0,0.0016641616821289062,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7912304081772705,-1,0,0,0.0016641616821289062,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8179074711114178,-1,0,0,0.0016641616821289062,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001961231231689453,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8293687372373167,-1,0,0,0.001961231231689453,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8298562098593905,-1,0,0,0.001961231231689453,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.820044749785615,-1,0,0,0.001961231231689453,-1,House,XGBClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0020291805267333984,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8265754249687096,-1,0,0,0.0020291805267333984,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8234468622469002,-1,0,0,0.0020291805267333984,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.832208017505643,-1,0,0,0.0020291805267333984,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016252994537353516,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.828219181876263,-1,0,0,0.0016252994537353516,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8131884953093865,-1,0,0,0.0016252994537353516,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8262955917189897,-1,0,0,0.0016252994537353516,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016183853149414062,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8250209182869986,-1,0,0,0.0016183853149414062,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8150290715712538,-1,0,0,0.0016183853149414062,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8283848185859461,-1,0,0,0.0016183853149414062,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016033649444580078,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8230939303488256,-1,0,0,0.0016033649444580078,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7990642607265243,-1,0,0,0.0016033649444580078,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8220637470881427,-1,0,0,0.0016033649444580078,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001972675323486328,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8217088113698128,-1,0,0,0.001972675323486328,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8291726200822938,-1,0,0,0.001972675323486328,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.817539895320986,-1,0,0,0.001972675323486328,-1,House,XGBClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0018744468688964844,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.832877287099534,-1,0,0,0.0018744468688964844,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8308948471672426,-1,0,0,0.0018744468688964844,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8323139779010971,-1,0,0,0.0018744468688964844,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016858577728271484,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8327755092022067,-1,0,0,0.0016858577728271484,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8217047048318106,-1,0,0,0.0016858577728271484,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8320716653688571,-1,0,0,0.0016858577728271484,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001699209213256836,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8266964283136922,-1,0,0,0.001699209213256836,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8133672518786904,-1,0,0,0.001699209213256836,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8249304275543026,-1,0,0,0.001699209213256836,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016846656799316406,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8182069875842285,-1,0,0,0.0016846656799316406,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8022194169083989,-1,0,0,0.0016846656799316406,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8180684652006348,-1,0,0,0.0016846656799316406,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.001706838607788086,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.818765053841536,-1,0,0,0.001706838607788086,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.813475327689557,-1,0,0,0.001706838607788086,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8111444872666818,-1,0,0,0.001706838607788086,-1,House,XGBClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0017228126525878906,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.840274131865855,-1,0,0,0.0017228126525878906,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8354545779557399,-1,0,0,0.0017228126525878906,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.841156331831817,-1,0,0,0.0017228126525878906,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016868114471435547,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8304683139812568,-1,0,0,0.0016868114471435547,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8193901154603064,-1,0,0,0.0016868114471435547,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8299894203884228,-1,0,0,0.0016868114471435547,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0020570755004882812,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8328201484653592,-1,0,0,0.0020570755004882812,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8246437093919523,-1,0,0,0.0020570755004882812,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8280985612385374,-1,0,0,0.0020570755004882812,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.00171661376953125,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8278547096507427,-1,0,0,0.00171661376953125,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8101221010102007,-1,0,0,0.00171661376953125,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8232527212929468,-1,0,0,0.00171661376953125,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0017206668853759766,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8370422661938879,-1,0,0,0.0017206668853759766,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8292915856611753,-1,0,0,0.0017206668853759766,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8324597761196482,-1,0,0,0.0017206668853759766,-1,House,XGBClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

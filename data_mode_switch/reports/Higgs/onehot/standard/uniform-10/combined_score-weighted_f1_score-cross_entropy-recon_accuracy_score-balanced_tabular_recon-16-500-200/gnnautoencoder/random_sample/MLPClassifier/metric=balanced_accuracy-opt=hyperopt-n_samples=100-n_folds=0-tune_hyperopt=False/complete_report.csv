@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.02769017219543457,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.49755201018632705,-1,0,0,0.02769017219543457,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5041097262634073,-1,0,0,0.02769017219543457,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.49555066554597726,-1,0,0,0.02769017219543457,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.023648977279663086,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5129869039490316,-1,0,0,0.023648977279663086,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5101890189279423,-1,0,0,0.023648977279663086,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5170843416210871,-1,0,0,0.023648977279663086,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02227473258972168,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.508985328181668,-1,0,0,0.02227473258972168,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5104248848668079,-1,0,0,0.02227473258972168,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5141168200688783,-1,0,0,0.02227473258972168,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022120952606201172,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5198371137134823,-1,0,0,0.022120952606201172,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5216638110421513,-1,0,0,0.022120952606201172,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5233545118593637,-1,0,0,0.022120952606201172,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022562265396118164,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5283898534997333,-1,0,0,0.022562265396118164,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5219711093400834,-1,0,0,0.022562265396118164,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5331404653334401,-1,0,0,0.022562265396118164,-1,Higgs,MLPClassifier,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.027512073516845703,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5061000317108759,-1,0,0,0.027512073516845703,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5107183790932737,-1,0,0,0.027512073516845703,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5032398158268162,-1,0,0,0.027512073516845703,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022035837173461914,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5076777418380581,-1,0,0,0.022035837173461914,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5067971414885042,-1,0,0,0.022035837173461914,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5101620787239516,-1,0,0,0.022035837173461914,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.023653030395507812,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5072153445241215,-1,0,0,0.023653030395507812,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.511730000451601,-1,0,0,0.023653030395507812,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5121524166738336,-1,0,0,0.023653030395507812,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02170586585998535,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5067590792039978,-1,0,0,0.02170586585998535,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5000724342674794,-1,0,0,0.02170586585998535,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5120376961537237,-1,0,0,0.02170586585998535,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02476191520690918,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5347910041868585,-1,0,0,0.02476191520690918,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5344765405186049,-1,0,0,0.02476191520690918,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5403430180653653,-1,0,0,0.02476191520690918,-1,Higgs,MLPClassifier,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02261519432067871,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5134681951813869,-1,0,0,0.02261519432067871,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5072760815406502,-1,0,0,0.02261519432067871,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5110432599505396,-1,0,0,0.02261519432067871,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021570920944213867,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5208204766345803,-1,0,0,0.021570920944213867,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5207737174635345,-1,0,0,0.021570920944213867,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5208990400801292,-1,0,0,0.021570920944213867,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.0220489501953125,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.498536648405388,-1,0,0,0.0220489501953125,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5017455099938323,-1,0,0,0.0220489501953125,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.505163610680703,-1,0,0,0.0220489501953125,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021213293075561523,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5134135141190274,-1,0,0,0.021213293075561523,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5131247775624169,-1,0,0,0.021213293075561523,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5100502707396855,-1,0,0,0.021213293075561523,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021771907806396484,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5334127563688389,-1,0,0,0.021771907806396484,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5327073650769831,-1,0,0,0.021771907806396484,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5365648839894306,-1,0,0,0.021771907806396484,-1,Higgs,MLPClassifier,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022516965866088867,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5084906424871399,-1,0,0,0.022516965866088867,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5076100046269615,-1,0,0,0.022516965866088867,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5093485351131982,-1,0,0,0.022516965866088867,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.025552034378051758,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5262931886811157,-1,0,0,0.025552034378051758,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5241239043806813,-1,0,0,0.025552034378051758,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5211642478025567,-1,0,0,0.025552034378051758,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02134084701538086,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.50870286033164,-1,0,0,0.02134084701538086,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5113934891018896,-1,0,0,0.02134084701538086,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5065497551280852,-1,0,0,0.02134084701538086,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021468162536621094,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5078422838140195,-1,0,0,0.021468162536621094,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5121415436091212,-1,0,0,0.021468162536621094,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.49977985310282275,-1,0,0,0.021468162536621094,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021946191787719727,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5271683259153588,-1,0,0,0.021946191787719727,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5319919282547486,-1,0,0,0.021946191787719727,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5366510913401665,-1,0,0,0.021946191787719727,-1,Higgs,MLPClassifier,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02395009994506836,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5172217510520168,-1,0,0,0.02395009994506836,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5122035227767736,-1,0,0,0.02395009994506836,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5197698666296039,-1,0,0,0.02395009994506836,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02457904815673828,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.529719252379545,-1,0,0,0.02457904815673828,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5281755292330714,-1,0,0,0.02457904815673828,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5245075421321499,-1,0,0,0.02457904815673828,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02672410011291504,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5225636245131468,-1,0,0,0.02672410011291504,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5251167956178455,-1,0,0,0.02672410011291504,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5196137398674362,-1,0,0,0.02672410011291504,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022030115127563477,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5237749139339144,-1,0,0,0.022030115127563477,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5257088121667008,-1,0,0,0.022030115127563477,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5164552153276707,-1,0,0,0.022030115127563477,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02188587188720703,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5309529221294954,-1,0,0,0.02188587188720703,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5289244650486291,-1,0,0,0.02188587188720703,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5385816388249265,-1,0,0,0.02188587188720703,-1,Higgs,MLPClassifier,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022125720977783203,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.530806403427652,-1,0,0,0.022125720977783203,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.526093350181722,-1,0,0,0.022125720977783203,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5315991773366273,-1,0,0,0.022125720977783203,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022417783737182617,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5326076476454877,-1,0,0,0.022417783737182617,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5316992596750306,-1,0,0,0.022417783737182617,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5293661528013511,-1,0,0,0.022417783737182617,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022289037704467773,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5269947099004841,-1,0,0,0.022289037704467773,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.530207343832814,-1,0,0,0.022289037704467773,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5259362058926128,-1,0,0,0.022289037704467773,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022742033004760742,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.531703603231465,-1,0,0,0.022742033004760742,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5336631949798006,-1,0,0,0.022742033004760742,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5285422390788996,-1,0,0,0.022742033004760742,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02266407012939453,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.531984582381967,-1,0,0,0.02266407012939453,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5297921826726917,-1,0,0,0.02266407012939453,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5427405544978494,-1,0,0,0.02266407012939453,-1,Higgs,MLPClassifier,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02192091941833496,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5409931193679473,-1,0,0,0.02192091941833496,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.53213743689786,-1,0,0,0.02192091941833496,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5381848661075735,-1,0,0,0.02192091941833496,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021361112594604492,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5354141784938924,-1,0,0,0.021361112594604492,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5309622725449895,-1,0,0,0.021361112594604492,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5280507811198518,-1,0,0,0.021361112594604492,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021872758865356445,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5326778529261372,-1,0,0,0.021872758865356445,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5357315792366133,-1,0,0,0.021872758865356445,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5334820853816005,-1,0,0,0.021872758865356445,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02140212059020996,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5356517975136519,-1,0,0,0.02140212059020996,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5333077215856826,-1,0,0,0.02140212059020996,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5289814383534147,-1,0,0,0.02140212059020996,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.0217437744140625,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.537939682059307,-1,0,0,0.0217437744140625,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5358537749552656,-1,0,0,0.0217437744140625,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.548661535805009,-1,0,0,0.0217437744140625,-1,Higgs,MLPClassifier,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021820783615112305,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5328248086539358,-1,0,0,0.021820783615112305,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5270217296494125,-1,0,0,0.021820783615112305,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5305323358633932,-1,0,0,0.021820783615112305,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022610902786254883,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.532384016012004,-1,0,0,0.022610902786254883,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5297682389170097,-1,0,0,0.022610902786254883,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5264013211707815,-1,0,0,0.022610902786254883,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022888898849487305,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5284407533930823,-1,0,0,0.022888898849487305,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5288112401210439,-1,0,0,0.022888898849487305,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.529281336789394,-1,0,0,0.022888898849487305,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022083759307861328,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5350519508513216,-1,0,0,0.022083759307861328,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5358606027755609,-1,0,0,0.022083759307861328,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5328971294566158,-1,0,0,0.022083759307861328,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02190423011779785,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5342821798933706,-1,0,0,0.02190423011779785,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5285965905205141,-1,0,0,0.02190423011779785,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5417861703003117,-1,0,0,0.02190423011779785,-1,Higgs,MLPClassifier,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021571874618530273,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5347198311450294,-1,0,0,0.021571874618530273,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.527326393299296,-1,0,0,0.021571874618530273,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5331377197582499,-1,0,0,0.021571874618530273,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021708011627197266,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5302117853165896,-1,0,0,0.021708011627197266,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5260220569766019,-1,0,0,0.021708011627197266,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5215796830107294,-1,0,0,0.021708011627197266,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022619009017944336,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5350463483148795,-1,0,0,0.022619009017944336,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5361578541585749,-1,0,0,0.022619009017944336,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5365778883692167,-1,0,0,0.022619009017944336,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021548986434936523,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5378306227859078,-1,0,0,0.021548986434936523,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5358455834262974,-1,0,0,0.021548986434936523,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5337641190276597,-1,0,0,0.021548986434936523,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02270197868347168,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.533835133435576,-1,0,0,0.02270197868347168,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5249221378009246,-1,0,0,0.02270197868347168,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5441933904506966,-1,0,0,0.02270197868347168,-1,Higgs,MLPClassifier,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022016048431396484,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5380521246632741,-1,0,0,0.022016048431396484,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.532135924758311,-1,0,0,0.022016048431396484,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5343200423501263,-1,0,0,0.022016048431396484,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.02249312400817871,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5351419833095205,-1,0,0,0.02249312400817871,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.537899384349545,-1,0,0,0.02249312400817871,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5308433093560521,-1,0,0,0.02249312400817871,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021928071975708008,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5379175896731513,-1,0,0,0.021928071975708008,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.532881298232845,-1,0,0,0.021928071975708008,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5394819277707436,-1,0,0,0.021928071975708008,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.021927833557128906,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5378921667743795,-1,0,0,0.021927833557128906,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5369381923813326,-1,0,0,0.021927833557128906,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5374425404911122,-1,0,0,0.021927833557128906,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.022094011306762695,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5438769305468232,-1,0,0,0.022094011306762695,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5465277082781124,-1,0,0,0.022094011306762695,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5485006413886258,-1,0,0,0.022094011306762695,-1,Higgs,MLPClassifier,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot

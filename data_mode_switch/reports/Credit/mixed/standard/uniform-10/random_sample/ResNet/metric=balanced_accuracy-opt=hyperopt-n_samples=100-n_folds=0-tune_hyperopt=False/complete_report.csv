@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.0018711090087890625,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5125199720019348,-1,0,0,0.0018711090087890625,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5049947112575751,-1,0,0,0.0018711090087890625,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.4944178628389155,-1,0,0,0.0018711090087890625,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0013718605041503906,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5476454299295811,-1,0,0,0.0013718605041503906,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5461148427187827,-1,0,0,0.0013718605041503906,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5534290271132376,-1,0,0,0.0013718605041503906,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0014729499816894531,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6075589807885927,-1,0,0,0.0014729499816894531,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6007807736711,-1,0,0,0.0014729499816894531,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6108452950558214,-1,0,0,0.0014729499816894531,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0013794898986816406,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5938877417865279,-1,0,0,0.0013794898986816406,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6095313830538764,-1,0,0,0.0013794898986816406,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5773524720893142,-1,0,0,0.0013794898986816406,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0011417865753173828,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6114217201274819,-1,0,0,0.0011417865753173828,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6246431212617629,-1,0,0,0.0011417865753173828,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6084529505582137,-1,0,0,0.0011417865753173828,-1,Credit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.725,-1,0,0,0.0012738704681396484,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5844123109655679,-1,0,0,0.0012738704681396484,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5955181249212416,-1,0,0,0.0012738704681396484,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5701754385964912,-1,0,0,0.0012738704681396484,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.001455545425415039,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5151672358340165,-1,0,0,0.001455545425415039,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5181745628673002,-1,0,0,0.001455545425415039,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5167464114832536,-1,0,0,0.001455545425415039,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0010564327239990234,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5906340918821684,-1,0,0,0.0010564327239990234,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5983900202512376,-1,0,0,0.0010564327239990234,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5861244019138756,-1,0,0,0.0010564327239990234,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0010704994201660156,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.578842887892298,-1,0,0,0.0010704994201660156,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5875977399058845,-1,0,0,0.0010704994201660156,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5709728867623605,-1,0,0,0.0010704994201660156,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0011019706726074219,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6016771951666806,-1,0,0,0.0011019706726074219,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6027078870360258,-1,0,0,0.0011019706726074219,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6036682615629985,-1,0,0,0.0011019706726074219,-1,Credit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0010788440704345703,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5469739878100282,-1,0,0,0.0010788440704345703,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5572129282067535,-1,0,0,0.0010788440704345703,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5378787878787878,-1,0,0,0.0010788440704345703,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9666666666666667,-1,0,0,0.0010187625885009766,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5747510057238217,-1,0,0,0.0010187625885009766,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5839618090426677,-1,0,0,0.0010187625885009766,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5729665071770336,-1,0,0,0.0010187625885009766,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9833333333333334,-1,0,0,0.001074075698852539,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6031203522261823,-1,0,0,0.001074075698852539,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6206975666693397,-1,0,0,0.001074075698852539,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5996810207336523,-1,0,0,0.001074075698852539,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9833333333333334,-1,0,0,0.0010781288146972656,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6022676971591316,-1,0,0,0.0010781288146972656,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6087231155593402,-1,0,0,0.0010781288146972656,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5905103668261563,-1,0,0,0.0010781288146972656,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9166666666666667,-1,0,0,0.001543283462524414,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6065466666082155,-1,0,0,0.001543283462524414,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6158880568613,-1,0,0,0.001543283462524414,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6048644338118022,-1,0,0,0.001543283462524414,-1,Credit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9875,-1,0,0,0.0011174678802490234,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5819354904702827,-1,0,0,0.0011174678802490234,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5799449741672618,-1,0,0,0.0011174678802490234,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5721690590111643,-1,0,0,0.0011174678802490234,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0015289783477783203,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5844118141314243,-1,0,0,0.0015289783477783203,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5999101359289539,-1,0,0,0.0015289783477783203,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5893141945773525,-1,0,0,0.0015289783477783203,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0010159015655517578,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5837266067835396,-1,0,0,0.0010159015655517578,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5871531927838897,-1,0,0,0.0010159015655517578,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5845295055821371,-1,0,0,0.0010159015655517578,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.001001119613647461,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6253504215053198,-1,0,0,0.001001119613647461,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6362274401086515,-1,0,0,0.001001119613647461,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6216108452950557,-1,0,0,0.001001119613647461,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9624999999999999,-1,0,0,0.0010495185852050781,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6113333713265325,-1,0,0,0.0010495185852050781,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6242657176206132,-1,0,0,0.0010495185852050781,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6008771929824561,-1,0,0,0.0010495185852050781,-1,Credit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9099999999999999,-1,0,0,0.0009808540344238281,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.60578241879319,-1,0,0,0.0009808540344238281,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6122578538779656,-1,0,0,0.0009808540344238281,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.60207336523126,-1,0,0,0.0009808540344238281,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0009677410125732422,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6094561419659728,-1,0,0,0.0009677410125732422,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6142683397167372,-1,0,0,0.0009677410125732422,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6004784688995215,-1,0,0,0.0009677410125732422,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.98,-1,0,0,0.0010025501251220703,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6370672172758,-1,0,0,0.0010025501251220703,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6381956032794021,-1,0,0,0.0010025501251220703,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.634768740031898,-1,0,0,0.0010025501251220703,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.97,-1,0,0,0.0011110305786132812,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6349253068316156,-1,0,0,0.0011110305786132812,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.636615344862919,-1,0,0,0.0011110305786132812,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6160287081339713,-1,0,0,0.0011110305786132812,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8799999999999999,-1,0,0,0.0014369487762451172,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6327079652742159,-1,0,0,0.0014369487762451172,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6417860293191078,-1,0,0,0.0014369487762451172,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.620414673046252,-1,0,0,0.0014369487762451172,-1,Credit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9,-1,0,0,0.0009417533874511719,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6091172134034162,-1,0,0,0.0009417533874511719,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6158431884688869,-1,0,0,0.0009417533874511719,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6120414673046253,-1,0,0,0.0009417533874511719,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0011572837829589844,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5897076715575604,-1,0,0,0.0011572837829589844,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5883573204214192,-1,0,0,0.0011572837829589844,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5769537480063796,-1,0,0,0.0011572837829589844,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0016317367553710938,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6665580937935187,-1,0,0,0.0016317367553710938,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.658931164885296,-1,0,0,0.0016317367553710938,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6539074960127591,-1,0,0,0.0016317367553710938,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0011587142944335938,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6439891105645936,-1,0,0,0.0011587142944335938,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6469726245527481,-1,0,0,0.0011587142944335938,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6236044657097288,-1,0,0,0.0011587142944335938,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9166666666666666,-1,0,0,0.0010924339294433594,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6567219613842968,-1,0,0,0.0010924339294433594,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6657441597900287,-1,0,0,0.0010924339294433594,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6351674641148326,-1,0,0,0.0010924339294433594,-1,Credit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7428571428571429,-1,0,0,0.0009057521820068359,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6077468717714913,-1,0,0,0.0009057521820068359,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6090791987587048,-1,0,0,0.0009057521820068359,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5988835725677831,-1,0,0,0.0009057521820068359,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9214285714285715,-1,0,0,0.0009915828704833984,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5855244303577352,-1,0,0,0.0009915828704833984,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5927222831074639,-1,0,0,0.0009915828704833984,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5817384370015949,-1,0,0,0.0009915828704833984,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9642857142857143,-1,0,0,0.0009393692016601562,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6860443819017934,-1,0,0,0.0009393692016601562,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6832701993684058,-1,0,0,0.0009393692016601562,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.677432216905901,-1,0,0,0.0009393692016601562,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9428571428571428,-1,0,0,0.0008568763732910156,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6532200405358211,-1,0,0,0.0008568763732910156,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.660139429324963,-1,0,0,0.0008568763732910156,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6335725677830941,-1,0,0,0.0008568763732910156,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8214285714285714,-1,0,0,0.0008776187896728516,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.636722151350293,-1,0,0,0.0008776187896728516,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6418003490188142,-1,0,0,0.0008776187896728516,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6267942583732058,-1,0,0,0.0008776187896728516,-1,Credit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8812500000000001,-1,0,0,0.0009121894836425781,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6352726815746135,-1,0,0,0.0009121894836425781,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6381825564418919,-1,0,0,0.0009121894836425781,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6307814992025518,-1,0,0,0.0009121894836425781,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9125,-1,0,0,0.0009074211120605469,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6096276081965943,-1,0,0,0.0009074211120605469,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5987139636801502,-1,0,0,0.0009074211120605469,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6008771929824561,-1,0,0,0.0009074211120605469,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9125,-1,0,0,0.0008718967437744141,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.689637866360383,-1,0,0,0.0008718967437744141,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.682859701310157,-1,0,0,0.0008718967437744141,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6798245614035088,-1,0,0,0.0008718967437744141,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.89375,-1,0,0,0.0008556842803955078,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6572424682135745,-1,0,0,0.0008556842803955078,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6537369324784791,-1,0,0,0.0008556842803955078,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6511164274322169,-1,0,0,0.0008556842803955078,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8625,-1,0,0,0.0010318756103515625,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6669818933180192,-1,0,0,0.0010318756103515625,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6745004970526876,-1,0,0,0.0010318756103515625,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6499202551834131,-1,0,0,0.0010318756103515625,-1,Credit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8666666666666667,-1,0,0,0.0009264945983886719,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6398892936625882,-1,0,0,0.0009264945983886719,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6433666059511399,-1,0,0,0.0009264945983886719,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6379585326953747,-1,0,0,0.0009264945983886719,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8611111111111112,-1,0,0,0.0009984970092773438,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6254419705026646,-1,0,0,0.0009984970092773438,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6190511194186584,-1,0,0,0.0009984970092773438,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6064593301435407,-1,0,0,0.0009984970092773438,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9222222222222223,-1,0,0,0.0008668899536132812,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6997230149649366,-1,0,0,0.0008668899536132812,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6996140681821363,-1,0,0,0.0008668899536132812,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6850079744816586,-1,0,0,0.0008668899536132812,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9555555555555555,-1,0,0,0.0009341239929199219,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.661941043322476,-1,0,0,0.0009341239929199219,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.663319993737518,-1,0,0,0.0009341239929199219,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6523125996810207,-1,0,0,0.0009341239929199219,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8333333333333334,-1,0,0,0.0009160041809082031,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6766431108831519,-1,0,0,0.0009160041809082031,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6812727603671443,-1,0,0,0.0009160041809082031,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6702551834130781,-1,0,0,0.0009160041809082031,-1,Credit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.78,-1,0,0,0.0009555816650390625,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6263816153831541,-1,0,0,0.0009555816650390625,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6294157180661151,-1,0,0,0.0009555816650390625,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6240031897926634,-1,0,0,0.0009555816650390625,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.885,-1,0,0,0.000885009765625,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6513402101023917,-1,0,0,0.000885009765625,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6461815406978595,-1,0,0,0.000885009765625,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6379585326953747,-1,0,0,0.000885009765625,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.91,-1,0,0,0.0008852481842041016,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7041695928736449,-1,0,0,0.0008852481842041016,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7039904866279462,-1,0,0,0.0008852481842041016,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7033492822966507,-1,0,0,0.0008852481842041016,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.845,-1,0,0,0.0010492801666259766,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6426213261672314,-1,0,0,0.0010492801666259766,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6637257185625313,-1,0,0,0.0010492801666259766,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6455342902711324,-1,0,0,0.0010492801666259766,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8200000000000001,-1,0,0,0.0009875297546386719,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6814308238825251,-1,0,0,0.0009875297546386719,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6892453327325424,-1,0,0,0.0009875297546386719,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6690590111642744,-1,0,0,0.0009875297546386719,-1,Credit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.95,-1,0,0,0.014756917953491211,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.48371195366756303,-1,0,0,0.014756917953491211,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.4848572687628857,-1,0,0,0.014756917953491211,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.48705926481620404,-1,0,0,0.014756917953491211,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.011904001235961914,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5288664154711367,-1,0,0,0.011904001235961914,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5296840177967959,-1,0,0,0.011904001235961914,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5249437359339835,-1,0,0,0.011904001235961914,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.01852250099182129,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5212699104759797,-1,0,0,0.01852250099182129,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5135558826397651,-1,0,0,0.01852250099182129,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5200675168792198,-1,0,0,0.01852250099182129,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.014006853103637695,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.48799268603432977,-1,0,0,0.014006853103637695,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.490388934459276,-1,0,0,0.014006853103637695,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.49456114028507125,-1,0,0,0.014006853103637695,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.023496627807617188,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5370851823282635,-1,0,0,0.023496627807617188,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5324042392139959,-1,0,0,0.023496627807617188,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5419167291822955,-1,0,0,0.023496627807617188,-1,Diabetes,ResNet,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.01090693473815918,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.4781455064100456,-1,0,0,0.01090693473815918,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.47444873317372677,-1,0,0,0.01090693473815918,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.47786946736684177,-1,0,0,0.01090693473815918,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.019162416458129883,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5196433431622587,-1,0,0,0.019162416458129883,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5243350968580637,-1,0,0,0.019162416458129883,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5148162040510127,-1,0,0,0.019162416458129883,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.925,-1,0,0,0.019416093826293945,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5193621905522275,-1,0,0,0.019416093826293945,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5099852973935662,-1,0,0,0.019416093826293945,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5155663915978995,-1,0,0,0.019416093826293945,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.02113485336303711,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5141183253248407,-1,0,0,0.02113485336303711,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5215171090183913,-1,0,0,0.02113485336303711,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5174418604651163,-1,0,0,0.02113485336303711,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.020380020141601562,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5366420861314486,-1,0,0,0.020380020141601562,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5314718522061579,-1,0,0,0.020380020141601562,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5396661665416354,-1,0,0,0.020380020141601562,-1,Diabetes,ResNet,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9833333333333334,-1,0,0,0.021954059600830078,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.4864043240487529,-1,0,0,0.021954059600830078,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.48138965664319855,-1,0,0,0.021954059600830078,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.4865903975993998,-1,0,0,0.021954059600830078,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.013860225677490234,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.51881971769741,-1,0,0,0.013860225677490234,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5214263962726754,-1,0,0,0.013860225677490234,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5125656414103525,-1,0,0,0.013860225677490234,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9333333333333333,-1,0,0,0.017313003540039062,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5134121062346311,-1,0,0,0.017313003540039062,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5213416817907347,-1,0,0,0.017313003540039062,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5144411102775694,-1,0,0,0.017313003540039062,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9333333333333333,-1,0,0,0.03437638282775879,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5134140114532991,-1,0,0,0.03437638282775879,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5237721395740043,-1,0,0,0.03437638282775879,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5221305326331583,-1,0,0,0.03437638282775879,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.029824018478393555,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5332261445519173,-1,0,0,0.029824018478393555,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5321275451108134,-1,0,0,0.029824018478393555,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5335708927231808,-1,0,0,0.029824018478393555,-1,Diabetes,ResNet,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.013779163360595703,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5033664244698423,-1,0,0,0.013779163360595703,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5054839610296497,-1,0,0,0.013779163360595703,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5024381095273818,-1,0,0,0.013779163360595703,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.029061317443847656,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5122683991877214,-1,0,0,0.029061317443847656,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5109244742249153,-1,0,0,0.029061317443847656,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5042198049512379,-1,0,0,0.029061317443847656,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9125000000000001,-1,0,0,0.018514633178710938,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5153414805555547,-1,0,0,0.018514633178710938,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.514589131948153,-1,0,0,0.018514633178710938,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5147224306076519,-1,0,0,0.018514633178710938,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.020641565322875977,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5246270882953215,-1,0,0,0.020641565322875977,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5298690844630123,-1,0,0,0.020641565322875977,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5269129782445612,-1,0,0,0.020641565322875977,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9624999999999999,-1,0,0,0.0141754150390625,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5314388677226821,-1,0,0,0.0141754150390625,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5273384152171976,-1,0,0,0.0141754150390625,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5250375093773443,-1,0,0,0.0141754150390625,-1,Diabetes,ResNet,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.023979902267456055,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5252100141355757,-1,0,0,0.023979902267456055,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5302419970496282,-1,0,0,0.023979902267456055,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5210990247561891,-1,0,0,0.023979902267456055,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.97,-1,0,0,0.018862009048461914,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5146598556658026,-1,0,0,0.018862009048461914,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5165507401048349,-1,0,0,0.018862009048461914,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5123780945236309,-1,0,0,0.018862009048461914,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8999999999999999,-1,0,0,0.01598048210144043,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5182554806066169,-1,0,0,0.01598048210144043,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5130869802425283,-1,0,0,0.01598048210144043,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5172543135783946,-1,0,0,0.01598048210144043,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.94,-1,0,0,0.013623476028442383,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5218143079327836,-1,0,0,0.013623476028442383,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5293966288420726,-1,0,0,0.013623476028442383,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5254126031507877,-1,0,0,0.013623476028442383,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9299999999999999,-1,0,0,0.013501644134521484,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.527319542670891,-1,0,0,0.013501644134521484,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.527618117247376,-1,0,0,0.013501644134521484,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5255063765941486,-1,0,0,0.013501644134521484,-1,Diabetes,ResNet,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9583333333333333,-1,0,0,0.02144479751586914,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.517272031605431,-1,0,0,0.02144479751586914,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5176767953946844,-1,0,0,0.02144479751586914,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5109714928732183,-1,0,0,0.02144479751586914,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9666666666666667,-1,0,0,0.010988235473632812,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5184379180143848,-1,0,0,0.010988235473632812,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5184259275285901,-1,0,0,0.010988235473632812,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5071267816954239,-1,0,0,0.010988235473632812,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8916666666666666,-1,0,0,0.03582358360290527,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5175318690263622,-1,0,0,0.03582358360290527,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5141194731716131,-1,0,0,0.03582358360290527,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5144411102775694,-1,0,0,0.03582358360290527,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.925,-1,0,0,0.011999845504760742,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5283249804314902,-1,0,0,0.011999845504760742,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5381200392951361,-1,0,0,0.011999845504760742,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.530570142535634,-1,0,0,0.011999845504760742,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9416666666666667,-1,0,0,0.01119089126586914,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5104199728348608,-1,0,0,0.01119089126586914,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.505671191292477,-1,0,0,0.01119089126586914,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5096586646661665,-1,0,0,0.01119089126586914,-1,Diabetes,ResNet,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9428571428571428,-1,0,0,0.024444580078125,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5186983062446129,-1,0,0,0.024444580078125,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5182417051927586,-1,0,0,0.024444580078125,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5175356339084771,-1,0,0,0.024444580078125,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9571428571428572,-1,0,0,0.01763319969177246,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5272596231803437,-1,0,0,0.01763319969177246,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5265856067280748,-1,0,0,0.01763319969177246,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5220367591897974,-1,0,0,0.01763319969177246,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8857142857142857,-1,0,0,0.023035049438476562,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5278412858743509,-1,0,0,0.023035049438476562,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5285594928557689,-1,0,0,0.023035049438476562,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5291635408852213,-1,0,0,0.023035049438476562,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9285714285714286,-1,0,0,0.044898033142089844,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5295112314393056,-1,0,0,0.044898033142089844,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5370850485553296,-1,0,0,0.044898033142089844,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5333833458364592,-1,0,0,0.044898033142089844,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9357142857142857,-1,0,0,0.016167640686035156,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5103190406655591,-1,0,0,0.016167640686035156,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5133633401316002,-1,0,0,0.016167640686035156,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5097524381095273,-1,0,0,0.016167640686035156,-1,Diabetes,ResNet,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.93125,-1,0,0,0.020107507705688477,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5219947763184605,-1,0,0,0.020107507705688477,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5203005872458548,-1,0,0,0.020107507705688477,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5283195798949738,-1,0,0,0.020107507705688477,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.014216184616088867,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.52460683999637,-1,0,0,0.014216184616088867,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5242421853353041,-1,0,0,0.014216184616088867,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5183795948987246,-1,0,0,0.014216184616088867,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.89375,-1,0,0,0.01142120361328125,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5385930817363749,-1,0,0,0.01142120361328125,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5307125881076347,-1,0,0,0.01142120361328125,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5376969242310577,-1,0,0,0.01142120361328125,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.91875,-1,0,0,0.027354717254638672,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5369064535954102,-1,0,0,0.027354717254638672,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5462747756438265,-1,0,0,0.027354717254638672,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5390097524381096,-1,0,0,0.027354717254638672,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9312499999999999,-1,0,0,0.024986743927001953,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.510500181813911,-1,0,0,0.024986743927001953,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.512330178774294,-1,0,0,0.024986743927001953,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5120967741935484,-1,0,0,0.024986743927001953,-1,Diabetes,ResNet,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9333333333333333,-1,0,0,0.019184350967407227,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5228593765030652,-1,0,0,0.019184350967407227,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5168284368503493,-1,0,0,0.019184350967407227,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5262565641410353,-1,0,0,0.019184350967407227,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9555555555555556,-1,0,0,0.021323442459106445,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5270184050519828,-1,0,0,0.021323442459106445,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5209593936188043,-1,0,0,0.021323442459106445,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5212865716429107,-1,0,0,0.021323442459106445,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8888888888888888,-1,0,0,0.01376652717590332,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5398588487696088,-1,0,0,0.01376652717590332,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5376534236260246,-1,0,0,0.01376652717590332,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5382595648912227,-1,0,0,0.01376652717590332,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9111111111111112,-1,0,0,0.011615514755249023,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5351178094345919,-1,0,0,0.011615514755249023,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5423364493346184,-1,0,0,0.011615514755249023,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5342273068267067,-1,0,0,0.011615514755249023,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9277777777777778,-1,0,0,0.01430201530456543,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5102992551433336,-1,0,0,0.01430201530456543,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5095167468006563,-1,0,0,0.01430201530456543,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5120030007501876,-1,0,0,0.01430201530456543,-1,Diabetes,ResNet,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9299999999999999,-1,0,0,0.013950347900390625,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5244461716704073,-1,0,0,0.013950347900390625,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5205829805791347,-1,0,0,0.013950347900390625,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.527006751687922,-1,0,0,0.013950347900390625,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.955,-1,0,0,0.06943750381469727,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5285858290155295,-1,0,0,0.06943750381469727,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5285554822864411,-1,0,0,0.06943750381469727,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.525787696924231,-1,0,0,0.06943750381469727,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9,-1,0,0,0.056603193283081055,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.532785865397372,-1,0,0,0.056603193283081055,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5313675070427708,-1,0,0,0.056603193283081055,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5289759939984997,-1,0,0,0.056603193283081055,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9099999999999999,-1,0,0,0.04231119155883789,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5385538264784857,-1,0,0,0.04231119155883789,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5436508430709253,-1,0,0,0.04231119155883789,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.538728432108027,-1,0,0,0.04231119155883789,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9299999999999999,-1,0,0,0.04094958305358887,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5147601166877058,-1,0,0,0.04094958305358887,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5116747673131001,-1,0,0,0.04094958305358887,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5139722430607652,-1,0,0,0.04094958305358887,-1,Diabetes,ResNet,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot

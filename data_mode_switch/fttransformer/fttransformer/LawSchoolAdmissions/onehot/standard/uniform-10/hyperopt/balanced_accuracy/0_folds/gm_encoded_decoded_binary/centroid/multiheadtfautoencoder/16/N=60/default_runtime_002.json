@@ -1,0 +1,27 @@
+[
+  {
+    "Operation": "Train -- Default",
+    "Time": 11.79189944267273,
+    "Hostname": "npl32"
+  },
+  {
+    "Operation": "Inference -- Train",
+    "Time": 0.0078125,
+    "Hostname": "npl32"
+  },
+  {
+    "Operation": "Inference -- Train - Original",
+    "Time": 0.18368959426879883,
+    "Hostname": "npl32"
+  },
+  {
+    "Operation": "Inference -- Val",
+    "Time": 0.0617671012878418,
+    "Hostname": "npl32"
+  },
+  {
+    "Operation": "Inference -- Test",
+    "Time": 0.06044292449951172,
+    "Hostname": "npl32"
+  }
+]

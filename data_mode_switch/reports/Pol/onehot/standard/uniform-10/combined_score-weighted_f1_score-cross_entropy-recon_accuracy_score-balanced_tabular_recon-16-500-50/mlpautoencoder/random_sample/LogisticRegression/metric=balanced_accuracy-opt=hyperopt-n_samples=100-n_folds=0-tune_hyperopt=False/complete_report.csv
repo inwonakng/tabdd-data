@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.011850833892822266,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.6577900413155598,-1,0,0,0.011850833892822266,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6649614330337221,-1,0,0,0.011850833892822266,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.6589692101740294,-1,0,0,0.011850833892822266,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.013583183288574219,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7479348012587792,-1,0,0,0.013583183288574219,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7476254223242175,-1,0,0,0.013583183288574219,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.731561165296105,-1,0,0,0.013583183288574219,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.013491392135620117,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7296864079941924,-1,0,0,0.013491392135620117,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7188834703894944,-1,0,0,0.013491392135620117,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7168993434053674,-1,0,0,0.013491392135620117,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.01360630989074707,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7233292205708799,-1,0,0,0.01360630989074707,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7327962644227703,-1,0,0,0.01360630989074707,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7295690699305157,-1,0,0,0.01360630989074707,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009238481521606445,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.6909782782648222,-1,0,0,0.009238481521606445,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6896395104226429,-1,0,0,0.009238481521606445,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.6873685217058711,-1,0,0,0.009238481521606445,-1,Pol,LogisticRegression,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009424209594726562,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.6988423562149291,-1,0,0,0.009424209594726562,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7055204946771212,-1,0,0,0.009424209594726562,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.690531969146427,-1,0,0,0.009424209594726562,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009553909301757812,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8064974804130247,-1,0,0,0.009553909301757812,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8042885829030407,-1,0,0,0.009553909301757812,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7919933703066233,-1,0,0,0.009553909301757812,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009368896484375,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7701898961324573,-1,0,0,0.009368896484375,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.76899662140626,-1,0,0,0.009368896484375,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7670045260406706,-1,0,0,0.009368896484375,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009597301483154297,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7975492241894822,-1,0,0,0.009597301483154297,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8007346847708294,-1,0,0,0.009597301483154297,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8051332313380506,-1,0,0,0.009597301483154297,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009532451629638672,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7262115214068046,-1,0,0,0.009532451629638672,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7318320902658252,-1,0,0,0.009532451629638672,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7223098744183082,-1,0,0,0.009532451629638672,-1,Pol,LogisticRegression,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.01006460189819336,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7320008581883924,-1,0,0,0.01006460189819336,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7289634729393766,-1,0,0,0.01006460189819336,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7340154267865111,-1,0,0,0.01006460189819336,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009943008422851562,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8320396823515988,-1,0,0,0.009943008422851562,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8294606999426276,-1,0,0,0.009943008422851562,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8171734557276726,-1,0,0,0.009943008422851562,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009739875793457031,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8248938575182072,-1,0,0,0.009739875793457031,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8237234652897303,-1,0,0,0.009739875793457031,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8187113533499075,-1,0,0,0.009739875793457031,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009767532348632812,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8551785746877756,-1,0,0,0.009767532348632812,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8423694779116466,-1,0,0,0.009767532348632812,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8471106648817492,-1,0,0,0.009767532348632812,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009808063507080078,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7837190865496733,-1,0,0,0.009808063507080078,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7908538917575062,-1,0,0,0.009808063507080078,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7753235162873717,-1,0,0,0.009808063507080078,-1,Pol,LogisticRegression,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9624999999999999,-1,0,0,0.009687662124633789,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7669385807916771,-1,0,0,0.009687662124633789,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7600242238796455,-1,0,0,0.009687662124633789,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7630601772168037,-1,0,0,0.009687662124633789,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009558916091918945,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8453637563123817,-1,0,0,0.009558916091918945,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8372219034869637,-1,0,0,0.009558916091918945,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8302814432332504,-1,0,0,0.009558916091918945,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.011702775955200195,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8314597995118749,-1,0,0,0.011702775955200195,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8414292088990885,-1,0,0,0.011702775955200195,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8335166061069677,-1,0,0,0.011702775955200195,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9624999999999999,-1,0,0,0.009317636489868164,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8420971974775147,-1,0,0,0.009317636489868164,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8497960094345636,-1,0,0,0.009317636489868164,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8452380952380952,-1,0,0,0.009317636489868164,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.010688543319702148,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8333782643790152,-1,0,0,0.010688543319702148,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8353413654618473,-1,0,0,0.010688543319702148,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.823404730031236,-1,0,0,0.010688543319702148,-1,Pol,LogisticRegression,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.97,-1,0,0,0.010572671890258789,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7892197522025731,-1,0,0,0.010572671890258789,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7816822846943329,-1,0,0,0.010572671890258789,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7813874545802257,-1,0,0,0.010572671890258789,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.010212421417236328,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8665574365304605,-1,0,0,0.010212421417236328,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8596210237776503,-1,0,0,0.010212421417236328,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8500031873525848,-1,0,0,0.010212421417236328,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.99,-1,0,0,0.009750843048095703,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8446401984597242,-1,0,0,0.009750843048095703,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8486804360298337,-1,0,0,0.009750843048095703,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8473815898514694,-1,0,0,0.009750843048095703,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.97,-1,0,0,0.009618043899536133,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8608405978067498,-1,0,0,0.009618043899536133,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8685695161598777,-1,0,0,0.009618043899536133,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8603620832536495,-1,0,0,0.009618043899536133,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009547710418701172,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8406915237514572,-1,0,0,0.009547710418701172,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8450627908459234,-1,0,0,0.009547710418701172,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8335245744884299,-1,0,0,0.009547710418701172,-1,Pol,LogisticRegression,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.009557247161865234,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8181810292155182,-1,0,0,0.009557247161865234,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.804495760821062,-1,0,0,0.009557247161865234,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8101533116593358,-1,0,0,0.009557247161865234,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.009566307067871094,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8759116168392074,-1,0,0,0.009566307067871094,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8685057691081788,-1,0,0,0.009566307067871094,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8621948109899917,-1,0,0,0.009566307067871094,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.009673118591308594,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8472905136403053,-1,0,0,0.009673118591308594,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8509992350353797,-1,0,0,0.009673118591308594,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8523618282654428,-1,0,0,0.009673118591308594,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.012427568435668945,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.863404268966941,-1,0,0,0.012427568435668945,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8702189711225856,-1,0,0,0.012427568435668945,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8619477911646587,-1,0,0,0.012427568435668945,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.008884668350219727,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8631143783587261,-1,0,0,0.008884668350219727,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8637884872824632,-1,0,0,0.008884668350219727,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8515251482118953,-1,0,0,0.008884668350219727,-1,Pol,LogisticRegression,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9785714285714286,-1,0,0,0.009305715560913086,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8408544258915991,-1,0,0,0.009305715560913086,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8362178874227066,-1,0,0,0.009305715560913086,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8342018869127303,-1,0,0,0.009305715560913086,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9928571428571429,-1,0,0,0.009141921997070312,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8824820912317837,-1,0,0,0.009141921997070312,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8745059603493339,-1,0,0,0.009141921997070312,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.875533881557978,-1,0,0,0.009141921997070312,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9642857142857143,-1,0,0,0.009501934051513672,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8609838256771902,-1,0,0,0.009501934051513672,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8584895136099955,-1,0,0,0.009501934051513672,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8594775929113279,-1,0,0,0.009501934051513672,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9785714285714286,-1,0,0,0.009464263916015625,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.86674708592156,-1,0,0,0.009464263916015625,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8735816280997004,-1,0,0,0.009464263916015625,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8689519984700707,-1,0,0,0.009464263916015625,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9857142857142858,-1,0,0,0.010092020034790039,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8734090619279751,-1,0,0,0.010092020034790039,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8776136291196532,-1,0,0,0.010092020034790039,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.861979664690508,-1,0,0,0.010092020034790039,-1,Pol,LogisticRegression,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.010257720947265625,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8438128628993231,-1,0,0,0.010257720947265625,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8306001784917447,-1,0,0,0.010257720947265625,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.835556511761331,-1,0,0,0.010257720947265625,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.99375,-1,0,0,0.010221004486083984,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8820694193598635,-1,0,0,0.010221004486083984,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8741951934723019,-1,0,0,0.010221004486083984,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8785937400395232,-1,0,0,0.010221004486083984,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95625,-1,0,0,0.010304927825927734,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8518426071431664,-1,0,0,0.010304927825927734,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8499075667750366,-1,0,0,0.010304927825927734,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.857206604194556,-1,0,0,0.010304927825927734,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9750000000000001,-1,0,0,0.009166955947875977,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8665344493413774,-1,0,0,0.009166955947875977,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8693026072544145,-1,0,0,0.009166955947875977,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8719959201886913,-1,0,0,0.009166955947875977,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.96875,-1,0,0,0.008901357650756836,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8678649624792572,-1,0,0,0.008901357650756836,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8662268120099446,-1,0,0,0.008901357650756836,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.865613246637343,-1,0,0,0.008901357650756836,-1,Pol,LogisticRegression,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9611111111111111,-1,0,0,0.011167764663696289,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8599417600967518,-1,0,0,0.011167764663696289,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8487362147000701,-1,0,0,0.011167764663696289,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8573580034423408,-1,0,0,0.011167764663696289,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9944444444444445,-1,0,0,0.009651899337768555,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8805710245404401,-1,0,0,0.009651899337768555,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8709520622171225,-1,0,0,0.009651899337768555,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8719720150443042,-1,0,0,0.009651899337768555,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9611111111111111,-1,0,0,0.011647224426269531,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8690729179246783,-1,0,0,0.011647224426269531,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8698603939567795,-1,0,0,0.011647224426269531,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.874466118442022,-1,0,0,0.011647224426269531,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9666666666666667,-1,0,0,0.009091377258300781,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8700285630559734,-1,0,0,0.009091377258300781,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8614139096066806,-1,0,0,0.009091377258300781,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8727369796646905,-1,0,0,0.009091377258300781,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9722222222222222,-1,0,0,0.0092315673828125,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8702142288139517,-1,0,0,0.0092315673828125,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8675894052400077,-1,0,0,0.0092315673828125,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8642825269331293,-1,0,0,0.0092315673828125,-1,Pol,LogisticRegression,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.965,-1,0,0,0.009253501892089844,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8666486129497588,-1,0,0,0.009253501892089844,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8613820360808313,-1,0,0,0.009253501892089844,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8680515713648245,-1,0,0,0.009253501892089844,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.98,-1,0,0,0.00958704948425293,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.874987027786532,-1,0,0,0.00958704948425293,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8666252310830624,-1,0,0,0.00958704948425293,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8702986549372091,-1,0,0,0.00958704948425293,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.955,-1,0,0,0.009406566619873047,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.873625234998786,-1,0,0,0.009406566619873047,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8769522534582775,-1,0,0,0.009406566619873047,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8718365525594441,-1,0,0,0.009406566619873047,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.96,-1,0,0,0.010828495025634766,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8818137961263558,-1,0,0,0.010828495025634766,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8843708165997323,-1,0,0,0.010828495025634766,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8850720341684197,-1,0,0,0.010828495025634766,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.975,-1,0,0,0.010517120361328125,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8759346040282905,-1,0,0,0.010517120361328125,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.87821125772933,-1,0,0,0.010517120361328125,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8689519984700708,-1,0,0,0.010517120361328125,-1,Pol,LogisticRegression,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot

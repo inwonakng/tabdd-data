@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.01100921630859375,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5198609908352642,-1,0,0,0.01100921630859375,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5216006722582804,-1,0,0,0.01100921630859375,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5222078075402251,-1,0,0,0.01100921630859375,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.011537313461303711,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5235831383405304,-1,0,0,0.011537313461303711,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5160696183111156,-1,0,0,0.011537313461303711,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5236687689115405,-1,0,0,0.011537313461303711,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.01085209846496582,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.517021031760794,-1,0,0,0.01085209846496582,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.521811564702262,-1,0,0,0.01085209846496582,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5143265040984388,-1,0,0,0.01085209846496582,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.011595487594604492,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5351484722504585,-1,0,0,0.011595487594604492,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5313353442748412,-1,0,0,0.011595487594604492,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5335958968937082,-1,0,0,0.011595487594604492,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.012055397033691406,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5325465142739952,-1,0,0,0.012055397033691406,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5312370459272219,-1,0,0,0.012055397033691406,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5320069694571086,-1,0,0,0.012055397033691406,-1,Higgs,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.012626409530639648,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5072211429981264,-1,0,0,0.012626409530639648,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5103208719304635,-1,0,0,0.012626409530639648,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5079268651489968,-1,0,0,0.012626409530639648,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.012475967407226562,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5249736497202245,-1,0,0,0.012475967407226562,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5278648726865702,-1,0,0,0.012475967407226562,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5213516333092885,-1,0,0,0.012475967407226562,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.011942386627197266,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5197327671644193,-1,0,0,0.011942386627197266,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.527488721016042,-1,0,0,0.011942386627197266,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.513950026376073,-1,0,0,0.011942386627197266,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.011235237121582031,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5492002955753914,-1,0,0,0.011235237121582031,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5476645403572604,-1,0,0,0.011235237121582031,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5489432726321288,-1,0,0,0.011235237121582031,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.01100611686706543,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5106487563071066,-1,0,0,0.01100611686706543,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5121693929522274,-1,0,0,0.01100611686706543,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5141316053623013,-1,0,0,0.01100611686706543,-1,Higgs,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.011350393295288086,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5358516725695499,-1,0,0,0.011350393295288086,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5319217111734793,-1,0,0,0.011350393295288086,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.536775755294749,-1,0,0,0.011350393295288086,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8500000000000001,-1,0,0,0.011226177215576172,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5751323364002878,-1,0,0,0.011226177215576172,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5750467900505745,-1,0,0,0.011226177215576172,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5729401934324505,-1,0,0,0.011226177215576172,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9666666666666667,-1,0,0,0.011335134506225586,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5250763597646869,-1,0,0,0.011335134506225586,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5313633884334721,-1,0,0,0.011335134506225586,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.525043912506978,-1,0,0,0.011335134506225586,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.010646581649780273,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5510311902578917,-1,0,0,0.010646581649780273,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5509326635538485,-1,0,0,0.010646581649780273,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.551770881156739,-1,0,0,0.010646581649780273,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8500000000000001,-1,0,0,0.010683298110961914,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5400928953104478,-1,0,0,0.010683298110961914,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5482190688330004,-1,0,0,0.010683298110961914,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5471764764460444,-1,0,0,0.010683298110961914,-1,Higgs,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7875000000000001,-1,0,0,0.012982845306396484,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.527165621551041,-1,0,0,0.012982845306396484,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5241785640507617,-1,0,0,0.012982845306396484,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5282548997942971,-1,0,0,0.012982845306396484,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7875000000000001,-1,0,0,0.020855188369750977,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5582295601998074,-1,0,0,0.020855188369750977,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5537407159733998,-1,0,0,0.020855188369750977,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5610775833506539,-1,0,0,0.020855188369750977,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.011151790618896484,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5229706447604245,-1,0,0,0.011151790618896484,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5276566056137076,-1,0,0,0.011151790618896484,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5243228279958734,-1,0,0,0.011151790618896484,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.825,-1,0,0,0.011059999465942383,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.552112230609747,-1,0,0,0.011059999465942383,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5516727213476367,-1,0,0,0.011059999465942383,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.551064340773669,-1,0,0,0.011059999465942383,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.012657880783081055,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5556058148182644,-1,0,0,0.012657880783081055,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5633985007962018,-1,0,0,0.012657880783081055,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5599288569524902,-1,0,0,0.012657880783081055,-1,Higgs,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.73,-1,0,0,0.012661933898925781,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5571848965083861,-1,0,0,0.012661933898925781,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5572399645977517,-1,0,0,0.012661933898925781,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5568617526460852,-1,0,0,0.012661933898925781,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.76,-1,0,0,0.012108325958251953,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5805237620450956,-1,0,0,0.012108325958251953,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5796195835393276,-1,0,0,0.012108325958251953,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5790810248178477,-1,0,0,0.012108325958251953,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.77,-1,0,0,0.01234745979309082,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.52167462597419,-1,0,0,0.01234745979309082,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5228324444364787,-1,0,0,0.01234745979309082,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5241552366021682,-1,0,0,0.01234745979309082,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.74,-1,0,0,0.012818574905395508,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5666568288120195,-1,0,0,0.012818574905395508,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5736409362856383,-1,0,0,0.012818574905395508,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5634356243130032,-1,0,0,0.012818574905395508,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.75,-1,0,0,0.011769533157348633,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5687694744686387,-1,0,0,0.011769533157348633,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5736153876211099,-1,0,0,0.011769533157348633,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5703987740190524,-1,0,0,0.011769533157348633,-1,Higgs,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6916666666666667,-1,0,0,0.011172056198120117,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5870596368446868,-1,0,0,0.011172056198120117,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5902062302301669,-1,0,0,0.011172056198120117,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5827732483619861,-1,0,0,0.011172056198120117,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.01203608512878418,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5863262553257065,-1,0,0,0.01203608512878418,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5834578761152122,-1,0,0,0.01203608512878418,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5786500622689033,-1,0,0,0.01203608512878418,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7166666666666666,-1,0,0,0.012182235717773438,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5367260758898349,-1,0,0,0.012182235717773438,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5438157648507596,-1,0,0,0.012182235717773438,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5361120866972504,-1,0,0,0.012182235717773438,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.011521339416503906,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5699711220575123,-1,0,0,0.011521339416503906,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5771178553400846,-1,0,0,0.011521339416503906,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5660767377877001,-1,0,0,0.011521339416503906,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7666666666666667,-1,0,0,0.011522769927978516,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5670613431882499,-1,0,0,0.011522769927978516,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5692603143966335,-1,0,0,0.011522769927978516,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5672892802578525,-1,0,0,0.011522769927978516,-1,Higgs,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6571428571428571,-1,0,0,0.011489629745483398,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5862630735547805,-1,0,0,0.011489629745483398,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5872212203756555,-1,0,0,0.011489629745483398,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5845481699665389,-1,0,0,0.011489629745483398,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7428571428571429,-1,0,0,0.011268854141235352,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5929631704409642,-1,0,0,0.011268854141235352,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.588110590353752,-1,0,0,0.011268854141235352,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5883730901278095,-1,0,0,0.011268854141235352,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7142857142857142,-1,0,0,0.011206626892089844,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5444620993559444,-1,0,0,0.011206626892089844,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5494597097560386,-1,0,0,0.011206626892089844,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5452498618122326,-1,0,0,0.011206626892089844,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7214285714285714,-1,0,0,0.0133819580078125,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5683132517436373,-1,0,0,0.0133819580078125,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.572623665277094,-1,0,0,0.0133819580078125,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5648189860828278,-1,0,0,0.0133819580078125,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7357142857142858,-1,0,0,0.011976242065429688,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5827967382979298,-1,0,0,0.011976242065429688,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5877870574287594,-1,0,0,0.011976242065429688,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5838352665274537,-1,0,0,0.011976242065429688,-1,Higgs,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.64375,-1,0,0,0.011282920837402344,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5829558004114014,-1,0,0,0.011282920837402344,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5851130009825011,-1,0,0,0.011282920837402344,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5766499849475695,-1,0,0,0.011282920837402344,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.73125,-1,0,0,0.011297941207885742,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5921408217677949,-1,0,0,0.011297941207885742,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5914515096180796,-1,0,0,0.011297941207885742,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5892445505341294,-1,0,0,0.011297941207885742,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.69375,-1,0,0,0.011101484298706055,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.547585457409817,-1,0,0,0.011101484298706055,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.548442633563019,-1,0,0,0.011101484298706055,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5467366464312828,-1,0,0,0.011101484298706055,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7125,-1,0,0,0.010942697525024414,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5848992718725041,-1,0,0,0.010942697525024414,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5866795775553368,-1,0,0,0.010942697525024414,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5783201851200361,-1,0,0,0.010942697525024414,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.69375,-1,0,0,0.011245965957641602,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5843030206644511,-1,0,0,0.011245965957641602,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5886364902242869,-1,0,0,0.011245965957641602,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5798130730785296,-1,0,0,0.011245965957641602,-1,Higgs,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6277777777777778,-1,0,0,0.010948896408081055,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5858516630282424,-1,0,0,0.010948896408081055,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5885667091587157,-1,0,0,0.010948896408081055,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5807642850236516,-1,0,0,0.010948896408081055,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7166666666666666,-1,0,0,0.010797262191772461,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5916750696620224,-1,0,0,0.010797262191772461,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5884419251766634,-1,0,0,0.010797262191772461,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5906888529424663,-1,0,0,0.010797262191772461,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7055555555555555,-1,0,0,0.010660171508789062,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5565307495840901,-1,0,0,0.010660171508789062,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5637618688575361,-1,0,0,0.010660171508789062,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5578695828039135,-1,0,0,0.010660171508789062,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6944444444444444,-1,0,0,0.010504007339477539,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5912073117519387,-1,0,0,0.010504007339477539,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5910893104498935,-1,0,0,0.010504007339477539,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5829171127917164,-1,0,0,0.010504007339477539,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6611111111111111,-1,0,0,0.012552499771118164,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5821421028075804,-1,0,0,0.012552499771118164,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5877320545122782,-1,0,0,0.012552499771118164,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5805459190401112,-1,0,0,0.012552499771118164,-1,Higgs,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.65,-1,0,0,0.010817527770996094,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5857828834063378,-1,0,0,0.010817527770996094,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5882873529731873,-1,0,0,0.010817527770996094,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5805603147586762,-1,0,0,0.010817527770996094,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6699999999999999,-1,0,0,0.0118255615234375,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5984776495606665,-1,0,0,0.0118255615234375,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5961312382760481,-1,0,0,0.0118255615234375,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5995077703117095,-1,0,0,0.0118255615234375,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6950000000000001,-1,0,0,0.011113405227661133,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.561237860735152,-1,0,0,0.011113405227661133,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5697918639173855,-1,0,0,0.011113405227661133,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.556760908411396,-1,0,0,0.011113405227661133,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.73,-1,0,0,0.011249065399169922,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5943082643455064,-1,0,0,0.011249065399169922,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5945017177348662,-1,0,0,0.011249065399169922,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5882789428704425,-1,0,0,0.011249065399169922,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.665,-1,0,0,0.011474847793579102,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5905275515286741,-1,0,0,0.011474847793579102,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5949648591756498,-1,0,0,0.011474847793579102,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5877297165252979,-1,0,0,0.011474847793579102,-1,Higgs,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.006655693054199219,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5738595153992353,-1,0,0,0.006655693054199219,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5590544954735768,-1,0,0,0.006655693054199219,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5754259838125662,-1,0,0,0.006655693054199219,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.006303071975708008,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5613269117843485,-1,0,0,0.006303071975708008,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5652019804741161,-1,0,0,0.006303071975708008,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5635813540945918,-1,0,0,0.006303071975708008,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.006277322769165039,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5803007714580151,-1,0,0,0.006277322769165039,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5748002421116436,-1,0,0,0.006277322769165039,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5834560816727341,-1,0,0,0.006277322769165039,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0060443878173828125,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5788843486030462,-1,0,0,0.0060443878173828125,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5677382534111304,-1,0,0,0.0060443878173828125,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5799237267778156,-1,0,0,0.0060443878173828125,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.006694316864013672,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5613838589110675,-1,0,0,0.006694316864013672,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5572750118993236,-1,0,0,0.006694316864013672,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5702226079638448,-1,0,0,0.006694316864013672,-1,CardioDisease,MLPClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.006212711334228516,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5745917022626122,-1,0,0,0.006212711334228516,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5648020891870768,-1,0,0,0.006212711334228516,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.571936730972538,-1,0,0,0.006212711334228516,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.006880521774291992,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.584662926362613,-1,0,0,0.006880521774291992,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5817248158013004,-1,0,0,0.006880521774291992,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5862951574297113,-1,0,0,0.006880521774291992,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0062160491943359375,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5674471015003713,-1,0,0,0.0062160491943359375,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5671645389380807,-1,0,0,0.0062160491943359375,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5699169207891985,-1,0,0,0.0062160491943359375,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.006847858428955078,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.582956482574275,-1,0,0,0.006847858428955078,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5819378226735747,-1,0,0,0.006847858428955078,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5858410076215534,-1,0,0,0.006847858428955078,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.006669759750366211,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5309122731449587,-1,0,0,0.006669759750366211,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.528703465154873,-1,0,0,0.006669759750366211,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5314591123131795,-1,0,0,0.006669759750366211,-1,CardioDisease,MLPClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9166666666666667,-1,0,0,0.00620722770690918,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5917203175961208,-1,0,0,0.00620722770690918,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5819490879833756,-1,0,0,0.00620722770690918,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5844207078380542,-1,0,0,0.00620722770690918,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.006189584732055664,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5881925570067894,-1,0,0,0.006189584732055664,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5879899607042048,-1,0,0,0.006189584732055664,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5892268046454873,-1,0,0,0.006189584732055664,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9166666666666667,-1,0,0,0.007055759429931641,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.570058014599006,-1,0,0,0.007055759429931641,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5742484051967581,-1,0,0,0.007055759429931641,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5740540105754592,-1,0,0,0.007055759429931641,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.006120443344116211,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5852435721446126,-1,0,0,0.006120443344116211,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5829870202950815,-1,0,0,0.006120443344116211,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5929827242392569,-1,0,0,0.006120443344116211,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9833333333333334,-1,0,0,0.00618433952331543,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5924517089573254,-1,0,0,0.00618433952331543,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5953930651623613,-1,0,0,0.00618433952331543,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.598434807652182,-1,0,0,0.00618433952331543,-1,CardioDisease,MLPClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9125000000000001,-1,0,0,0.007463216781616211,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6104460430659886,-1,0,0,0.007463216781616211,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6018674074124868,-1,0,0,0.007463216781616211,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6069092049771554,-1,0,0,0.007463216781616211,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.011833429336547852,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6038975524813817,-1,0,0,0.011833429336547852,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6040766598345555,-1,0,0,0.011833429336547852,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6067421300926683,-1,0,0,0.011833429336547852,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.0063860416412353516,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5941598270486649,-1,0,0,0.0063860416412353516,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5971946439819246,-1,0,0,0.0063860416412353516,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5973828345195651,-1,0,0,0.0063860416412353516,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.007302761077880859,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6077516688781766,-1,0,0,0.007302761077880859,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6146210986517873,-1,0,0,0.007302761077880859,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6123346217147063,-1,0,0,0.007302761077880859,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9625,-1,0,0,0.00901341438293457,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6057948043379109,-1,0,0,0.00901341438293457,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6047231362361261,-1,0,0,0.00901341438293457,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6079580760679433,-1,0,0,0.00901341438293457,-1,CardioDisease,MLPClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.92,-1,0,0,0.006873607635498047,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6192597448287257,-1,0,0,0.006873607635498047,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6050259934778754,-1,0,0,0.006873607635498047,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6164514121746107,-1,0,0,0.006873607635498047,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.89,-1,0,0,0.006156444549560547,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6239333034318921,-1,0,0,0.006156444549560547,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6215938356224769,-1,0,0,0.006156444549560547,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6253051293513348,-1,0,0,0.006156444549560547,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8999999999999999,-1,0,0,0.0068607330322265625,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5884801331245814,-1,0,0,0.0068607330322265625,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5911862066458362,-1,0,0,0.0068607330322265625,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5975706985264866,-1,0,0,0.0068607330322265625,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.91,-1,0,0,0.007126808166503906,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6148686936200851,-1,0,0,0.007126808166503906,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.623057509569799,-1,0,0,0.007126808166503906,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6194331274339464,-1,0,0,0.007126808166503906,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.006884336471557617,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6041314092954053,-1,0,0,0.006884336471557617,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6029989451969344,-1,0,0,0.006884336471557617,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.607951001235701,-1,0,0,0.006884336471557617,-1,CardioDisease,MLPClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.008103132247924805,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6289278659038231,-1,0,0,0.008103132247924805,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6165632489458228,-1,0,0,0.008103132247924805,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6275099191869123,-1,0,0,0.008103132247924805,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.006335020065307617,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6381350955108647,-1,0,0,0.006335020065307617,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6398571341030098,-1,0,0,0.006335020065307617,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6409021956687442,-1,0,0,0.006335020065307617,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8666666666666667,-1,0,0,0.007390022277832031,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5996987837271576,-1,0,0,0.007390022277832031,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6034490133711063,-1,0,0,0.007390022277832031,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6039252584245742,-1,0,0,0.007390022277832031,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.007199525833129883,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6103668551979049,-1,0,0,0.007199525833129883,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6121702134977567,-1,0,0,0.007199525833129883,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6184515760930316,-1,0,0,0.007199525833129883,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8916666666666666,-1,0,0,0.009460210800170898,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6165594980856094,-1,0,0,0.009460210800170898,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6192823246636162,-1,0,0,0.009460210800170898,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6191843110261697,-1,0,0,0.009460210800170898,-1,CardioDisease,MLPClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8571428571428572,-1,0,0,0.009402036666870117,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6311601657826527,-1,0,0,0.009402036666870117,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.621237372921047,-1,0,0,0.009402036666870117,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6288486951342678,-1,0,0,0.009402036666870117,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.0064737796783447266,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6434055514639718,-1,0,0,0.0064737796783447266,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.641958576966066,-1,0,0,0.0064737796783447266,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6491936269475789,-1,0,0,0.0064737796783447266,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8999999999999999,-1,0,0,0.006507158279418945,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6117063684030535,-1,0,0,0.006507158279418945,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6144700781943112,-1,0,0,0.006507158279418945,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6183715216451228,-1,0,0,0.006507158279418945,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8642857142857143,-1,0,0,0.007437944412231445,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6109607288066039,-1,0,0,0.007437944412231445,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6196953860229832,-1,0,0,0.007437944412231445,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6192205559359638,-1,0,0,0.007437944412231445,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8857142857142857,-1,0,0,0.0075490474700927734,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6271049081192908,-1,0,0,0.0075490474700927734,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6283463276232907,-1,0,0,0.0075490474700927734,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6313911177331542,-1,0,0,0.0075490474700927734,-1,CardioDisease,MLPClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.84375,-1,0,0,0.006331443786621094,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6267673486424881,-1,0,0,0.006331443786621094,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6136125541047796,-1,0,0,0.006331443786621094,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6241781629969512,-1,0,0,0.006331443786621094,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8625,-1,0,0,0.006378650665283203,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6398093901826118,-1,0,0,0.006378650665283203,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6387152561791313,-1,0,0,0.006378650665283203,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6451876392449434,-1,0,0,0.006378650665283203,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.89375,-1,0,0,0.006464719772338867,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6328720281486153,-1,0,0,0.006464719772338867,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6300882601648741,-1,0,0,0.006464719772338867,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6342767785393563,-1,0,0,0.006464719772338867,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85625,-1,0,0,0.0063323974609375,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6254762527816025,-1,0,0,0.0063323974609375,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6307274440470565,-1,0,0,0.0063323974609375,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6299674982206798,-1,0,0,0.0063323974609375,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8812500000000001,-1,0,0,0.007516384124755859,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.640144967151383,-1,0,0,0.007516384124755859,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6400593654615615,-1,0,0,0.007516384124755859,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6436747135808589,-1,0,0,0.007516384124755859,-1,CardioDisease,MLPClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8333333333333333,-1,0,0,0.007291316986083984,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6322784794046779,-1,0,0,0.007291316986083984,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.622469971962984,-1,0,0,0.007291316986083984,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6307522603816904,-1,0,0,0.007291316986083984,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8222222222222222,-1,0,0,0.007245540618896484,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6418247636994117,-1,0,0,0.007245540618896484,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.64204581508979,-1,0,0,0.007245540618896484,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6434709584122857,-1,0,0,0.007245540618896484,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8777777777777778,-1,0,0,0.00639653205871582,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6414728768536397,-1,0,0,0.00639653205871582,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6352381938192742,-1,0,0,0.00639653205871582,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6420977334740898,-1,0,0,0.00639653205871582,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8611111111111112,-1,0,0,0.009438753128051758,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.639378373777816,-1,0,0,0.009438753128051758,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6416108217504725,-1,0,0,0.009438753128051758,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6381795281130431,-1,0,0,0.009438753128051758,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8777777777777778,-1,0,0,0.007257699966430664,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6379199892244858,-1,0,0,0.007257699966430664,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6452957753346749,-1,0,0,0.007257699966430664,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.644244727372428,-1,0,0,0.007257699966430664,-1,CardioDisease,MLPClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.815,-1,0,0,0.007199287414550781,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6393011642528312,-1,0,0,0.007199287414550781,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6289492121738924,-1,0,0,0.007199287414550781,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6371345753908817,-1,0,0,0.007199287414550781,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.825,-1,0,0,0.0072252750396728516,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.647239513750755,-1,0,0,0.0072252750396728516,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.650052457159986,-1,0,0,0.0072252750396728516,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6522379816831505,-1,0,0,0.0072252750396728516,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.007219552993774414,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.649471380476569,-1,0,0,0.007219552993774414,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6467632588070504,-1,0,0,0.007219552993774414,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6507632601131734,-1,0,0,0.007219552993774414,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.865,-1,0,0,0.007165670394897461,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6417457465935743,-1,0,0,0.007165670394897461,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6485645655176813,-1,0,0,0.007165670394897461,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6462752586477034,-1,0,0,0.007165670394897461,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.87,-1,0,0,0.006253242492675781,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6408218520365125,-1,0,0,0.006253242492675781,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.645375720939011,-1,0,0,0.006253242492675781,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6475642930822181,-1,0,0,0.006253242492675781,-1,CardioDisease,MLPClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

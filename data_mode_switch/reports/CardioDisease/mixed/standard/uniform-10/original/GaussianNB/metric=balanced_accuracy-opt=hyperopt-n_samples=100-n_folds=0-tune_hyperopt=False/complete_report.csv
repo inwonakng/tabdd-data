@@ -1,0 +1,5 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.5980011237821788,-1,0,0,-1,-1,CardioDisease,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.5980011237821788,-1,0,0,-1,-1,CardioDisease,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.5971263446398949,-1,0,0,-1,-1,CardioDisease,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.6021671626124068,-1,0,0,-1,-1,CardioDisease,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

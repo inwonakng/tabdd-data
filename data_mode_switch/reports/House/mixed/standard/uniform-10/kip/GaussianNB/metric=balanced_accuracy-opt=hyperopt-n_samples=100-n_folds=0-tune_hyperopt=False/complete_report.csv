@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.75,-1,0,0,4.358699798583984,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.5366079503131418,-1,0,0,4.358699798583984,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.5317087443193422,-1,0,0,4.358699798583984,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.5303206903689393,-1,0,0,4.358699798583984,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.85,-1,0,0,1.9859495162963867,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6122435971005007,-1,0,0,1.9859495162963867,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6232489561232755,-1,0,0,1.9859495162963867,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.614323052710779,-1,0,0,1.9859495162963867,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.8,-1,0,0,1.9894869327545166,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6994005886533974,-1,0,0,1.9894869327545166,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6964904537827972,-1,0,0,1.9894869327545166,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6834991736731952,-1,0,0,1.9894869327545166,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.8500000000000001,-1,0,0,1.9958548545837402,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.5296593471419089,-1,0,0,1.9958548545837402,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.5360646515253689,-1,0,0,1.9958548545837402,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.5265455432564833,-1,0,0,1.9958548545837402,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.8,-1,0,0,2.3957743644714355,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.47677862134748805,-1,0,0,2.3957743644714355,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.48454043329770535,-1,0,0,2.3957743644714355,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.474162912875913,-1,0,0,2.3957743644714355,-1,House,GaussianNB,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7,-1,0,0,3.0775034427642822,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6821411175403683,-1,0,0,3.0775034427642822,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6718462923627386,-1,0,0,3.0775034427642822,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6814247319776974,-1,0,0,3.0775034427642822,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.65,-1,0,0,2.959160089492798,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.5887233089610378,-1,0,0,2.959160089492798,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.5909104544649487,-1,0,0,2.959160089492798,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.5836117873958055,-1,0,0,2.959160089492798,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.725,-1,0,0,3.0261967182159424,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6919888012427752,-1,0,0,3.0261967182159424,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6880586913293202,-1,0,0,3.0261967182159424,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6805302291044457,-1,0,0,3.0261967182159424,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.6000000000000001,-1,0,0,2.9853010177612305,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6123841183312531,-1,0,0,2.9853010177612305,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6017959076662733,-1,0,0,2.9853010177612305,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6041894604726655,-1,0,0,2.9853010177612305,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.725,-1,0,0,2.994020938873291,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6435735394220823,-1,0,0,2.994020938873291,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6684195083824503,-1,0,0,2.994020938873291,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6317428595835839,-1,0,0,2.994020938873291,-1,House,GaussianNB,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.75,-1,0,0,4.7649877071380615,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6812700953331273,-1,0,0,4.7649877071380615,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6836559375740967,-1,0,0,4.7649877071380615,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6780294816318887,-1,0,0,4.7649877071380615,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.65,-1,0,0,4.565572738647461,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6476503908756138,-1,0,0,4.565572738647461,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6513192851216593,-1,0,0,4.565572738647461,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6482418788338771,-1,0,0,4.565572738647461,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.75,-1,0,0,4.909644603729248,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7303244665027894,-1,0,0,4.909644603729248,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7367248591213313,-1,0,0,4.909644603729248,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7188669465992463,-1,0,0,4.909644603729248,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7333333333333334,-1,0,0,4.5065906047821045,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6987717995398232,-1,0,0,4.5065906047821045,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6856438339051489,-1,0,0,4.5065906047821045,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6957334923560663,-1,0,0,4.5065906047821045,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.6833333333333333,-1,0,0,4.509754657745361,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6898183727245273,-1,0,0,4.509754657745361,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7121575424793414,-1,0,0,4.509754657745361,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6793979313902332,-1,0,0,4.509754657745361,-1,House,GaussianNB,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7375,-1,0,0,8.215103149414062,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7754981933267622,-1,0,0,8.215103149414062,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.772040376794192,-1,0,0,8.215103149414062,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7683019887698408,-1,0,0,8.215103149414062,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7250000000000001,-1,0,0,8.054296016693115,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6975032690336129,-1,0,0,8.054296016693115,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7029830156603083,-1,0,0,8.054296016693115,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6974867672715445,-1,0,0,8.054296016693115,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.6875,-1,0,0,7.432612180709839,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7814877692852701,-1,0,0,7.432612180709839,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7896881704655521,-1,0,0,7.432612180709839,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7766408254725505,-1,0,0,7.432612180709839,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.65,-1,0,0,7.653737545013428,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7319715345644777,-1,0,0,7.653737545013428,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7197799691552458,-1,0,0,7.653737545013428,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7267334792136917,-1,0,0,7.653737545013428,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.75,-1,0,0,7.51698899269104,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7168216648418843,-1,0,0,7.51698899269104,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7274671180372776,-1,0,0,7.51698899269104,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7101691587894559,-1,0,0,7.51698899269104,-1,House,GaussianNB,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.75,-1,0,0,10.834697246551514,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6536827571337118,-1,0,0,10.834697246551514,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6468302350915993,-1,0,0,10.834697246551514,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6502719650149987,-1,0,0,10.834697246551514,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.78,-1,0,0,8.388753414154053,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7149374389028387,-1,0,0,8.388753414154053,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7039328910854715,-1,0,0,8.388753414154053,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7075953068580196,-1,0,0,8.388753414154053,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.76,-1,0,0,6.549826383590698,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7690190099301983,-1,0,0,6.549826383590698,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7756303018273852,-1,0,0,6.549826383590698,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7671142466626583,-1,0,0,6.549826383590698,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.69,-1,0,0,5.874414443969727,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6753672791597449,-1,0,0,5.874414443969727,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6645528188678175,-1,0,0,5.874414443969727,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6686680039032853,-1,0,0,5.874414443969727,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.8,-1,0,0,5.985502481460571,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7543776900886894,-1,0,0,5.985502481460571,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7606340639340334,-1,0,0,5.985502481460571,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7449566137357528,-1,0,0,5.985502481460571,-1,House,GaussianNB,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7166666666666667,-1,0,0,9.396063089370728,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6942371881022515,-1,0,0,9.396063089370728,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6907778458559501,-1,0,0,9.396063089370728,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6941178016749956,-1,0,0,9.396063089370728,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7250000000000001,-1,0,0,10.477602243423462,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7395762462292699,-1,0,0,10.477602243423462,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7449343059334442,-1,0,0,10.477602243423462,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7250627548388581,-1,0,0,10.477602243423462,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.75,-1,0,0,11.071518182754517,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7656545377235451,-1,0,0,11.071518182754517,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.765806087339227,-1,0,0,11.071518182754517,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.756262341511176,-1,0,0,11.071518182754517,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7,-1,0,0,13.3964262008667,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6696288226401891,-1,0,0,13.3964262008667,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.655175495802919,-1,0,0,13.3964262008667,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.664641098176824,-1,0,0,13.3964262008667,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7333333333333334,-1,0,0,12.819701910018921,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7678836519679283,-1,0,0,12.819701910018921,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7695591534253252,-1,0,0,12.819701910018921,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7525496206782123,-1,0,0,12.819701910018921,-1,House,GaussianNB,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7428571428571429,-1,0,0,16.034693717956543,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7107019727894069,-1,0,0,16.034693717956543,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7043785497048051,-1,0,0,16.034693717956543,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7082339441251944,-1,0,0,16.034693717956543,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7357142857142858,-1,0,0,17.303162097930908,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7341270015714492,-1,0,0,17.303162097930908,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.734419926713916,-1,0,0,17.303162097930908,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7310659451502994,-1,0,0,17.303162097930908,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.6785714285714286,-1,0,0,15.82658338546753,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6188484251179285,-1,0,0,15.82658338546753,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6163008731950209,-1,0,0,15.82658338546753,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6189729891345418,-1,0,0,15.82658338546753,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7,-1,0,0,16.1738338470459,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7563894096121615,-1,0,0,16.1738338470459,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7543122454003057,-1,0,0,16.1738338470459,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7483613101633269,-1,0,0,16.1738338470459,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7285714285714286,-1,0,0,15.207905530929565,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7700855789011523,-1,0,0,15.207905530929565,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.781399002332876,-1,0,0,15.207905530929565,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7577256627863805,-1,0,0,15.207905530929565,-1,House,GaussianNB,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.75,-1,0,0,18.84400963783264,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7381040089926041,-1,0,0,18.84400963783264,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7413347239361621,-1,0,0,18.84400963783264,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7392602157320796,-1,0,0,18.84400963783264,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.73125,-1,0,0,20.07882857322693,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.747670848336745,-1,0,0,20.07882857322693,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7510175769074456,-1,0,0,20.07882857322693,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7412488212932753,-1,0,0,20.07882857322693,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.675,-1,0,0,19.552153825759888,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6911756346147638,-1,0,0,19.552153825759888,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6844849982144889,-1,0,0,19.552153825759888,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6838343042262591,-1,0,0,19.552153825759888,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.675,-1,0,0,19.46463394165039,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7366215269884437,-1,0,0,19.46463394165039,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7218167667087052,-1,0,0,19.46463394165039,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7300708209712872,-1,0,0,19.46463394165039,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.75,-1,0,0,19.450894117355347,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7635193527148361,-1,0,0,19.450894117355347,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7731194911642888,-1,0,0,19.450894117355347,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7519109834110376,-1,0,0,19.450894117355347,-1,House,GaussianNB,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7444444444444445,-1,0,0,23.957804441452026,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7333894066123126,-1,0,0,23.957804441452026,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7249737720964694,-1,0,0,23.957804441452026,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7292108168314392,-1,0,0,23.957804441452026,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.711111111111111,-1,0,0,22.697908878326416,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7309478596614771,-1,0,0,22.697908878326416,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7274356815371585,-1,0,0,22.697908878326416,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7257494439132735,-1,0,0,22.697908878326416,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.6666666666666666,-1,0,0,23.764361143112183,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7129429166271954,-1,0,0,23.764361143112183,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7089382804933024,-1,0,0,23.764361143112183,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7054580281838224,-1,0,0,23.764361143112183,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.6666666666666667,-1,0,0,23.24264931678772,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7610637876014805,-1,0,0,23.24264931678772,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7616708520359963,-1,0,0,23.24264931678772,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7514949451141579,-1,0,0,23.24264931678772,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7166666666666667,-1,0,0,23.54770827293396,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7731140680147284,-1,0,0,23.54770827293396,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7805167256563346,-1,0,0,23.54770827293396,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7580681859251739,-1,0,0,23.54770827293396,-1,House,GaussianNB,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.725,-1,0,0,27.584712505340576,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7074763709531824,-1,0,0,27.584712505340576,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6999371680932263,-1,0,0,27.584712505340576,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7007210235281363,-1,0,0,27.584712505340576,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.705,-1,0,0,28.470760107040405,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.76213412996746,-1,0,0,28.470760107040405,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7631563807671081,-1,0,0,28.470760107040405,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.748368292049849,-1,0,0,28.470760107040405,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.7,-1,0,0,27.969194650650024,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7373027285589233,-1,0,0,27.969194650650024,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7314422942974188,-1,0,0,27.969194650650024,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7289602903150556,-1,0,0,27.969194650650024,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.6799999999999999,-1,0,0,28.361194133758545,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7708601342645645,-1,0,0,28.361194133758545,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7636702545370266,-1,0,0,28.361194133758545,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7639941647856643,-1,0,0,28.361194133758545,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.69,-1,0,0,27.675859451293945,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7747114687643926,-1,0,0,27.675859451293945,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7806369240391424,-1,0,0,27.675859451293945,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7660505357160459,-1,0,0,27.675859451293945,-1,House,GaussianNB,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed

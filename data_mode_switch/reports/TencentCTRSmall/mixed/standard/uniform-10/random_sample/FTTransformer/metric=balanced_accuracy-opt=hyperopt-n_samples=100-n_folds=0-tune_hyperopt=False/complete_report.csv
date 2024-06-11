@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.0038084983825683594,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.532509992458112,-1,0,0,0.0038084983825683594,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5115266037331685,-1,0,0,0.0038084983825683594,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5337514877315546,-1,0,0,0.0038084983825683594,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0062253475189208984,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.47920165464560516,-1,0,0,0.0062253475189208984,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.4979346030219297,-1,0,0,0.0062253475189208984,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.4804294005559496,-1,0,0,0.0062253475189208984,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.007967948913574219,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5451225365465956,-1,0,0,0.007967948913574219,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5385895791976169,-1,0,0,0.007967948913574219,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.529783441920351,-1,0,0,0.007967948913574219,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.007645368576049805,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5113529311858845,-1,0,0,0.007645368576049805,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.4987635860836656,-1,0,0,0.007645368576049805,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5037583228521527,-1,0,0,0.007645368576049805,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.006765604019165039,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5410474915748036,-1,0,0,0.006765604019165039,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5381669330828882,-1,0,0,0.006765604019165039,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.528574678659919,-1,0,0,0.006765604019165039,-1,TencentCTRSmall,FTTransformer,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.006020784378051758,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5385331149480116,-1,0,0,0.006020784378051758,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5355002847143121,-1,0,0,0.006020784378051758,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5513905695205281,-1,0,0,0.006020784378051758,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0045623779296875,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5287747415629912,-1,0,0,0.0045623779296875,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5329738554096812,-1,0,0,0.0045623779296875,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5471520993158918,-1,0,0,0.0045623779296875,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0049610137939453125,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5095192568362867,-1,0,0,0.0049610137939453125,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5132245472067865,-1,0,0,0.0049610137939453125,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5103433853319107,-1,0,0,0.0049610137939453125,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.008753061294555664,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5563901413700798,-1,0,0,0.008753061294555664,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5238466882544357,-1,0,0,0.008753061294555664,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5527758736138515,-1,0,0,0.008753061294555664,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.003502368927001953,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5615651736061575,-1,0,0,0.003502368927001953,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5378137998232644,-1,0,0,0.003502368927001953,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5465044517696802,-1,0,0,0.003502368927001953,-1,TencentCTRSmall,FTTransformer,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.004075527191162109,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5263127972484721,-1,0,0,0.004075527191162109,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5258030922579784,-1,0,0,0.004075527191162109,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5512589338404039,-1,0,0,0.004075527191162109,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.010181427001953125,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5364771865881478,-1,0,0,0.010181427001953125,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5430769870284438,-1,0,0,0.010181427001953125,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5230988330621141,-1,0,0,0.010181427001953125,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.008493900299072266,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5285378578280433,-1,0,0,0.008493900299072266,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5132139064693099,-1,0,0,0.008493900299072266,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5227267759888572,-1,0,0,0.008493900299072266,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0042858123779296875,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5545066830353986,-1,0,0,0.0042858123779296875,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5392201672007919,-1,0,0,0.0042858123779296875,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5602262544135208,-1,0,0,0.0042858123779296875,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.011187553405761719,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5656833406503265,-1,0,0,0.011187553405761719,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.548801405452473,-1,0,0,0.011187553405761719,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5657285264950336,-1,0,0,0.011187553405761719,-1,TencentCTRSmall,FTTransformer,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0061643123626708984,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.507592932129785,-1,0,0,0.0061643123626708984,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5057303851927077,-1,0,0,0.0061643123626708984,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5219193773682004,-1,0,0,0.0061643123626708984,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.003655672073364258,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5446023959543935,-1,0,0,0.003655672073364258,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5466174686699894,-1,0,0,0.003655672073364258,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5410579137383937,-1,0,0,0.003655672073364258,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0036771297454833984,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5452609618691476,-1,0,0,0.0036771297454833984,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5415498920313208,-1,0,0,0.0036771297454833984,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5487940184746951,-1,0,0,0.0036771297454833984,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9875,-1,0,0,0.003406047821044922,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5816054444346893,-1,0,0,0.003406047821044922,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5549260946086865,-1,0,0,0.003406047821044922,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.581058271390053,-1,0,0,0.003406047821044922,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.004288673400878906,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5455179043995162,-1,0,0,0.004288673400878906,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5295016932695048,-1,0,0,0.004288673400878906,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5441070928284881,-1,0,0,0.004288673400878906,-1,TencentCTRSmall,FTTransformer,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.003442525863647461,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5316519846755734,-1,0,0,0.003442525863647461,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5188521050859344,-1,0,0,0.003442525863647461,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.554043351355003,-1,0,0,0.003442525863647461,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.003851175308227539,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5602459596435483,-1,0,0,0.003851175308227539,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.563825728984991,-1,0,0,0.003851175308227539,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5561376998627015,-1,0,0,0.003851175308227539,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0035576820373535156,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5511519510966111,-1,0,0,0.0035576820373535156,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5446336175305255,-1,0,0,0.0035576820373535156,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5462884699065933,-1,0,0,0.0035576820373535156,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.98,-1,0,0,0.0027277469635009766,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5831355656953814,-1,0,0,0.0027277469635009766,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5526860702006247,-1,0,0,0.0027277469635009766,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5780675087376287,-1,0,0,0.0027277469635009766,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.003136873245239258,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5406615481138131,-1,0,0,0.003136873245239258,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5227373665109538,-1,0,0,0.003136873245239258,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5189946809250461,-1,0,0,0.003136873245239258,-1,TencentCTRSmall,FTTransformer,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0025644302368164062,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5440895017333118,-1,0,0,0.0025644302368164062,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5316929890666919,-1,0,0,0.0025644302368164062,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5628876794964265,-1,0,0,0.0025644302368164062,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9833333333333334,-1,0,0,0.002650737762451172,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5341158604425085,-1,0,0,0.002650737762451172,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5414586004705394,-1,0,0,0.002650737762451172,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.539272735220542,-1,0,0,0.002650737762451172,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0026383399963378906,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5439371772590957,-1,0,0,0.0026383399963378906,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5379589911944417,-1,0,0,0.0026383399963378906,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5397007250393913,-1,0,0,0.0026383399963378906,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9833333333333334,-1,0,0,0.0035364627838134766,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5720080893427971,-1,0,0,0.0035364627838134766,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5543784446901427,-1,0,0,0.0035364627838134766,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.568522779430261,-1,0,0,0.0035364627838134766,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0031096935272216797,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5394340119327778,-1,0,0,0.0031096935272216797,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5330427715879182,-1,0,0,0.0031096935272216797,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.528378168942722,-1,0,0,0.0031096935272216797,-1,TencentCTRSmall,FTTransformer,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0026526451110839844,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5462645500237318,-1,0,0,0.0026526451110839844,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5428801831081972,-1,0,0,0.0026526451110839844,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5628329389230313,-1,0,0,0.0026526451110839844,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.002927064895629883,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5402195605701925,-1,0,0,0.002927064895629883,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5418599651103146,-1,0,0,0.002927064895629883,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5467583844477163,-1,0,0,0.002927064895629883,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9785714285714286,-1,0,0,0.0031735897064208984,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5406286997244991,-1,0,0,0.0031735897064208984,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5299457203053315,-1,0,0,0.0031735897064208984,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5379488279953824,-1,0,0,0.0031735897064208984,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9928571428571429,-1,0,0,0.0026209354400634766,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5743161384511117,-1,0,0,0.0026209354400634766,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.553362701768769,-1,0,0,0.0026209354400634766,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5658268807013151,-1,0,0,0.0026209354400634766,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0024499893188476562,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5514839006455032,-1,0,0,0.0024499893188476562,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5292673981527282,-1,0,0,0.0024499893188476562,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5476937428842222,-1,0,0,0.0024499893188476562,-1,TencentCTRSmall,FTTransformer,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.99375,-1,0,0,0.004764080047607422,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5533053835578661,-1,0,0,0.004764080047607422,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.544616811132081,-1,0,0,0.004764080047607422,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5631406186976313,-1,0,0,0.004764080047607422,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9625,-1,0,0,0.003225088119506836,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5510786380942725,-1,0,0,0.003225088119506836,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.556936398422625,-1,0,0,0.003225088119506836,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5453878831591769,-1,0,0,0.003225088119506836,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9875,-1,0,0,0.006899595260620117,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5546694136090375,-1,0,0,0.006899595260620117,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5384281781048628,-1,0,0,0.006899595260620117,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5600438520673259,-1,0,0,0.006899595260620117,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0038907527923583984,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5606425283758669,-1,0,0,0.0038907527923583984,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5468041290834824,-1,0,0,0.0038907527923583984,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5466765219568315,-1,0,0,0.0038907527923583984,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.003397703170776367,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5407351122506264,-1,0,0,0.003397703170776367,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5190925658636788,-1,0,0,0.003397703170776367,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5365215991797856,-1,0,0,0.003397703170776367,-1,TencentCTRSmall,FTTransformer,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9888888888888889,-1,0,0,0.003017902374267578,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5532835257263891,-1,0,0,0.003017902374267578,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5358025015478792,-1,0,0,0.003017902374267578,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5534289852826342,-1,0,0,0.003017902374267578,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9944444444444445,-1,0,0,0.003473043441772461,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5517381765843568,-1,0,0,0.003473043441772461,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5640802116691299,-1,0,0,0.003473043441772461,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5452189920978854,-1,0,0,0.003473043441772461,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9944444444444445,-1,0,0,0.0026586055755615234,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5501326784525506,-1,0,0,0.0026586055755615234,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5353529055279527,-1,0,0,0.0026586055755615234,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5468582288692445,-1,0,0,0.0026586055755615234,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9777777777777779,-1,0,0,0.0028464794158935547,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5785677994499625,-1,0,0,0.0028464794158935547,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5647220370866496,-1,0,0,0.0028464794158935547,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5631729066946429,-1,0,0,0.0028464794158935547,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9944444444444445,-1,0,0,0.0042455196380615234,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5518159643464294,-1,0,0,0.0042455196380615234,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.527640061441806,-1,0,0,0.0042455196380615234,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5467226192817958,-1,0,0,0.0042455196380615234,-1,TencentCTRSmall,FTTransformer,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.98,-1,0,0,0.0025415420532226562,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5580851666591387,-1,0,0,0.0025415420532226562,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5513032715593772,-1,0,0,0.0025415420532226562,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5537909088922137,-1,0,0,0.0025415420532226562,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.995,-1,0,0,0.0027697086334228516,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5660599830035841,-1,0,0,0.0027697086334228516,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5621131669281105,-1,0,0,0.0027697086334228516,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5619017530892163,-1,0,0,0.0027697086334228516,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.97,-1,0,0,0.002619504928588867,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5629050445208457,-1,0,0,0.002619504928588867,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5537361220418999,-1,0,0,0.002619504928588867,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5688154577047109,-1,0,0,0.002619504928588867,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.98,-1,0,0,0.002772808074951172,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5736244684464875,-1,0,0,0.002772808074951172,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.548045216968615,-1,0,0,0.002772808074951172,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5586713638251243,-1,0,0,0.002772808074951172,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.985,-1,0,0,0.0024874210357666016,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5606924173808217,-1,0,0,0.0024874210357666016,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5349621816256541,-1,0,0,0.0024874210357666016,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5581763143201738,-1,0,0,0.0024874210357666016,-1,TencentCTRSmall,FTTransformer,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

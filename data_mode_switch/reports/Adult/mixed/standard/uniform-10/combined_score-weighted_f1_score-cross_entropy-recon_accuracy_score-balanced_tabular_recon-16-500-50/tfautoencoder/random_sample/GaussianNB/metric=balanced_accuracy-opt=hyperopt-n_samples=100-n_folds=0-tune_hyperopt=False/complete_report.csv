@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.95,-1,0,0,0.006702423095703125,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7250158230816759,-1,0,0,0.006702423095703125,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7272810323672658,-1,0,0,0.006702423095703125,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.728488770391257,-1,0,0,0.006702423095703125,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.010233163833618164,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7720541385797215,-1,0,0,0.010233163833618164,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7694343469435238,-1,0,0,0.010233163833618164,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7726237823682647,-1,0,0,0.010233163833618164,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.006596088409423828,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7237211827406467,-1,0,0,0.006596088409423828,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7217840601162664,-1,0,0,0.006596088409423828,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7195045307536765,-1,0,0,0.006596088409423828,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.008751392364501953,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7306525474226222,-1,0,0,0.008751392364501953,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7259202624011601,-1,0,0,0.008751392364501953,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7310690515474932,-1,0,0,0.008751392364501953,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.007826805114746094,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5992913532270552,-1,0,0,0.007826805114746094,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6038634750773046,-1,0,0,0.007826805114746094,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5996210607025405,-1,0,0,0.007826805114746094,-1,Adult,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.009020805358886719,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7293490125611215,-1,0,0,0.009020805358886719,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7272157780530344,-1,0,0,0.009020805358886719,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7343314377669445,-1,0,0,0.009020805358886719,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.016645431518554688,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6620877040795436,-1,0,0,0.016645431518554688,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.673763896481989,-1,0,0,0.016645431518554688,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6657863775892104,-1,0,0,0.016645431518554688,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.010033845901489258,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7164843823406231,-1,0,0,0.010033845901489258,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7118122284844755,-1,0,0,0.010033845901489258,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7189607911886557,-1,0,0,0.010033845901489258,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.825,-1,0,0,0.010401248931884766,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6308869858327983,-1,0,0,0.010401248931884766,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6282441758093505,-1,0,0,0.010401248931884766,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6315775038168205,-1,0,0,0.010401248931884766,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.010513067245483398,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6762652571692795,-1,0,0,0.010513067245483398,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.677648293883731,-1,0,0,0.010513067245483398,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.674724972987002,-1,0,0,0.010513067245483398,-1,Adult,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9,-1,0,0,0.010103464126586914,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7269506198030856,-1,0,0,0.010103464126586914,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7247640071328338,-1,0,0,0.010103464126586914,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7271952269634239,-1,0,0,0.010103464126586914,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8166666666666667,-1,0,0,0.009315967559814453,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5857312984024059,-1,0,0,0.009315967559814453,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5889855426123979,-1,0,0,0.009315967559814453,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5956750342997017,-1,0,0,0.009315967559814453,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.010110616683959961,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6361561585086359,-1,0,0,0.010110616683959961,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6382649353818514,-1,0,0,0.010110616683959961,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6559731218879277,-1,0,0,0.010110616683959961,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8166666666666667,-1,0,0,0.02795720100402832,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6457987586755531,-1,0,0,0.02795720100402832,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6455508482600232,-1,0,0,0.02795720100402832,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6531706065014181,-1,0,0,0.02795720100402832,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8666666666666667,-1,0,0,0.011596918106079102,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6993833401932763,-1,0,0,0.011596918106079102,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6966674954391072,-1,0,0,0.011596918106079102,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7028515982954844,-1,0,0,0.011596918106079102,-1,Adult,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.009340763092041016,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7269822241375168,-1,0,0,0.009340763092041016,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7241962178292392,-1,0,0,0.009340763092041016,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7244186551078258,-1,0,0,0.009340763092041016,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.775,-1,0,0,0.006649971008300781,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5807263717075423,-1,0,0,0.006649971008300781,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5865913490282839,-1,0,0,0.006649971008300781,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5896818228057862,-1,0,0,0.006649971008300781,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7625,-1,0,0,0.0075032711029052734,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6013388976889418,-1,0,0,0.0075032711029052734,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5992148089113134,-1,0,0,0.0075032711029052734,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.608668547291219,-1,0,0,0.0075032711029052734,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8875,-1,0,0,0.005492448806762695,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7276781821779019,-1,0,0,0.005492448806762695,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7245806297148801,-1,0,0,0.005492448806762695,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7282310237143317,-1,0,0,0.005492448806762695,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.006375789642333984,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6899415352947168,-1,0,0,0.006375789642333984,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6873127393106012,-1,0,0,0.006375789642333984,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.694753890557394,-1,0,0,0.006375789642333984,-1,Adult,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.75,-1,0,0,0.0055654048919677734,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.664638805296846,-1,0,0,0.0055654048919677734,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6659262647744724,-1,0,0,0.0055654048919677734,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6621590421341363,-1,0,0,0.0055654048919677734,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.84,-1,0,0,0.006214618682861328,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6412476828187963,-1,0,0,0.006214618682861328,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6474899505797092,-1,0,0,0.006214618682861328,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6515623122675955,-1,0,0,0.006214618682861328,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.72,-1,0,0,0.006088972091674805,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5996061088045986,-1,0,0,0.006088972091674805,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.597423104572009,-1,0,0,0.006088972091674805,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6086776556709079,-1,0,0,0.006088972091674805,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.011185169219970703,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5974568683670377,-1,0,0,0.011185169219970703,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5903139669105865,-1,0,0,0.011185169219970703,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5985896646294598,-1,0,0,0.011185169219970703,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.81,-1,0,0,0.0069310665130615234,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6879303913934919,-1,0,0,0.0069310665130615234,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6859348240933054,-1,0,0,0.0069310665130615234,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6919822310863473,-1,0,0,0.0069310665130615234,-1,Adult,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7583333333333333,-1,0,0,0.0062732696533203125,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6571564738328989,-1,0,0,0.0062732696533203125,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6608162634018286,-1,0,0,0.0062732696533203125,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6573487430743054,-1,0,0,0.0062732696533203125,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8166666666666667,-1,0,0,0.006446361541748047,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6547613239911776,-1,0,0,0.006446361541748047,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6600665808960549,-1,0,0,0.006446361541748047,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6652545096201887,-1,0,0,0.006446361541748047,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7083333333333334,-1,0,0,0.005413532257080078,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6090669082629921,-1,0,0,0.005413532257080078,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.606831394828112,-1,0,0,0.005413532257080078,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6178125417680613,-1,0,0,0.005413532257080078,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.675,-1,0,0,0.007344961166381836,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5972143710748258,-1,0,0,0.007344961166381836,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5910959950842773,-1,0,0,0.007344961166381836,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6001930976494035,-1,0,0,0.007344961166381836,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8083333333333333,-1,0,0,0.0065004825592041016,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.69942237033608,-1,0,0,0.0065004825592041016,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6979422832499903,-1,0,0,0.0065004825592041016,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7053702699621398,-1,0,0,0.0065004825592041016,-1,Adult,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7357142857142858,-1,0,0,0.007086277008056641,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6532984232922079,-1,0,0,0.007086277008056641,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6519462828532441,-1,0,0,0.007086277008056641,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6504220761743004,-1,0,0,0.007086277008056641,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8357142857142857,-1,0,0,0.006309032440185547,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6610091312627623,-1,0,0,0.006309032440185547,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6658018465486711,-1,0,0,0.006309032440185547,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6715105336875982,-1,0,0,0.006309032440185547,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6857142857142857,-1,0,0,0.00938725471496582,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6009010992865922,-1,0,0,0.00938725471496582,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5987715401932285,-1,0,0,0.00938725471496582,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6094548358434595,-1,0,0,0.00938725471496582,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7142857142857143,-1,0,0,0.0061914920806884766,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6331462034323327,-1,0,0,0.0061914920806884766,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6278550553771142,-1,0,0,0.0061914920806884766,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.634036049943395,-1,0,0,0.0061914920806884766,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7571428571428571,-1,0,0,0.006280183792114258,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6684577763460068,-1,0,0,0.006280183792114258,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6706372680029999,-1,0,0,0.006280183792114258,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6677381293762439,-1,0,0,0.006280183792114258,-1,Adult,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7125,-1,0,0,0.005903720855712891,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6453794848451658,-1,0,0,0.005903720855712891,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6458267076746955,-1,0,0,0.005903720855712891,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6421926039547561,-1,0,0,0.005903720855712891,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7125,-1,0,0,0.010519027709960938,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5913402323604997,-1,0,0,0.010519027709960938,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.596488458072798,-1,0,0,0.010519027709960938,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5957836696372265,-1,0,0,0.010519027709960938,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.69375,-1,0,0,0.006219387054443359,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.614902007434757,-1,0,0,0.006219387054443359,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6120700623544637,-1,0,0,0.006219387054443359,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6189415714840989,-1,0,0,0.006219387054443359,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.725,-1,0,0,0.006544589996337891,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6414803526646112,-1,0,0,0.006544589996337891,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6361278693857363,-1,0,0,0.006544589996337891,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6423804514931705,-1,0,0,0.006544589996337891,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7625,-1,0,0,0.006213188171386719,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6716640336066144,-1,0,0,0.006213188171386719,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6724503655214014,-1,0,0,0.006213188171386719,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6721910012892963,-1,0,0,0.006213188171386719,-1,Adult,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7166666666666667,-1,0,0,0.007544755935668945,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6661073106011856,-1,0,0,0.007544755935668945,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6656532714316408,-1,0,0,0.007544755935668945,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6635137345154987,-1,0,0,0.007544755935668945,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7277777777777779,-1,0,0,0.008787393569946289,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6002367361808808,-1,0,0,0.008787393569946289,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6038520619697959,-1,0,0,0.008787393569946289,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6089264474801617,-1,0,0,0.008787393569946289,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7388888888888889,-1,0,0,0.006079196929931641,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6665035268265882,-1,0,0,0.006079196929931641,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6681439902209629,-1,0,0,0.006079196929931641,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6692000243163035,-1,0,0,0.006079196929931641,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7444444444444445,-1,0,0,0.0072977542877197266,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6502294024901311,-1,0,0,0.0072977542877197266,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6444006833943585,-1,0,0,0.0072977542877197266,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6498923062028474,-1,0,0,0.0072977542877197266,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7666666666666666,-1,0,0,0.007884025573730469,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6694841593595773,-1,0,0,0.007884025573730469,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6685603383356864,-1,0,0,0.007884025573730469,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6671032036729899,-1,0,0,0.007884025573730469,-1,Adult,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.72,-1,0,0,0.008739233016967773,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6703141109421786,-1,0,0,0.008739233016967773,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6703025517558836,-1,0,0,0.008739233016967773,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6679666064285511,-1,0,0,0.008739233016967773,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.71,-1,0,0,0.007842779159545898,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6032817288530179,-1,0,0,0.007842779159545898,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6066909061280608,-1,0,0,0.007842779159545898,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6130688669237072,-1,0,0,0.007842779159545898,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.745,-1,0,0,0.006510257720947266,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6545614498990484,-1,0,0,0.006510257720947266,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6526481633751026,-1,0,0,0.006510257720947266,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.659339793937749,-1,0,0,0.006510257720947266,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.75,-1,0,0,0.0059583187103271484,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6823129718043748,-1,0,0,0.0059583187103271484,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6776567897395447,-1,0,0,0.0059583187103271484,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6804744585682323,-1,0,0,0.0059583187103271484,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.76,-1,0,0,0.011294364929199219,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6662893909524928,-1,0,0,0.011294364929199219,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6665128882644491,-1,0,0,0.011294364929199219,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6640533292560542,-1,0,0,0.011294364929199219,-1,Adult,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

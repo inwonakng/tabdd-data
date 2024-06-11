@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.0013768672943115234,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6478571428571429,-1,0,0,0.0013768672943115234,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6259999999999999,-1,0,0,0.0013768672943115234,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6293333333333333,-1,0,0,0.0013768672943115234,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0016143321990966797,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6227142857142857,-1,0,0,0.0016143321990966797,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6146666666666667,-1,0,0,0.0016143321990966797,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.606,-1,0,0,0.0016143321990966797,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0012693405151367188,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5558571428571428,-1,0,0,0.0012693405151367188,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.546,-1,0,0,0.0012693405151367188,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5486666666666666,-1,0,0,0.0012693405151367188,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0013120174407958984,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6295714285714287,-1,0,0,0.0013120174407958984,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.634,-1,0,0,0.0013120174407958984,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.614,-1,0,0,0.0013120174407958984,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0012922286987304688,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5522857142857143,-1,0,0,0.0012922286987304688,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5446666666666666,-1,0,0,0.0012922286987304688,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.542,-1,0,0,0.0012922286987304688,-1,HomeEquityCredit,ResNet,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0008325576782226562,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5960000000000001,-1,0,0,0.0008325576782226562,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5840000000000001,-1,0,0,0.0008325576782226562,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5893333333333334,-1,0,0,0.0008325576782226562,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0009360313415527344,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6241428571428571,-1,0,0,0.0009360313415527344,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.59,-1,0,0,0.0009360313415527344,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6146666666666667,-1,0,0,0.0009360313415527344,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0007808208465576172,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6128571428571429,-1,0,0,0.0007808208465576172,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.604,-1,0,0,0.0007808208465576172,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6246666666666667,-1,0,0,0.0007808208465576172,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.00078582763671875,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6202857142857143,-1,0,0,0.00078582763671875,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.614,-1,0,0,0.00078582763671875,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.604,-1,0,0,0.00078582763671875,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0006492137908935547,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5431428571428571,-1,0,0,0.0006492137908935547,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5313333333333333,-1,0,0,0.0006492137908935547,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.536,-1,0,0,0.0006492137908935547,-1,HomeEquityCredit,ResNet,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0006532669067382812,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6501428571428571,-1,0,0,0.0006532669067382812,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.608,-1,0,0,0.0006532669067382812,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6273333333333333,-1,0,0,0.0006532669067382812,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9666666666666667,-1,0,0,0.0007486343383789062,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.619,-1,0,0,0.0007486343383789062,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5993333333333333,-1,0,0,0.0007486343383789062,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.608,-1,0,0,0.0007486343383789062,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0007040500640869141,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5952857142857143,-1,0,0,0.0007040500640869141,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5960000000000001,-1,0,0,0.0007040500640869141,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6133333333333333,-1,0,0,0.0007040500640869141,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0005998611450195312,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6185714285714285,-1,0,0,0.0005998611450195312,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6193333333333333,-1,0,0,0.0005998611450195312,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6113333333333333,-1,0,0,0.0005998611450195312,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9666666666666667,-1,0,0,0.0007369518280029297,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5705714285714285,-1,0,0,0.0007369518280029297,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5760000000000001,-1,0,0,0.0007369518280029297,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5633333333333334,-1,0,0,0.0007369518280029297,-1,HomeEquityCredit,ResNet,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9875,-1,0,0,0.0008490085601806641,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6211428571428571,-1,0,0,0.0008490085601806641,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6073333333333333,-1,0,0,0.0008490085601806641,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6193333333333333,-1,0,0,0.0008490085601806641,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0006377696990966797,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6288571428571429,-1,0,0,0.0006377696990966797,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6066666666666667,-1,0,0,0.0006377696990966797,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6246666666666667,-1,0,0,0.0006377696990966797,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9875,-1,0,0,0.0006148815155029297,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5998571428571429,-1,0,0,0.0006148815155029297,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5933333333333333,-1,0,0,0.0006148815155029297,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6153333333333333,-1,0,0,0.0006148815155029297,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0011508464813232422,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6572857142857143,-1,0,0,0.0011508464813232422,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6573333333333333,-1,0,0,0.0011508464813232422,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6406666666666667,-1,0,0,0.0011508464813232422,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0008265972137451172,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6022857142857143,-1,0,0,0.0008265972137451172,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5926666666666667,-1,0,0,0.0008265972137451172,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6033333333333333,-1,0,0,0.0008265972137451172,-1,HomeEquityCredit,ResNet,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.99,-1,0,0,0.0010051727294921875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6232857142857143,-1,0,0,0.0010051727294921875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5900000000000001,-1,0,0,0.0010051727294921875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6206666666666667,-1,0,0,0.0010051727294921875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.98,-1,0,0,0.0006570816040039062,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6471428571428571,-1,0,0,0.0006570816040039062,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.624,-1,0,0,0.0006570816040039062,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6606666666666667,-1,0,0,0.0006570816040039062,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.99,-1,0,0,0.0010051727294921875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6231428571428571,-1,0,0,0.0010051727294921875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6053333333333333,-1,0,0,0.0010051727294921875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6233333333333333,-1,0,0,0.0010051727294921875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0006926059722900391,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6592857142857143,-1,0,0,0.0006926059722900391,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6673333333333333,-1,0,0,0.0006926059722900391,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6473333333333333,-1,0,0,0.0006926059722900391,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.98,-1,0,0,0.0007152557373046875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6197142857142857,-1,0,0,0.0007152557373046875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6166666666666667,-1,0,0,0.0007152557373046875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.62,-1,0,0,0.0007152557373046875,-1,HomeEquityCredit,ResNet,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0007641315460205078,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6231428571428572,-1,0,0,0.0007641315460205078,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5860000000000001,-1,0,0,0.0007641315460205078,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6166666666666667,-1,0,0,0.0007641315460205078,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0008485317230224609,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6361428571428571,-1,0,0,0.0008485317230224609,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6166666666666667,-1,0,0,0.0008485317230224609,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6426666666666667,-1,0,0,0.0008485317230224609,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9833333333333334,-1,0,0,0.0006308555603027344,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5958571428571429,-1,0,0,0.0006308555603027344,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.588,-1,0,0,0.0006308555603027344,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.618,-1,0,0,0.0006308555603027344,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.00063323974609375,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6667142857142857,-1,0,0,0.00063323974609375,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6866666666666668,-1,0,0,0.00063323974609375,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6606666666666667,-1,0,0,0.00063323974609375,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9833333333333334,-1,0,0,0.0006456375122070312,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.61,-1,0,0,0.0006456375122070312,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6133333333333333,-1,0,0,0.0006456375122070312,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6046666666666667,-1,0,0,0.0006456375122070312,-1,HomeEquityCredit,ResNet,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9785714285714286,-1,0,0,0.0006673336029052734,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6278571428571429,-1,0,0,0.0006673336029052734,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6113333333333333,-1,0,0,0.0006673336029052734,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.632,-1,0,0,0.0006673336029052734,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9785714285714286,-1,0,0,0.0007128715515136719,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6447142857142858,-1,0,0,0.0007128715515136719,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6366666666666667,-1,0,0,0.0007128715515136719,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6666666666666667,-1,0,0,0.0007128715515136719,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9785714285714286,-1,0,0,0.0006926059722900391,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6061428571428571,-1,0,0,0.0006926059722900391,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.602,-1,0,0,0.0006926059722900391,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.624,-1,0,0,0.0006926059722900391,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0006856918334960938,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6371428571428571,-1,0,0,0.0006856918334960938,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6406666666666667,-1,0,0,0.0006856918334960938,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6433333333333333,-1,0,0,0.0006856918334960938,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9857142857142858,-1,0,0,0.0007214546203613281,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6134285714285714,-1,0,0,0.0007214546203613281,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6146666666666667,-1,0,0,0.0007214546203613281,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6033333333333333,-1,0,0,0.0007214546203613281,-1,HomeEquityCredit,ResNet,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.98125,-1,0,0,0.0007028579711914062,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6354285714285715,-1,0,0,0.0007028579711914062,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6093333333333333,-1,0,0,0.0007028579711914062,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6266666666666667,-1,0,0,0.0007028579711914062,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.96875,-1,0,0,0.0008325576782226562,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6491428571428571,-1,0,0,0.0008325576782226562,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6366666666666667,-1,0,0,0.0008325576782226562,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6659999999999999,-1,0,0,0.0008325576782226562,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0007452964782714844,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.621,-1,0,0,0.0007452964782714844,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6146666666666667,-1,0,0,0.0007452964782714844,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6213333333333333,-1,0,0,0.0007452964782714844,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.99375,-1,0,0,0.0006127357482910156,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6548571428571428,-1,0,0,0.0006127357482910156,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6726666666666667,-1,0,0,0.0006127357482910156,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.648,-1,0,0,0.0006127357482910156,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0008471012115478516,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6325714285714286,-1,0,0,0.0008471012115478516,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.624,-1,0,0,0.0008471012115478516,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6166666666666667,-1,0,0,0.0008471012115478516,-1,HomeEquityCredit,ResNet,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9833333333333334,-1,0,0,0.0007941722869873047,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6341428571428571,-1,0,0,0.0007941722869873047,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6053333333333333,-1,0,0,0.0007941722869873047,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6359999999999999,-1,0,0,0.0007941722869873047,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9722222222222222,-1,0,0,0.0007383823394775391,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6561428571428571,-1,0,0,0.0007383823394775391,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6353333333333333,-1,0,0,0.0007383823394775391,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6633333333333333,-1,0,0,0.0007383823394775391,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9722222222222222,-1,0,0,0.000667572021484375,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6251428571428572,-1,0,0,0.000667572021484375,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6233333333333333,-1,0,0,0.000667572021484375,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.648,-1,0,0,0.000667572021484375,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9944444444444445,-1,0,0,0.0006797313690185547,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6484285714285714,-1,0,0,0.0006797313690185547,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6673333333333333,-1,0,0,0.0006797313690185547,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6393333333333333,-1,0,0,0.0006797313690185547,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9722222222222222,-1,0,0,0.00083160400390625,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6377142857142857,-1,0,0,0.00083160400390625,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6233333333333333,-1,0,0,0.00083160400390625,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6293333333333333,-1,0,0,0.00083160400390625,-1,HomeEquityCredit,ResNet,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.98,-1,0,0,0.0006794929504394531,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6464285714285714,-1,0,0,0.0006794929504394531,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6060000000000001,-1,0,0,0.0006794929504394531,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.642,-1,0,0,0.0006794929504394531,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0006413459777832031,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6571428571428571,-1,0,0,0.0006413459777832031,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.634,-1,0,0,0.0006413459777832031,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6679999999999999,-1,0,0,0.0006413459777832031,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0008189678192138672,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6318571428571429,-1,0,0,0.0008189678192138672,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6293333333333333,-1,0,0,0.0008189678192138672,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6433333333333333,-1,0,0,0.0008189678192138672,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.99,-1,0,0,0.000736236572265625,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6484285714285715,-1,0,0,0.000736236572265625,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.654,-1,0,0,0.000736236572265625,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6419999999999999,-1,0,0,0.000736236572265625,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0007572174072265625,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6305714285714286,-1,0,0,0.0007572174072265625,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6053333333333333,-1,0,0,0.0007572174072265625,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6193333333333333,-1,0,0,0.0007572174072265625,-1,HomeEquityCredit,ResNet,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

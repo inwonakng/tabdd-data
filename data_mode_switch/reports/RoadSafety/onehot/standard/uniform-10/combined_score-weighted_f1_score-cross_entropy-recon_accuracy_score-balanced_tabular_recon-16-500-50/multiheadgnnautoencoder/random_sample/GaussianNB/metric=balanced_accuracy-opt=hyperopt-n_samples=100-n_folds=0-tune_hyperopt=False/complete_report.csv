@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.95,-1,0,0,0.08284759521484375,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.47986187374616573,-1,0,0,0.08284759521484375,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.47959914101646384,-1,0,0,0.08284759521484375,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.4892314532658085,-1,0,0,0.08284759521484375,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.08073210716247559,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5176746110647164,-1,0,0,0.08073210716247559,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5188499164877117,-1,0,0,0.08073210716247559,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.515643408093774,-1,0,0,0.08073210716247559,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.08085775375366211,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5836180626563415,-1,0,0,0.08085775375366211,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5821403006442376,-1,0,0,0.08085775375366211,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5817959748730779,-1,0,0,0.08085775375366211,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.07869410514831543,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5149477556694881,-1,0,0,0.07869410514831543,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5147339537103317,-1,0,0,0.07869410514831543,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.515484398738707,-1,0,0,0.07869410514831543,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,1.0,-1,0,0,0.07872605323791504,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5138262800414142,-1,0,0,0.07872605323791504,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5084705320925793,-1,0,0,0.07872605323791504,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5147529813222287,-1,0,0,0.07872605323791504,-1,RoadSafety,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.07908749580383301,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5025743726079726,-1,0,0,0.07908749580383301,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5014316392269148,-1,0,0,0.07908749580383301,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5006320596958662,-1,0,0,0.07908749580383301,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85,-1,0,0,0.0803835391998291,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.52113786511283,-1,0,0,0.0803835391998291,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5195060844667143,-1,0,0,0.0803835391998291,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5192257224963555,-1,0,0,0.0803835391998291,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9,-1,0,0,0.07912731170654297,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5427995291279455,-1,0,0,0.07912731170654297,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5424719637318063,-1,0,0,0.07912731170654297,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.538453152781363,-1,0,0,0.07912731170654297,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.07692933082580566,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5390161134453847,-1,0,0,0.07692933082580566,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5379384395132427,-1,0,0,0.07692933082580566,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5345753268999227,-1,0,0,0.07692933082580566,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.0778965950012207,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5232831407633771,-1,0,0,0.0778965950012207,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5192674779288953,-1,0,0,0.0778965950012207,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5257375277419594,-1,0,0,0.0778965950012207,-1,RoadSafety,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8833333333333333,-1,0,0,0.07882571220397949,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.504569470221726,-1,0,0,0.07882571220397949,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5058458601765689,-1,0,0,0.07882571220397949,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.503132248050723,-1,0,0,0.07882571220397949,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8166666666666667,-1,0,0,0.07812166213989258,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5600685142414286,-1,0,0,0.07812166213989258,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.557444523979957,-1,0,0,0.07812166213989258,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5583157594765263,-1,0,0,0.07812166213989258,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8,-1,0,0,0.07738804817199707,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5451517281048373,-1,0,0,0.07738804817199707,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5471844428537342,-1,0,0,0.07738804817199707,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5478761968787714,-1,0,0,0.07738804817199707,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8166666666666667,-1,0,0,0.07979059219360352,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5414574137548914,-1,0,0,0.07979059219360352,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5417561441183488,-1,0,0,0.07979059219360352,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5460285545678181,-1,0,0,0.07979059219360352,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8166666666666667,-1,0,0,0.07944035530090332,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5300427160418054,-1,0,0,0.07944035530090332,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5317943211644,-1,0,0,0.07944035530090332,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5333832477261577,-1,0,0,0.07944035530090332,-1,RoadSafety,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8,-1,0,0,0.07927894592285156,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.4941535414967481,-1,0,0,0.07927894592285156,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.4946910045335242,-1,0,0,0.07927894592285156,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.49077741471139813,-1,0,0,0.07927894592285156,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7875,-1,0,0,0.0789029598236084,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5539324182410671,-1,0,0,0.0789029598236084,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5502266762109282,-1,0,0,0.0789029598236084,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5552165927151486,-1,0,0,0.0789029598236084,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.725,-1,0,0,0.07817816734313965,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5573181796706106,-1,0,0,0.07817816734313965,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.556072536387497,-1,0,0,0.07817816734313965,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5605923271389847,-1,0,0,0.07817816734313965,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7875,-1,0,0,0.07844328880310059,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5437199379074541,-1,0,0,0.07844328880310059,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5418754473872585,-1,0,0,0.07844328880310059,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5484738446333012,-1,0,0,0.07844328880310059,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.75,-1,0,0,0.07751846313476562,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.49808661204787785,-1,0,0,0.07751846313476562,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.49576473395371035,-1,0,0,0.07751846313476562,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5008765438729624,-1,0,0,0.07751846313476562,-1,RoadSafety,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.71,-1,0,0,0.07753300666809082,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.4885439847414161,-1,0,0,0.07753300666809082,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.4902171319494154,-1,0,0,0.07753300666809082,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.48098612157013065,-1,0,0,0.07753300666809082,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.73,-1,0,0,0.07757735252380371,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5289742372568698,-1,0,0,0.07757735252380371,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.528752087807206,-1,0,0,0.07757735252380371,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5257236092644461,-1,0,0,0.07757735252380371,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.78,-1,0,0,0.07681846618652344,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5685798361364183,-1,0,0,0.07681846618652344,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5650799331901695,-1,0,0,0.07681846618652344,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5670921067061644,-1,0,0,0.07681846618652344,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8,-1,0,0,0.07758331298828125,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5512997994618095,-1,0,0,0.07758331298828125,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5437246480553567,-1,0,0,0.07758331298828125,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5575405372811258,-1,0,0,0.07758331298828125,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.71,-1,0,0,0.07825040817260742,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5395773425669956,-1,0,0,0.07825040817260742,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5437842996898115,-1,0,0,0.07825040817260742,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.545854509556828,-1,0,0,0.07825040817260742,-1,RoadSafety,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8,-1,0,0,0.07782840728759766,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5232839276397577,-1,0,0,0.07782840728759766,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5230851825340014,-1,0,0,0.07782840728759766,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.520783268441634,-1,0,0,0.07782840728759766,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7333333333333334,-1,0,0,0.07680773735046387,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5659086957063107,-1,0,0,0.07680773735046387,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5603078024337866,-1,0,0,0.07680773735046387,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5676867800621254,-1,0,0,0.07680773735046387,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.6916666666666667,-1,0,0,0.07694649696350098,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5635685965876497,-1,0,0,0.07694649696350098,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5607850155094249,-1,0,0,0.07694649696350098,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5638738857283888,-1,0,0,0.07694649696350098,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7916666666666667,-1,0,0,0.07628130912780762,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5615887999288978,-1,0,0,0.07628130912780762,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5619780481985206,-1,0,0,0.07628130912780762,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.563628170520306,-1,0,0,0.07628130912780762,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.6333333333333333,-1,0,0,0.07655978202819824,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5239438587700888,-1,0,0,0.07655978202819824,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5275590551181102,-1,0,0,0.07655978202819824,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5324366204763916,-1,0,0,0.07655978202819824,-1,RoadSafety,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7214285714285714,-1,0,0,0.07618212699890137,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5057480417698974,-1,0,0,0.07618212699890137,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5069792412312097,-1,0,0,0.07618212699890137,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5014500833443557,-1,0,0,0.07618212699890137,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7571428571428571,-1,0,0,0.07670927047729492,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5665234095474869,-1,0,0,0.07670927047729492,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5646027201145312,-1,0,0,0.07670927047729492,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5714985999121684,-1,0,0,0.07670927047729492,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7000000000000001,-1,0,0,0.07660222053527832,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5643227078017196,-1,0,0,0.07660222053527832,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5624552612741589,-1,0,0,0.07660222053527832,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5666775054319776,-1,0,0,0.07660222053527832,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7714285714285714,-1,0,0,0.07703900337219238,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.559836866723294,-1,0,0,0.07703900337219238,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5590551181102362,-1,0,0,0.07703900337219238,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.564228301684167,-1,0,0,0.07703900337219238,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.6928571428571428,-1,0,0,0.07722926139831543,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5478600807947414,-1,0,0,0.07722926139831543,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5525530899546647,-1,0,0,0.07722926139831543,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5531323149391117,-1,0,0,0.07722926139831543,-1,RoadSafety,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.69375,-1,0,0,0.07758402824401855,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.4999066414308876,-1,0,0,0.07758402824401855,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.49809114769744695,-1,0,0,0.07758402824401855,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.49834787102654865,-1,0,0,0.07758402824401855,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7,-1,0,0,0.07839536666870117,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5612170619461738,-1,0,0,0.07839536666870117,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5585182534001432,-1,0,0,0.07839536666870117,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5689417414372118,-1,0,0,0.07839536666870117,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.65625,-1,0,0,0.07599496841430664,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5651535015568898,-1,0,0,0.07599496841430664,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5614411834884276,-1,0,0,0.07599496841430664,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5675128702510702,-1,0,0,0.07599496841430664,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.76875,-1,0,0,0.07768130302429199,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5652441086728774,-1,0,0,0.07768130302429199,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5662133142448103,-1,0,0,0.07768130302429199,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5647636863107618,-1,0,0,0.07768130302429199,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.675,-1,0,0,0.0774223804473877,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5521293446062446,-1,0,0,0.0774223804473877,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5546408971605822,-1,0,0,0.0774223804473877,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5545043950367905,-1,0,0,0.0774223804473877,-1,RoadSafety,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.6777777777777778,-1,0,0,0.07752585411071777,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5370707991605143,-1,0,0,0.07752585411071777,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5378787878787878,-1,0,0,0.07752585411071777,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5390600225946132,-1,0,0,0.07752585411071777,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.6833333333333333,-1,0,0,0.07665133476257324,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5616642975805646,-1,0,0,0.07665133476257324,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5598305893581484,-1,0,0,0.07665133476257324,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5672723424510177,-1,0,0,0.07665133476257324,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.6444444444444445,-1,0,0,0.07699775695800781,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5642458746169268,-1,0,0,0.07699775695800781,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.561321880219518,-1,0,0,0.07699775695800781,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5662010252823024,-1,0,0,0.07699775695800781,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7666666666666666,-1,0,0,0.07755136489868164,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5668804400002538,-1,0,0,0.07755136489868164,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5666905273204486,-1,0,0,0.07755136489868164,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5694750055595637,-1,0,0,0.07755136489868164,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.6388888888888888,-1,0,0,0.07753324508666992,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5454435229764752,-1,0,0,0.07753324508666992,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5453948938200907,-1,0,0,0.07753324508666992,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5479463300660775,-1,0,0,0.07753324508666992,-1,RoadSafety,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.665,-1,0,0,0.07726883888244629,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.537211252019583,-1,0,0,0.07726883888244629,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5379384395132427,-1,0,0,0.07726883888244629,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5382853767778827,-1,0,0,0.07726883888244629,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.6799999999999999,-1,0,0,0.07609033584594727,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5588137248274945,-1,0,0,0.07609033584594727,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5563707945597709,-1,0,0,0.07609033584594727,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5671535444029177,-1,0,0,0.07609033584594727,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.64,-1,0,0,0.07654666900634766,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5640031157376759,-1,0,0,0.07654666900634766,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5615604867573372,-1,0,0,0.07654666900634766,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5675724364960925,-1,0,0,0.07654666900634766,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7749999999999999,-1,0,0,0.07690286636352539,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5647970253160588,-1,0,0,0.07690286636352539,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5662729658792651,-1,0,0,0.07690286636352539,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5667902052514331,-1,0,0,0.07690286636352539,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.63,-1,0,0,0.07751989364624023,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5598490051410816,-1,0,0,0.07751989364624023,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5588761632068718,-1,0,0,0.07751989364624023,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5630382220462821,-1,0,0,0.07751989364624023,-1,RoadSafety,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot

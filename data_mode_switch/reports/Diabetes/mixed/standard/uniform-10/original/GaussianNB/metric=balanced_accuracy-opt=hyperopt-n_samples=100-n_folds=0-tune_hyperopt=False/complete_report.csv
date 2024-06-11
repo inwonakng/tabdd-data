@@ -1,0 +1,5 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.5680188860457975,-1,0,0,-1,-1,Diabetes,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.5680188860457975,-1,0,0,-1,-1,Diabetes,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.5604118214415731,-1,0,0,-1,-1,Diabetes,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.5711740435108777,-1,0,0,-1,-1,Diabetes,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

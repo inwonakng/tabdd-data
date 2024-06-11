@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.9,-1,0,0,0.004153251647949219,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5919594347137118,-1,0,0,0.004153251647949219,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5971051239822187,-1,0,0,0.004153251647949219,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.588177318777557,-1,0,0,0.004153251647949219,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9,-1,0,0,0.004446983337402344,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8037256740455136,-1,0,0,0.004446983337402344,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7972010561091692,-1,0,0,0.004446983337402344,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8021491895438717,-1,0,0,0.004446983337402344,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8,-1,0,0,0.004019975662231445,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5801896839031564,-1,0,0,0.004019975662231445,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.5852028224241561,-1,0,0,0.004019975662231445,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5923064066012365,-1,0,0,0.004019975662231445,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.003938198089599609,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7135172780718166,-1,0,0,0.003938198089599609,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7169988348653805,-1,0,0,0.003938198089599609,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7208032453961941,-1,0,0,0.003938198089599609,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8,-1,0,0,0.0038521289825439453,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.5486148466382652,-1,0,0,0.0038521289825439453,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.546957321328553,-1,0,0,0.0038521289825439453,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.5478434692614609,-1,0,0,0.0038521289825439453,-1,TwoDPlanes,GaussianNB,10,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9,-1,0,0,0.00441288948059082,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.703509963940075,-1,0,0,0.00441288948059082,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7048917361875067,-1,0,0,0.00441288948059082,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7064440718061873,-1,0,0,0.00441288948059082,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.95,-1,0,0,0.0038559436798095703,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7976804465135279,-1,0,0,0.0038559436798095703,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7929627345191776,-1,0,0,0.0038559436798095703,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7969330381456603,-1,0,0,0.0038559436798095703,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85,-1,0,0,0.004256010055541992,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8001241758892389,-1,0,0,0.004256010055541992,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7945662922232933,-1,0,0,0.004256010055541992,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8014785903922422,-1,0,0,0.004256010055541992,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9,-1,0,0,0.0038149356842041016,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7450118876989702,-1,0,0,0.0038149356842041016,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.738210981361697,-1,0,0,0.0038149356842041016,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7431822330470534,-1,0,0,0.0038149356842041016,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.875,-1,0,0,0.004319190979003906,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.6361089417397195,-1,0,0,0.004319190979003906,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6388530890615554,-1,0,0,0.004319190979003906,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.6392321997951309,-1,0,0,0.004319190979003906,-1,TwoDPlanes,GaussianNB,20,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8166666666666667,-1,0,0,0.0038580894470214844,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7851798915977185,-1,0,0,0.0038580894470214844,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7806033433330382,-1,0,0,0.0038580894470214844,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7804877996616313,-1,0,0,0.0038580894470214844,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9166666666666667,-1,0,0,0.0038771629333496094,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8037256740455136,-1,0,0,0.0038771629333496094,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7972010561091692,-1,0,0,0.0038771629333496094,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8021491895438717,-1,0,0,0.0038771629333496094,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8500000000000001,-1,0,0,0.003961801528930664,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8034848020262269,-1,0,0,0.003961801528930664,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7971069211050252,-1,0,0,0.003961801528930664,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8032121923929825,-1,0,0,0.003961801528930664,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8333333333333334,-1,0,0,0.0041997432708740234,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7424289001194866,-1,0,0,0.0041997432708740234,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7311781872935716,-1,0,0,0.0041997432708740234,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7454836146994565,-1,0,0,0.0041997432708740234,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8500000000000001,-1,0,0,0.00446009635925293,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.6483294428401646,-1,0,0,0.00446009635925293,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.6474121003701645,-1,0,0,0.00446009635925293,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.6458205610982556,-1,0,0,0.00446009635925293,-1,TwoDPlanes,GaussianNB,30,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.7875000000000001,-1,0,0,0.0041370391845703125,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8108283434462186,-1,0,0,0.0041370391845703125,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8086001097956458,-1,0,0,0.0041370391845703125,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8057014081085072,-1,0,0,0.0041370391845703125,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8625,-1,0,0,0.003876924514770508,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8033049154877099,-1,0,0,0.003876924514770508,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7970378174542557,-1,0,0,0.003876924514770508,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8026389055086122,-1,0,0,0.003876924514770508,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8625,-1,0,0,0.0037369728088378906,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8086626417493693,-1,0,0,0.0037369728088378906,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7969683928886995,-1,0,0,0.0037369728088378906,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8053562169011304,-1,0,0,0.0037369728088378906,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8875,-1,0,0,0.0038039684295654297,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7968058972331189,-1,0,0,0.0038039684295654297,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7915768105263473,-1,0,0,0.0038039684295654297,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.797688812265281,-1,0,0,0.0038039684295654297,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8375,-1,0,0,0.004143953323364258,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7261874832389392,-1,0,0,0.004143953323364258,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7155020348136918,-1,0,0,0.004143953323364258,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7174989057716761,-1,0,0,0.004143953323364258,-1,TwoDPlanes,GaussianNB,40,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.79,-1,0,0,0.003962993621826172,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8117756764616507,-1,0,0,0.003962993621826172,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8053312182909448,-1,0,0,0.003962993621826172,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8099552374264263,-1,0,0,0.003962993621826172,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8400000000000001,-1,0,0,0.0038352012634277344,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8037605285052061,-1,0,0,0.0038352012634277344,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7972010561091692,-1,0,0,0.0038352012634277344,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8021491895438717,-1,0,0,0.0038352012634277344,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85,-1,0,0,0.003993034362792969,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8127222579646345,-1,0,0,0.003993034362792969,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8012602537622979,-1,0,0,0.003993034362792969,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8117615562862175,-1,0,0,0.003993034362792969,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.9,-1,0,0,0.003965854644775391,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8111854051842237,-1,0,0,0.003965854644775391,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8045097299223942,-1,0,0,0.003965854644775391,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8094837006764486,-1,0,0,0.003965854644775391,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.88,-1,0,0,0.00418400764465332,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.7814072622685414,-1,0,0,0.00418400764465332,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7775750844326804,-1,0,0,0.00418400764465332,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.7798795979912609,-1,0,0,0.00418400764465332,-1,TwoDPlanes,GaussianNB,50,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8166666666666667,-1,0,0,0.0037398338317871094,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8078736052530662,-1,0,0,0.0037398338317871094,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8017570298523492,-1,0,0,0.0037398338317871094,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8073610634797861,-1,0,0,0.0037398338317871094,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8583333333333334,-1,0,0,0.004091978073120117,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8037256740455136,-1,0,0,0.004091978073120117,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7972010561091692,-1,0,0,0.004091978073120117,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8021491895438717,-1,0,0,0.004091978073120117,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8416666666666667,-1,0,0,0.004002094268798828,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.812261133855851,-1,0,0,0.004002094268798828,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8040194256138778,-1,0,0,0.004002094268798828,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8124043519329157,-1,0,0,0.004002094268798828,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8166666666666667,-1,0,0,0.004106998443603516,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.812518642297767,-1,0,0,0.004106998443603516,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.805501517071169,-1,0,0,0.004106998443603516,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8104625979231423,-1,0,0,0.004106998443603516,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8833333333333333,-1,0,0,0.0036940574645996094,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.81252492700481,-1,0,0,0.0036940574645996094,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8048059342706613,-1,0,0,0.0036940574645996094,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8113627363952906,-1,0,0,0.0036940574645996094,-1,TwoDPlanes,GaussianNB,60,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8071428571428572,-1,0,0,0.004254817962646484,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8100405938535851,-1,0,0,0.004254817962646484,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8037153053675351,-1,0,0,0.004254817962646484,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.807690748886336,-1,0,0,0.004254817962646484,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8714285714285714,-1,0,0,0.004051923751831055,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8037256740455136,-1,0,0,0.004051923751831055,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7972010561091692,-1,0,0,0.004051923751831055,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8021491895438717,-1,0,0,0.004051923751831055,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8357142857142857,-1,0,0,0.004029035568237305,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8132421940623031,-1,0,0,0.004029035568237305,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8058250526621166,-1,0,0,0.004029035568237305,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8135518346623943,-1,0,0,0.004029035568237305,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85,-1,0,0,0.0036721229553222656,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.812724637754054,-1,0,0,0.0036721229553222656,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8067991894976143,-1,0,0,0.0036721229553222656,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8129133164779931,-1,0,0,0.0036721229553222656,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8571428571428572,-1,0,0,0.0036551952362060547,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8118812983435556,-1,0,0,0.0036551952362060547,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7998546469958738,-1,0,0,0.0036551952362060547,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8062558206904915,-1,0,0,0.0036551952362060547,-1,TwoDPlanes,GaussianNB,70,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8,-1,0,0,0.004281044006347656,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8131885174084813,-1,0,0,0.004281044006347656,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8074692060867694,-1,0,0,0.004281044006347656,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8130786938640552,-1,0,0,0.004281044006347656,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8625,-1,0,0,0.00419306755065918,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8037256740455136,-1,0,0,0.00419306755065918,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7972010561091692,-1,0,0,0.00419306755065918,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8021491895438717,-1,0,0,0.00419306755065918,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8187500000000001,-1,0,0,0.003876209259033203,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8088017747010672,-1,0,0,0.003876209259033203,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8022332139102439,-1,0,0,0.003876209259033203,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8065389886945602,-1,0,0,0.003876209259033203,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85625,-1,0,0,0.0037941932678222656,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8162395523437802,-1,0,0,0.0037941932678222656,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8080833300172139,-1,0,0,0.0037941932678222656,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8145227116672811,-1,0,0,0.0037941932678222656,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85625,-1,0,0,0.0039942264556884766,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8130689802666682,-1,0,0,0.0039942264556884766,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8060600692576898,-1,0,0,0.0039942264556884766,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8119739857575476,-1,0,0,0.0039942264556884766,-1,TwoDPlanes,GaussianNB,80,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8111111111111111,-1,0,0,0.003927946090698242,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8163303036117168,-1,0,0,0.003927946090698242,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8113834037420375,-1,0,0,0.003927946090698242,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8165024281549412,-1,0,0,0.003927946090698242,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8722222222222222,-1,0,0,0.004263162612915039,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8037256740455136,-1,0,0,0.004263162612915039,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7972010561091692,-1,0,0,0.004263162612915039,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8021491895438717,-1,0,0,0.004263162612915039,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8222222222222222,-1,0,0,0.003951072692871094,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8127765608788299,-1,0,0,0.003951072692871094,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.805484455101668,-1,0,0,0.003951072692871094,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8109229063345902,-1,0,0,0.003951072692871094,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85,-1,0,0,0.003920078277587891,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.823136943417724,-1,0,0,0.003920078277587891,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8144578743717024,-1,0,0,0.003920078277587891,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8236699578530946,-1,0,0,0.003920078277587891,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85,-1,0,0,0.003899812698364258,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8234336213761027,-1,0,0,0.003899812698364258,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8152102590894834,-1,0,0,0.003899812698364258,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.82080117082698,-1,0,0,0.003899812698364258,-1,TwoDPlanes,GaussianNB,90,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.8,-1,0,0,0.0040819644927978516,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8162274937616854,-1,0,0,0.0040819644927978516,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8115466423969511,-1,0,0,0.0040819644927978516,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8173212948434443,-1,0,0,0.0040819644927978516,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.85,-1,0,0,0.004092216491699219,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8037256740455136,-1,0,0,0.004092216491699219,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.7972010561091692,-1,0,0,0.004092216491699219,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8021491895438717,-1,0,0,0.004092216491699219,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.83,-1,0,0,0.0037779808044433594,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8233168176766259,-1,0,0,0.0037779808044433594,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8159776198306512,-1,0,0,0.0037779808044433594,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8196183990335502,-1,0,0,0.0037779808044433594,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.84,-1,0,0,0.003940105438232422,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8221715741035334,-1,0,0,0.003940105438232422,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8150908253029756,-1,0,0,0.003940105438232422,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8211994560351197,-1,0,0,0.003940105438232422,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train,0.865,-1,0,0,0.003790140151977539,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Train - Original,0.8286334489781646,-1,0,0,0.003790140151977539,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Val,0.8194368138039569,-1,0,0,0.003790140151977539,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot
+Test,0.8242163501932718,-1,0,0,0.003790140151977539,-1,TwoDPlanes,GaussianNB,100,onehot,onehot,Onehot -> Random Sample -> Onehot,Random Sample,N/A,N/A,original,False,centroid,Onehot -> RS -> Onehot

@@ -1,0 +1,5 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.7575930723785058,-1,0,0,-1,-1,Credit,FTTransformer,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.7575930723785058,-1,0,0,-1,-1,Credit,FTTransformer,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.7662178554563147,-1,0,0,-1,-1,Credit,FTTransformer,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.7460127591706539,-1,0,0,-1,-1,Credit,FTTransformer,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

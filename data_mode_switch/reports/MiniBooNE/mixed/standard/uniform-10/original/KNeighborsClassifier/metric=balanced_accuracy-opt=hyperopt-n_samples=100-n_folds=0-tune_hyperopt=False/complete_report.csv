@@ -1,0 +1,5 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.913225566558378,-1,0,0,-1,-1,MiniBooNE,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.913225566558378,-1,0,0,-1,-1,MiniBooNE,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.8821917808219177,-1,0,0,-1,-1,MiniBooNE,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.8870319634703197,-1,0,0,-1,-1,MiniBooNE,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

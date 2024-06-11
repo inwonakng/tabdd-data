@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.7,-1,0,0,0.0014500617980957031,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.501850780248797,-1,0,0,0.0014500617980957031,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5021393631361288,-1,0,0,0.0014500617980957031,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.49003189792663476,-1,0,0,0.0014500617980957031,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.65,-1,0,0,0.001355886459350586,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.539124096017582,-1,0,0,0.001355886459350586,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5443904326585891,-1,0,0,0.001355886459350586,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5330940988835726,-1,0,0,0.001355886459350586,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.75,-1,0,0,0.001050710678100586,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5932979412069855,-1,0,0,0.001050710678100586,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5919458371678308,-1,0,0,0.001050710678100586,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5717703349282297,-1,0,0,0.001050710678100586,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6,-1,0,0,0.0010302066802978516,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5951737969672659,-1,0,0,0.0010302066802978516,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6059263190989155,-1,0,0,0.0010302066802978516,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5765550239234449,-1,0,0,0.0010302066802978516,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.0010554790496826172,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5774083815920027,-1,0,0,0.0010554790496826172,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5954939405395154,-1,0,0,0.0010554790496826172,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5550239234449761,-1,0,0,0.0010554790496826172,-1,Credit,KNeighborsClassifier,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.0010671615600585938,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5390225080479825,-1,0,0,0.0010671615600585938,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5512473413090879,-1,0,0,0.0010671615600585938,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5291068580542264,-1,0,0,0.0010671615600585938,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.0012249946594238281,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5127009511451297,-1,0,0,0.0012249946594238281,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5145313130464556,-1,0,0,0.0012249946594238281,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.507177033492823,-1,0,0,0.0012249946594238281,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.725,-1,0,0,0.0010457038879394531,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5795299364490679,-1,0,0,0.0010457038879394531,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5835990433167735,-1,0,0,0.0010457038879394531,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5813397129186603,-1,0,0,0.0010457038879394531,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7250000000000001,-1,0,0,0.0010440349578857422,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5908170291364,-1,0,0,0.0010440349578857422,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5931553744696938,-1,0,0,0.0010440349578857422,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5633971291866029,-1,0,0,0.0010440349578857422,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.625,-1,0,0,0.0010595321655273438,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5446674791366192,-1,0,0,0.0010595321655273438,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5404684260167941,-1,0,0,0.0010595321655273438,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5378787878787878,-1,0,0,0.0010595321655273438,-1,Credit,KNeighborsClassifier,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7166666666666666,-1,0,0,0.0010874271392822266,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5355177084840275,-1,0,0,0.0010874271392822266,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5368725903127549,-1,0,0,0.0010874271392822266,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5342902711323765,-1,0,0,0.0010874271392822266,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7666666666666666,-1,0,0,0.0010271072387695312,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5270616059725309,-1,0,0,0.0010271072387695312,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5248936841850691,-1,0,0,0.0010271072387695312,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5311004784688995,-1,0,0,0.0010271072387695312,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.0010290145874023438,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5861983566480062,-1,0,0,0.0010290145874023438,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6011381297326608,-1,0,0,0.0010290145874023438,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5853269537480064,-1,0,0,0.0010290145874023438,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.001064300537109375,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5882499455674357,-1,0,0,0.001064300537109375,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5959598081032953,-1,0,0,0.001064300537109375,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5777511961722488,-1,0,0,0.001064300537109375,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7333333333333334,-1,0,0,0.001047372817993164,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5562873484107883,-1,0,0,0.001047372817993164,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5787768048867725,-1,0,0,0.001047372817993164,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5741626794258373,-1,0,0,0.001047372817993164,-1,Credit,KNeighborsClassifier,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.00103759765625,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5320178772615086,-1,0,0,0.00103759765625,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5412445537408783,-1,0,0,0.00103759765625,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5394736842105263,-1,0,0,0.00103759765625,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7125,-1,0,0,0.0012614727020263672,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.536976106661523,-1,0,0,0.0012614727020263672,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5372662229469052,-1,0,0,0.0012614727020263672,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5342902711323764,-1,0,0,0.0012614727020263672,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7749999999999999,-1,0,0,0.0010836124420166016,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5822690269211042,-1,0,0,0.0010836124420166016,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5923521984239419,-1,0,0,0.0010836124420166016,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5821371610845295,-1,0,0,0.0010836124420166016,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7125,-1,0,0,0.0010256767272949219,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5856007674626242,-1,0,0,0.0010256767272949219,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5784114934364861,-1,0,0,0.0010256767272949219,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5781499202551834,-1,0,0,0.0010256767272949219,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6375,-1,0,0,0.0012655258178710938,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5468030622518569,-1,0,0,0.0012655258178710938,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5596186377574205,-1,0,0,0.0012655258178710938,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5558213716108453,-1,0,0,0.0012655258178710938,-1,Credit,KNeighborsClassifier,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.0013005733489990234,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5412479012410625,-1,0,0,0.0013005733489990234,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5520193322310347,-1,0,0,0.0013005733489990234,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.55103668261563,-1,0,0,0.0013005733489990234,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.77,-1,0,0,0.0012733936309814453,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5513347595395809,-1,0,0,0.0012733936309814453,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.543657900464722,-1,0,0,0.0012733936309814453,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5470494417862839,-1,0,0,0.0012733936309814453,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.71,-1,0,0,0.0012736320495605469,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5854365491653917,-1,0,0,0.0012736320495605469,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5763768232159882,-1,0,0,0.0012736320495605469,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5940988835725678,-1,0,0,0.0012736320495605469,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.71,-1,0,0,0.0012750625610351562,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5808162254341088,-1,0,0,0.0012750625610351562,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5891655879159554,-1,0,0,0.0012750625610351562,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5781499202551834,-1,0,0,0.0012750625610351562,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.71,-1,0,0,0.0011870861053466797,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5499646078736522,-1,0,0,0.0011870861053466797,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5556291694192312,-1,0,0,0.0011870861053466797,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5406698564593302,-1,0,0,0.0011870861053466797,-1,Credit,KNeighborsClassifier,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7416666666666667,-1,0,0,0.001299142837524414,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5463760186926541,-1,0,0,0.001299142837524414,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5592040028970343,-1,0,0,0.001299142837524414,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5526315789473684,-1,0,0,0.001299142837524414,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7333333333333334,-1,0,0,0.001275777816772461,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5218423632938934,-1,0,0,0.001275777816772461,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5157465782282012,-1,0,0,0.001275777816772461,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5247208931419458,-1,0,0,0.001275777816772461,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6666666666666666,-1,0,0,0.0010547637939453125,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5884313630936986,-1,0,0,0.0010547637939453125,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5747685618311904,-1,0,0,0.0010547637939453125,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5829346092503986,-1,0,0,0.0010547637939453125,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7416666666666667,-1,0,0,0.0012865066528320312,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5940690570234082,-1,0,0,0.0012865066528320312,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5939324568404251,-1,0,0,0.0012865066528320312,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5789473684210527,-1,0,0,0.0012865066528320312,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7166666666666667,-1,0,0,0.0012867450714111328,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5621892558155167,-1,0,0,0.0012867450714111328,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.566398220029505,-1,0,0,0.0012867450714111328,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5494417862838916,-1,0,0,0.0012867450714111328,-1,Credit,KNeighborsClassifier,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7428571428571429,-1,0,0,0.001275777816772461,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5699672966231353,-1,0,0,0.001275777816772461,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5771605881132491,-1,0,0,0.001275777816772461,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5745614035087719,-1,0,0,0.001275777816772461,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7642857142857142,-1,0,0,0.001375436782836914,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5358623798647735,-1,0,0,0.001375436782836914,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5297000118376185,-1,0,0,0.001375436782836914,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5418660287081339,-1,0,0,0.001375436782836914,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.00135040283203125,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5836448921796844,-1,0,0,0.00135040283203125,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5643925074239687,-1,0,0,0.00135040283203125,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5817384370015949,-1,0,0,0.00135040283203125,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7428571428571429,-1,0,0,0.0013041496276855469,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.593383747386141,-1,0,0,0.0013041496276855469,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5947365875328239,-1,0,0,0.0013041496276855469,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5793460925039873,-1,0,0,0.0013041496276855469,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7357142857142858,-1,0,0,0.0012807846069335938,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5601359572021224,-1,0,0,0.0012807846069335938,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5719860850704721,-1,0,0,0.0012807846069335938,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5374800637958532,-1,0,0,0.0012807846069335938,-1,Credit,KNeighborsClassifier,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7437499999999999,-1,0,0,0.001300811767578125,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5702243206158405,-1,0,0,0.001300811767578125,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5887239047339018,-1,0,0,0.001300811767578125,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5709728867623605,-1,0,0,0.001300811767578125,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.75,-1,0,0,0.0012974739074707031,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5378297115585542,-1,0,0,0.0012974739074707031,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5360748239313367,-1,0,0,0.0012974739074707031,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5311004784688995,-1,0,0,0.0012974739074707031,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7375,-1,0,0,0.0013172626495361328,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5814251395154113,-1,0,0,0.0013172626495361328,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5568027483640539,-1,0,0,0.0013172626495361328,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5845295055821371,-1,0,0,0.0013172626495361328,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7625,-1,0,0,0.0013191699981689453,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5958637680778218,-1,0,0,0.0013191699981689453,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.591937881779105,-1,0,0,0.0013191699981689453,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5877192982456141,-1,0,0,0.0013191699981689453,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7124999999999999,-1,0,0,0.0012865066528320312,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5756075331746386,-1,0,0,0.0012865066528320312,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5823560933822621,-1,0,0,0.0012865066528320312,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5546251993620415,-1,0,0,0.0012865066528320312,-1,Credit,KNeighborsClassifier,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7666666666666666,-1,0,0,0.001341104507446289,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5874890879148017,-1,0,0,0.001341104507446289,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5871379184375363,-1,0,0,0.001341104507446289,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.588915470494418,-1,0,0,0.001341104507446289,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7055555555555555,-1,0,0,0.0012922286987304688,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.557150217803321,-1,0,0,0.0012922286987304688,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5516190170703549,-1,0,0,0.0012922286987304688,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5486443381180224,-1,0,0,0.0012922286987304688,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.711111111111111,-1,0,0,0.0013103485107421875,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5992898048172455,-1,0,0,0.0013103485107421875,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5819341395642483,-1,0,0,0.0013103485107421875,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5940988835725678,-1,0,0,0.0013103485107421875,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8055555555555556,-1,0,0,0.0013363361358642578,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6045819067617666,-1,0,0,0.0013363361358642578,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6015133058649671,-1,0,0,0.0013363361358642578,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5909090909090908,-1,0,0,0.0013363361358642578,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6944444444444444,-1,0,0,0.0011904239654541016,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.583815949252776,-1,0,0,0.0011904239654541016,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5959047568133131,-1,0,0,0.0011904239654541016,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5685805422647527,-1,0,0,0.0011904239654541016,-1,Credit,KNeighborsClassifier,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.775,-1,0,0,0.0010919570922851562,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5958649955504118,-1,0,0,0.0010919570922851562,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5975133364136598,-1,0,0,0.0010919570922851562,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5944976076555024,-1,0,0,0.0010919570922851562,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.72,-1,0,0,0.0011832714080810547,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5627898406185292,-1,0,0,0.0011832714080810547,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5500323943428913,-1,0,0,0.0011832714080810547,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5526315789473685,-1,0,0,0.0011832714080810547,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6950000000000001,-1,0,0,0.0010974407196044922,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6020254028375074,-1,0,0,0.0010974407196044922,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6002808570435739,-1,0,0,0.0010974407196044922,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5921052631578947,-1,0,0,0.0010974407196044922,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7949999999999999,-1,0,0,0.0010585784912109375,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6037270451666075,-1,0,0,0.0010585784912109375,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6023072536597971,-1,0,0,0.0010585784912109375,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5801435406698565,-1,0,0,0.0010585784912109375,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7150000000000001,-1,0,0,0.0010805130004882812,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5828764651127448,-1,0,0,0.0010805130004882812,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5986945525316593,-1,0,0,0.0010805130004882812,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5681818181818181,-1,0,0,0.0010805130004882812,-1,Credit,KNeighborsClassifier,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

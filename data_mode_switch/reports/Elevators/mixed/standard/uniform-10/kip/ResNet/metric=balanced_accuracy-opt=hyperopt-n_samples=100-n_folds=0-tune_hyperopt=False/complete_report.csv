@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,2.3785927295684814,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6107249314117381,-1,0,0,2.3785927295684814,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6233426457263667,-1,0,0,2.3785927295684814,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6056704867357942,-1,0,0,2.3785927295684814,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,1.4775710105895996,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6500091159638008,-1,0,0,1.4775710105895996,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6599932044699487,-1,0,0,1.4775710105895996,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6393370655008239,-1,0,0,1.4775710105895996,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,2.305506467819214,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6589060781000833,-1,0,0,2.305506467819214,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6703412866203564,-1,0,0,2.305506467819214,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.661954106278368,-1,0,0,2.305506467819214,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,1.835556983947754,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7092324420917765,-1,0,0,1.835556983947754,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7259173965569314,-1,0,0,1.835556983947754,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.727615117771822,-1,0,0,1.835556983947754,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,1.99462890625,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.5712409449133546,-1,0,0,1.99462890625,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.5591777408637874,-1,0,0,1.99462890625,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.5606789532501819,-1,0,0,1.99462890625,-1,Elevators,ResNet,10,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,3.0262019634246826,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6536832864423141,-1,0,0,3.0262019634246826,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6441445182724252,-1,0,0,3.0262019634246826,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6521909797808605,-1,0,0,3.0262019634246826,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,2.7564585208892822,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7719045371275723,-1,0,0,2.7564585208892822,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7840531561461794,-1,0,0,2.7564585208892822,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7631272531091111,-1,0,0,2.7564585208892822,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,2.818342447280884,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7182254028194552,-1,0,0,2.818342447280884,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7298437028088192,-1,0,0,2.818342447280884,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7201297518831478,-1,0,0,2.818342447280884,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,2.865577220916748,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7258542469776834,-1,0,0,2.865577220916748,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7496677740863787,-1,0,0,2.865577220916748,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7451851185803156,-1,0,0,2.865577220916748,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,2.8795418739318848,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6420841590773146,-1,0,0,2.8795418739318848,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6654749320446995,-1,0,0,2.8795418739318848,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6391863230090469,-1,0,0,2.8795418739318848,-1,Elevators,ResNet,20,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,4.2220330238342285,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.698651836367201,-1,0,0,4.2220330238342285,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7039338568408335,-1,0,0,4.2220330238342285,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6909416229866054,-1,0,0,4.2220330238342285,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,3.760514259338379,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6953764893049764,-1,0,0,3.760514259338379,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6797115675022651,-1,0,0,3.760514259338379,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6847668478347106,-1,0,0,3.760514259338379,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,4.505555152893066,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.704652762948727,-1,0,0,4.505555152893066,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7050551192993053,-1,0,0,4.505555152893066,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7036557509960717,-1,0,0,4.505555152893066,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,3.857937812805176,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7177430684334154,-1,0,0,3.857937812805176,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7196692842041679,-1,0,0,3.857937812805176,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7261617183586221,-1,0,0,3.857937812805176,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,3.981097459793091,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6575873852543666,-1,0,0,3.981097459793091,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6630058894593779,-1,0,0,3.981097459793091,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6586891523587233,-1,0,0,3.981097459793091,-1,Elevators,ResNet,30,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,27.920719385147095,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6905044437201624,-1,0,0,27.920719385147095,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6762420718816067,-1,0,0,27.920719385147095,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6982747351805774,-1,0,0,27.920719385147095,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,31.340672731399536,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7914740451027918,-1,0,0,31.340672731399536,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.8022727272727272,-1,0,0,31.340672731399536,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.783062664296093,-1,0,0,31.340672731399536,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,25.399999141693115,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7357987644747144,-1,0,0,25.399999141693115,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7490675022651767,-1,0,0,25.399999141693115,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7249871358851002,-1,0,0,25.399999141693115,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,23.256673097610474,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7232321586227652,-1,0,0,23.256673097610474,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7397160978556327,-1,0,0,23.256673097610474,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7249040197242206,-1,0,0,23.256673097610474,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,25.499860048294067,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7464069990621796,-1,0,0,25.499860048294067,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7557988523104802,-1,0,0,25.499860048294067,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7594210279353417,-1,0,0,25.499860048294067,-1,Elevators,ResNet,40,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,26.84683918952942,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.6900550454362113,-1,0,0,26.84683918952942,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6896368166717004,-1,0,0,26.84683918952942,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.667867065523492,-1,0,0,26.84683918952942,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,17.99581813812256,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7793897736368824,-1,0,0,17.99581813812256,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7860012080942314,-1,0,0,17.99581813812256,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7796182550290944,-1,0,0,17.99581813812256,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.96,-1,0,0,24.07028555870056,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7417825205764785,-1,0,0,24.07028555870056,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7469118091211114,-1,0,0,24.07028555870056,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7415892112200773,-1,0,0,24.07028555870056,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,18.47648572921753,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7027491811242106,-1,0,0,18.47648572921753,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7115184234370281,-1,0,0,18.47648572921753,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.712590738290633,-1,0,0,18.47648572921753,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,18.138319492340088,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7437134190733435,-1,0,0,18.138319492340088,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7556478405315614,-1,0,0,18.138319492340088,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7312117807335228,-1,0,0,18.138319492340088,-1,Elevators,ResNet,50,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,22.206318616867065,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.728477271904225,-1,0,0,22.206318616867065,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7322032618544246,-1,0,0,22.206318616867065,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7079018534148275,-1,0,0,22.206318616867065,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,25.10100746154785,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7433247418496416,-1,0,0,25.10100746154785,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7578488372093024,-1,0,0,25.10100746154785,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7400217159860334,-1,0,0,25.10100746154785,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,24.935622692108154,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7642780343984026,-1,0,0,24.935622692108154,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7811688311688312,-1,0,0,24.935622692108154,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7592804860633089,-1,0,0,24.935622692108154,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,26.682488679885864,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7318600125125969,-1,0,0,26.682488679885864,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7447070371488976,-1,0,0,26.682488679885864,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7341457812125741,-1,0,0,26.682488679885864,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,27.249415636062622,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7652857854651576,-1,0,0,27.249415636062622,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7769971307762006,-1,0,0,27.249415636062622,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7709311050142469,-1,0,0,27.249415636062622,-1,Elevators,ResNet,60,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,32.376566648483276,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.704372728033337,-1,0,0,32.376566648483276,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6941407429779523,-1,0,0,32.376566648483276,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6819476987779658,-1,0,0,32.376566648483276,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.9928571428571429,-1,0,0,32.207122564315796,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7434352573012002,-1,0,0,32.207122564315796,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7522274237390516,-1,0,0,32.207122564315796,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7433588298453511,-1,0,0,32.207122564315796,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,30.990647077560425,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7869105998678809,-1,0,0,30.990647077560425,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.8000906070673512,-1,0,0,30.990647077560425,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7803515662484917,-1,0,0,30.990647077560425,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,29.75320291519165,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7160144694072001,-1,0,0,29.75320291519165,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7265893989731198,-1,0,0,29.75320291519165,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.716536111327297,-1,0,0,29.75320291519165,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,33.694725036621094,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7684680997461266,-1,0,0,33.694725036621094,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7853480821504077,-1,0,0,33.694725036621094,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7726051400545091,-1,0,0,33.694725036621094,-1,Elevators,ResNet,70,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,42.03450655937195,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7146008706369811,-1,0,0,42.03450655937195,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7155730897009966,-1,0,0,42.03450655937195,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7168780209890975,-1,0,0,42.03450655937195,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,37.36993598937988,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7509083183794064,-1,0,0,37.36993598937988,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7684725158562368,-1,0,0,37.36993598937988,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7514921239881551,-1,0,0,37.36993598937988,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,34.91183686256409,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7667059402367403,-1,0,0,34.91183686256409,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7756569012382966,-1,0,0,34.91183686256409,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7625337281602842,-1,0,0,34.91183686256409,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,32.15627431869507,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7505246362043625,-1,0,0,32.15627431869507,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7790433403805497,-1,0,0,32.15627431869507,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7552837321271919,-1,0,0,32.15627431869507,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,34.272351026535034,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7585224895822016,-1,0,0,34.272351026535034,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7667132286318332,-1,0,0,34.272351026535034,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7618695544747096,-1,0,0,34.272351026535034,-1,Elevators,ResNet,80,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.9944444444444445,-1,0,0,42.71825814247131,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.685378899415954,-1,0,0,42.71825814247131,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.6937594382361825,-1,0,0,42.71825814247131,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.6739636359240136,-1,0,0,42.71825814247131,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,37.66683220863342,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7165167839878721,-1,0,0,37.66683220863342,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7428571428571429,-1,0,0,37.66683220863342,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7229387003201484,-1,0,0,37.66683220863342,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,32.19961881637573,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7967566212491868,-1,0,0,32.19961881637573,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.8049192086982785,-1,0,0,32.19961881637573,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7861474072669214,-1,0,0,32.19961881637573,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.9777777777777779,-1,0,0,35.433472633361816,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7588805721328733,-1,0,0,35.433472633361816,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7744941105406222,-1,0,0,35.433472633361816,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7553124449827685,-1,0,0,35.433472633361816,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,35.91849064826965,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7716693015548337,-1,0,0,35.91849064826965,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7777672908486862,-1,0,0,35.91849064826965,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7791078462411472,-1,0,0,35.91849064826965,-1,Elevators,ResNet,90,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.93,-1,0,0,39.20667004585266,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7281110723994839,-1,0,0,39.20667004585266,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7346345514950166,-1,0,0,39.20667004585266,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.724489194521285,-1,0,0,39.20667004585266,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,42.88044786453247,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7717727927192171,-1,0,0,42.88044786453247,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7751094835397161,-1,0,0,42.88044786453247,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7676234596119684,-1,0,0,42.88044786453247,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,0.96,-1,0,0,43.289286851882935,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7648860254772457,-1,0,0,43.289286851882935,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7818408335850197,-1,0,0,43.289286851882935,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7563215507359936,-1,0,0,43.289286851882935,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,43.92024064064026,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7696569213267348,-1,0,0,43.92024064064026,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7742336152219873,-1,0,0,43.92024064064026,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7639444360908505,-1,0,0,43.92024064064026,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train,1.0,-1,0,0,43.548505544662476,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Train - Original,0.7785282838386449,-1,0,0,43.548505544662476,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Val,0.7886363636363636,-1,0,0,43.548505544662476,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed
+Test,0.7836025415410794,-1,0,0,43.548505544662476,-1,Elevators,ResNet,100,mixed,mixed,Mixed -> [ KIP => Original ] -> Mixed,KIP,N/A,original,original,False,centroid,Mixed -> [ KIP => ORI ] -> Mixed

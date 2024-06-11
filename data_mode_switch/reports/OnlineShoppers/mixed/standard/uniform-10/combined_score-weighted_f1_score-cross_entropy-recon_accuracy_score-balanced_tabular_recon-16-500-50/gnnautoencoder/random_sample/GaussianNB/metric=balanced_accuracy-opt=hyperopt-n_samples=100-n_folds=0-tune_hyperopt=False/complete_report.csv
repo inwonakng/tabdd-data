@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,0.0030095577239990234,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6413739518905985,-1,0,0,0.0030095577239990234,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6409954408994716,-1,0,0,0.0030095577239990234,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6111302380483966,-1,0,0,0.0030095577239990234,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.0029256343841552734,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6146159702527776,-1,0,0,0.0029256343841552734,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5991123399952575,-1,0,0,0.0029256343841552734,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6006228426305154,-1,0,0,0.0029256343841552734,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.003121614456176758,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6448976618387625,-1,0,0,0.003121614456176758,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6259166297554013,-1,0,0,0.003121614456176758,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6337904422942786,-1,0,0,0.003121614456176758,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9,-1,0,0,0.0032117366790771484,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6082757035620329,-1,0,0,0.0032117366790771484,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5831230509733389,-1,0,0,0.0032117366790771484,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5873611682435211,-1,0,0,0.0032117366790771484,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.0031538009643554688,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.527860522956828,-1,0,0,0.0031538009643554688,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5324170391348895,-1,0,0,0.0031538009643554688,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5374219769999822,-1,0,0,0.0031538009643554688,-1,OnlineShoppers,GaussianNB,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9,-1,0,0,0.002704143524169922,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5748441944076207,-1,0,0,0.002704143524169922,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5757374423401295,-1,0,0,0.002704143524169922,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5887137159515676,-1,0,0,0.002704143524169922,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.975,-1,0,0,0.0026063919067382812,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6579942582278897,-1,0,0,0.0026063919067382812,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6614174373291456,-1,0,0,0.0026063919067382812,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6573471285747501,-1,0,0,0.0026063919067382812,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.0026192665100097656,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5994002741603839,-1,0,0,0.0026192665100097656,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5994825711716307,-1,0,0,0.0026192665100097656,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5865719957791569,-1,0,0,0.0026192665100097656,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0025925636291503906,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6702326669484882,-1,0,0,0.0025925636291503906,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6743978989660372,-1,0,0,0.0025925636291503906,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6540272387459088,-1,0,0,0.0025925636291503906,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.002582550048828125,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6092036112832594,-1,0,0,0.002582550048828125,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6191305495528144,-1,0,0,0.002582550048828125,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6086017562999659,-1,0,0,0.002582550048828125,-1,OnlineShoppers,GaussianNB,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8666666666666667,-1,0,0,0.002691984176635742,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6012788678981995,-1,0,0,0.002691984176635742,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5950878935523849,-1,0,0,0.002691984176635742,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6174570314595891,-1,0,0,0.002691984176635742,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9166666666666667,-1,0,0,0.0029463768005371094,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6370274529761587,-1,0,0,0.0029463768005371094,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6268170409245265,-1,0,0,0.0029463768005371094,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6256595067336755,-1,0,0,0.0029463768005371094,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8833333333333333,-1,0,0,0.002901315689086914,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6852211957168597,-1,0,0,0.002901315689086914,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6832957509541002,-1,0,0,0.002901315689086914,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6658357627027705,-1,0,0,0.002901315689086914,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9166666666666667,-1,0,0,0.002642393112182617,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6799293462424021,-1,0,0,0.002642393112182617,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6495364839894591,-1,0,0,0.002642393112182617,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6589746570564985,-1,0,0,0.002642393112182617,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7333333333333334,-1,0,0,0.002654552459716797,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5456274394323074,-1,0,0,0.002654552459716797,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5480786008617102,-1,0,0,0.002654552459716797,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5408134065423068,-1,0,0,0.002654552459716797,-1,OnlineShoppers,GaussianNB,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.825,-1,0,0,0.0026230812072753906,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6067707969940859,-1,0,0,0.0026230812072753906,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6046400816074521,-1,0,0,0.0026230812072753906,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6063281347808203,-1,0,0,0.0026230812072753906,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8999999999999999,-1,0,0,0.002531766891479492,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6697755106647568,-1,0,0,0.002531766891479492,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6479079142226936,-1,0,0,0.002531766891479492,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6618541305242073,-1,0,0,0.002531766891479492,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.0026133060455322266,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6846216237846445,-1,0,0,0.0026133060455322266,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6704338527755034,-1,0,0,0.0026133060455322266,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6682055157119096,-1,0,0,0.0026133060455322266,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.0027627944946289062,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6430295851066886,-1,0,0,0.0027627944946289062,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6302542626918827,-1,0,0,0.0027627944946289062,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.621244165042119,-1,0,0,0.0027627944946289062,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.725,-1,0,0,0.0025856494903564453,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5527272904499432,-1,0,0,0.0025856494903564453,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5406023918499927,-1,0,0,0.0025856494903564453,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5574978090962746,-1,0,0,0.0025856494903564453,-1,OnlineShoppers,GaussianNB,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8300000000000001,-1,0,0,0.0026636123657226562,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6481113509786458,-1,0,0,0.0026636123657226562,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6212378472455248,-1,0,0,0.0026636123657226562,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6305353853307818,-1,0,0,0.0026636123657226562,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8,-1,0,0,0.0026111602783203125,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6494520896520872,-1,0,0,0.0026111602783203125,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6446541302587367,-1,0,0,0.0026111602783203125,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6437747035573123,-1,0,0,0.0026111602783203125,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9,-1,0,0,0.002614259719848633,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6995938383684994,-1,0,0,0.002614259719848633,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6908178194166678,-1,0,0,0.002614259719848633,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6895847119632286,-1,0,0,0.002614259719848633,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.84,-1,0,0,0.0026149749755859375,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6733069672854428,-1,0,0,0.0026149749755859375,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6327687028262844,-1,0,0,0.0026149749755859375,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6543312825282135,-1,0,0,0.0026149749755859375,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.74,-1,0,0,0.0026421546936035156,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5746405749159665,-1,0,0,0.0026421546936035156,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5868678666183464,-1,0,0,0.0026421546936035156,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5719533024520237,-1,0,0,0.0026421546936035156,-1,OnlineShoppers,GaussianNB,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8416666666666667,-1,0,0,0.00267791748046875,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6836456456518081,-1,0,0,0.00267791748046875,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6554366938244098,-1,0,0,0.00267791748046875,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6829829377783342,-1,0,0,0.00267791748046875,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8083333333333333,-1,0,0,0.002648591995239258,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6562331984420466,-1,0,0,0.002648591995239258,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6496460992622222,-1,0,0,0.002648591995239258,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.638529948312557,-1,0,0,0.002648591995239258,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8666666666666667,-1,0,0,0.0027904510498046875,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6945022224228719,-1,0,0,0.0027904510498046875,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6793988161550542,-1,0,0,0.0027904510498046875,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6884467833956325,-1,0,0,0.0027904510498046875,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.775,-1,0,0,0.0029480457305908203,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6523880272354536,-1,0,0,0.0029480457305908203,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6277845634851393,-1,0,0,0.0029480457305908203,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6435824405773255,-1,0,0,0.0029480457305908203,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6833333333333333,-1,0,0,0.002626180648803711,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5537640107037467,-1,0,0,0.002626180648803711,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5545145833053702,-1,0,0,0.002626180648803711,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5441824799241679,-1,0,0,0.002626180648803711,-1,OnlineShoppers,GaussianNB,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8571428571428572,-1,0,0,0.002622365951538086,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7129678271968742,-1,0,0,0.002622365951538086,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6835127444532435,-1,0,0,0.002622365951538086,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.711853683400998,-1,0,0,0.002622365951538086,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7071428571428572,-1,0,0,0.0026597976684570312,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6008821972231,-1,0,0,0.0026597976684570312,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5971157760985016,-1,0,0,0.0026597976684570312,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5766592742296067,-1,0,0,0.0026597976684570312,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7785714285714286,-1,0,0,0.002643108367919922,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6340860260288197,-1,0,0,0.002643108367919922,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.627513880872806,-1,0,0,0.002643108367919922,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6106674655268005,-1,0,0,0.002643108367919922,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8285714285714285,-1,0,0,0.002649068832397461,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6898077901770141,-1,0,0,0.002649068832397461,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6692437440997901,-1,0,0,0.002649068832397461,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6769780730778173,-1,0,0,0.002649068832397461,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7357142857142858,-1,0,0,0.0026514530181884766,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5973556143367822,-1,0,0,0.0026514530181884766,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.605980072390821,-1,0,0,0.0026514530181884766,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5967798186468263,-1,0,0,0.0026514530181884766,-1,OnlineShoppers,GaussianNB,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.002664327621459961,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7135369767661387,-1,0,0,0.002664327621459961,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.684642452876618,-1,0,0,0.002664327621459961,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7108118863233952,-1,0,0,0.002664327621459961,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6937500000000001,-1,0,0,0.0026743412017822266,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6007200814272757,-1,0,0,0.0026743412017822266,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5962008241278874,-1,0,0,0.0026743412017822266,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5730532255468317,-1,0,0,0.0026743412017822266,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8500000000000001,-1,0,0,0.002662181854248047,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7096389127160347,-1,0,0,0.002662181854248047,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7011205365332045,-1,0,0,0.002662181854248047,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7048875038005473,-1,0,0,0.002662181854248047,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8187500000000001,-1,0,0,0.002651214599609375,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6678226309546773,-1,0,0,0.002651214599609375,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6462491443297586,-1,0,0,0.002651214599609375,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6532827786024717,-1,0,0,0.002651214599609375,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6312500000000001,-1,0,0,0.002652406692504883,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5578176238338949,-1,0,0,0.002652406692504883,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.566544300229521,-1,0,0,0.002652406692504883,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5333442133314256,-1,0,0,0.002652406692504883,-1,OnlineShoppers,GaussianNB,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8555555555555556,-1,0,0,0.0026633739471435547,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7230628701472996,-1,0,0,0.0026633739471435547,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.70152320488213,-1,0,0,0.0026633739471435547,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7230317636327867,-1,0,0,0.0026633739471435547,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7,-1,0,0,0.0026569366455078125,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.602230169544393,-1,0,0,0.0026569366455078125,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6029555856811135,-1,0,0,0.0026569366455078125,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5855301987015542,-1,0,0,0.0026569366455078125,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7444444444444445,-1,0,0,0.0028982162475585938,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6418365462358354,-1,0,0,0.0028982162475585938,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6371029801931913,-1,0,0,0.0028982162475585938,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6270903010033444,-1,0,0,0.0028982162475585938,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.7666666666666666,-1,0,0,0.0028116703033447266,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6760224068655014,-1,0,0,0.0028116703033447266,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6622216555038052,-1,0,0,0.0028116703033447266,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6554110850786042,-1,0,0,0.0028116703033447266,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.6333333333333333,-1,0,0,0.0028886795043945312,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5580232441217633,-1,0,0,0.0028886795043945312,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.5630477967330174,-1,0,0,0.0028886795043945312,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5444731100101944,-1,0,0,0.0028886795043945312,-1,OnlineShoppers,GaussianNB,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.835,-1,0,0,0.002702474594116211,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.722248084365881,-1,0,0,0.002702474594116211,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7081213731885516,-1,0,0,0.002702474594116211,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7317417237493964,-1,0,0,0.002702474594116211,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.715,-1,0,0,0.0026984214782714844,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6398488834531075,-1,0,0,0.0026984214782714844,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6353099875172812,-1,0,0,0.0026984214782714844,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.6245327562463112,-1,0,0,0.0026984214782714844,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.735,-1,0,0,0.002701997756958008,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.6176560518442211,-1,0,0,0.002701997756958008,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.6184594356379385,-1,0,0,0.002701997756958008,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5954205640906408,-1,0,0,0.002701997756958008,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.825,-1,0,0,0.002722501754760742,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7181769257920074,-1,0,0,0.002722501754760742,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7024828977804025,-1,0,0,0.002722501754760742,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7174673152934022,-1,0,0,0.002722501754760742,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.645,-1,0,0,0.002672910690307617,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.5519960763873213,-1,0,0,0.002672910690307617,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.547737451288315,-1,0,0,0.002672910690307617,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.5379093412980881,-1,0,0,0.002672910690307617,-1,OnlineShoppers,GaussianNB,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

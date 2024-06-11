@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.8500000000000001,-1,0,0,0.01044607162475586,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.724803319112294,-1,0,0,0.01044607162475586,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7171689497716895,-1,0,0,0.01044607162475586,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7190867579908675,-1,0,0,0.01044607162475586,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9,-1,0,0,0.007406949996948242,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7481114720732709,-1,0,0,0.007406949996948242,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7540639269406393,-1,0,0,0.007406949996948242,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7538812785388128,-1,0,0,0.007406949996948242,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.007555961608886719,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7979960076715331,-1,0,0,0.007555961608886719,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8007305936073059,-1,0,0,0.007555961608886719,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8084931506849315,-1,0,0,0.007555961608886719,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,1.0,-1,0,0,0.007874488830566406,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.765098438295041,-1,0,0,0.007874488830566406,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7631050228310502,-1,0,0,0.007874488830566406,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7691324200913241,-1,0,0,0.007874488830566406,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.0075833797454833984,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7559395671063447,-1,0,0,0.0075833797454833984,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7573515981735159,-1,0,0,0.0075833797454833984,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.760365296803653,-1,0,0,0.0075833797454833984,-1,MiniBooNE,LogisticRegression,10,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.008822917938232422,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7575638968257075,-1,0,0,0.008822917938232422,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7523287671232877,-1,0,0,0.008822917938232422,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7628310502283104,-1,0,0,0.008822917938232422,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.925,-1,0,0,0.008476972579956055,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7450585150103722,-1,0,0,0.008476972579956055,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7465753424657534,-1,0,0,0.008476972579956055,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.751689497716895,-1,0,0,0.008476972579956055,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.007889270782470703,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.790813730478688,-1,0,0,0.007889270782470703,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7946118721461187,-1,0,0,0.007889270782470703,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7999086757990868,-1,0,0,0.007889270782470703,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.95,-1,0,0,0.008334875106811523,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7574856158753767,-1,0,0,0.008334875106811523,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7575342465753425,-1,0,0,0.008334875106811523,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7577168949771689,-1,0,0,0.008334875106811523,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.007597446441650391,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7678969822693648,-1,0,0,0.007597446441650391,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7681278538812786,-1,0,0,0.007597446441650391,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7721461187214611,-1,0,0,0.007597446441650391,-1,MiniBooNE,LogisticRegression,20,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9166666666666667,-1,0,0,0.008240699768066406,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7732396571294375,-1,0,0,0.008240699768066406,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7750684931506849,-1,0,0,0.008240699768066406,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7737899543378995,-1,0,0,0.008240699768066406,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8500000000000001,-1,0,0,0.007613420486450195,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.790383185251869,-1,0,0,0.007613420486450195,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7935159817351598,-1,0,0,0.007613420486450195,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7949771689497717,-1,0,0,0.007613420486450195,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9,-1,0,0,0.007676601409912109,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8052761360522916,-1,0,0,0.007676601409912109,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8062100456621004,-1,0,0,0.007676601409912109,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.809406392694064,-1,0,0,0.007676601409912109,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9166666666666667,-1,0,0,0.008769989013671875,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7882500293553564,-1,0,0,0.008769989013671875,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7877625570776255,-1,0,0,0.008769989013671875,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7919634703196348,-1,0,0,0.008769989013671875,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8500000000000001,-1,0,0,0.00825047492980957,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7757642177776038,-1,0,0,0.00825047492980957,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7784474885844749,-1,0,0,0.00825047492980957,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7795433789954338,-1,0,0,0.00825047492980957,-1,MiniBooNE,LogisticRegression,30,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.008296966552734375,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7960389839132647,-1,0,0,0.008296966552734375,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7988127853881279,-1,0,0,0.008296966552734375,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7995433789954338,-1,0,0,0.008296966552734375,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.007869720458984375,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7972523386433912,-1,0,0,0.007869720458984375,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7995433789954338,-1,0,0,0.007869720458984375,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8015525114155251,-1,0,0,0.007869720458984375,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.007885217666625977,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8016947825746605,-1,0,0,0.007885217666625977,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8062100456621004,-1,0,0,0.007885217666625977,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8031963470319634,-1,0,0,0.007885217666625977,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.007497549057006836,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.792672903049043,-1,0,0,0.007497549057006836,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7910502283105023,-1,0,0,0.007497549057006836,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7936073059360731,-1,0,0,0.007497549057006836,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8625,-1,0,0,0.007659435272216797,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7865082782104975,-1,0,0,0.007659435272216797,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7877625570776257,-1,0,0,0.007659435272216797,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7884018264840182,-1,0,0,0.007659435272216797,-1,MiniBooNE,LogisticRegression,40,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.85,-1,0,0,0.007668972015380859,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8016556420994951,-1,0,0,0.007668972015380859,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8035616438356163,-1,0,0,0.007668972015380859,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8029223744292238,-1,0,0,0.007668972015380859,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.87,-1,0,0,0.008080720901489258,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7982699909976907,-1,0,0,0.008080720901489258,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8027397260273972,-1,0,0,0.008080720901489258,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.805662100456621,-1,0,0,0.008080720901489258,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.89,-1,0,0,0.008502960205078125,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8083878038279384,-1,0,0,0.008502960205078125,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8105936073059361,-1,0,0,0.008502960205078125,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8128767123287671,-1,0,0,0.008502960205078125,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.88,-1,0,0,0.007590770721435547,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7972131981682258,-1,0,0,0.007590770721435547,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7948858447488585,-1,0,0,0.007590770721435547,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7984474885844749,-1,0,0,0.007590770721435547,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.87,-1,0,0,0.008130311965942383,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7942580922932404,-1,0,0,0.008130311965942383,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7937899543378995,-1,0,0,0.008130311965942383,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7937899543378996,-1,0,0,0.008130311965942383,-1,MiniBooNE,LogisticRegression,50,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.007868528366088867,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.80271243492896,-1,0,0,0.007868528366088867,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8044748858447488,-1,0,0,0.007868528366088867,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.805296803652968,-1,0,0,0.007868528366088867,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8666666666666667,-1,0,0,0.007622957229614258,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7966456612783279,-1,0,0,0.007622957229614258,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7989954337899543,-1,0,0,0.007622957229614258,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8030136986301369,-1,0,0,0.007622957229614258,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8833333333333333,-1,0,0,0.007585763931274414,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7998356100043055,-1,0,0,0.007585763931274414,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8032876712328767,-1,0,0,0.007585763931274414,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8051141552511416,-1,0,0,0.007585763931274414,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8666666666666667,-1,0,0,0.007853031158447266,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8075071431367177,-1,0,0,0.007853031158447266,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8057534246575342,-1,0,0,0.007853031158447266,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8116894977168949,-1,0,0,0.007853031158447266,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.008324861526489258,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7981134290970293,-1,0,0,0.008324861526489258,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7961643835616439,-1,0,0,0.008324861526489258,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7989954337899543,-1,0,0,0.008324861526489258,-1,MiniBooNE,LogisticRegression,60,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8642857142857143,-1,0,0,0.00820469856262207,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8079963990762848,-1,0,0,0.00820469856262207,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8096803652968037,-1,0,0,0.00820469856262207,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8123287671232877,-1,0,0,0.00820469856262207,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8785714285714286,-1,0,0,0.008591413497924805,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8046890289248112,-1,0,0,0.008591413497924805,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8073059360730594,-1,0,0,0.008591413497924805,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8115981735159817,-1,0,0,0.008591413497924805,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8785714285714286,-1,0,0,0.007353305816650391,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8020079063759834,-1,0,0,0.007353305816650391,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8043835616438355,-1,0,0,0.007353305816650391,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8048401826484018,-1,0,0,0.007353305816650391,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8642857142857143,-1,0,0,0.006907463073730469,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8095424478453168,-1,0,0,0.006907463073730469,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8105022831050228,-1,0,0,0.006907463073730469,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8135159817351598,-1,0,0,0.006907463073730469,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8785714285714286,-1,0,0,0.008322954177856445,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.797134917217895,-1,0,0,0.008322954177856445,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.7956164383561644,-1,0,0,0.008322954177856445,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.7994520547945205,-1,0,0,0.008322954177856445,-1,MiniBooNE,LogisticRegression,70,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.008491277694702148,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8057653919918588,-1,0,0,0.008491277694702148,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.807945205479452,-1,0,0,0.008491277694702148,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8112328767123288,-1,0,0,0.008491277694702148,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8375,-1,0,0,0.007755279541015625,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.805197855101961,-1,0,0,0.007755279541015625,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8060273972602741,-1,0,0,0.007755279541015625,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8091324200913241,-1,0,0,0.007755279541015625,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8812500000000001,-1,0,0,0.00907278060913086,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.7995224862029825,-1,0,0,0.00907278060913086,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8011872146118721,-1,0,0,0.00907278060913086,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8034703196347032,-1,0,0,0.00907278060913086,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.825,-1,0,0,0.007920980453491211,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8111276370895142,-1,0,0,0.007920980453491211,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8129680365296803,-1,0,0,0.007920980453491211,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8149771689497717,-1,0,0,0.007920980453491211,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.875,-1,0,0,0.007578849792480469,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8008924028337704,-1,0,0,0.007578849792480469,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8023744292237442,-1,0,0,0.007578849792480469,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8062100456621004,-1,0,0,0.007578849792480469,-1,MiniBooNE,LogisticRegression,80,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8611111111111112,-1,0,0,0.0073719024658203125,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8056479705663626,-1,0,0,0.0073719024658203125,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8066666666666666,-1,0,0,0.0073719024658203125,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8073972602739726,-1,0,0,0.0073719024658203125,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8444444444444444,-1,0,0,0.007513761520385742,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8035735253825982,-1,0,0,0.007513761520385742,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8055707762557078,-1,0,0,0.007513761520385742,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8103196347031963,-1,0,0,0.007513761520385742,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.9055555555555556,-1,0,0,0.007046937942504883,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8026341539786293,-1,0,0,0.007046937942504883,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8034703196347032,-1,0,0,0.007046937942504883,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8043835616438356,-1,0,0,0.007046937942504883,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8333333333333333,-1,0,0,0.008361101150512695,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8127911072840425,-1,0,0,0.008361101150512695,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8148858447488585,-1,0,0,0.008361101150512695,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8168036529680365,-1,0,0,0.008361101150512695,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.8666666666666667,-1,0,0,0.008469343185424805,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8060393753180164,-1,0,0,0.008469343185424805,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8096803652968037,-1,0,0,0.008469343185424805,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8110502283105023,-1,0,0,0.008469343185424805,-1,MiniBooNE,LogisticRegression,90,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.855,-1,0,0,0.006605863571166992,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8073114407608908,-1,0,0,0.006605863571166992,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8071232876712329,-1,0,0,0.006605863571166992,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.811324200913242,-1,0,0,0.006605863571166992,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.835,-1,0,0,0.0070323944091796875,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8054326979529531,-1,0,0,0.0070323944091796875,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.806392694063927,-1,0,0,0.0070323944091796875,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8115981735159817,-1,0,0,0.0070323944091796875,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.895,-1,0,0,0.007921934127807617,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8014990801988336,-1,0,0,0.007921934127807617,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8015525114155251,-1,0,0,0.007921934127807617,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8022831050228311,-1,0,0,0.007921934127807617,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.84,-1,0,0,0.008542776107788086,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.813006379897452,-1,0,0,0.008542776107788086,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8126940639269407,-1,0,0,0.008542776107788086,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8159817351598173,-1,0,0,0.008542776107788086,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train,0.87,-1,0,0,0.00740504264831543,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Train - Original,0.8067439038709929,-1,0,0,0.00740504264831543,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Val,0.8115981735159817,-1,0,0,0.00740504264831543,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed
+Test,0.8112328767123287,-1,0,0,0.00740504264831543,-1,MiniBooNE,LogisticRegression,100,mixed,mixed,Mixed -> Random Sample -> Mixed,Random Sample,N/A,N/A,original,False,centroid,Mixed -> RS -> Mixed

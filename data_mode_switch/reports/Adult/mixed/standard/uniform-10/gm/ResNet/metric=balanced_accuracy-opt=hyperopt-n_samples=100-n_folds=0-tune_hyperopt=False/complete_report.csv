@@ -1,0 +1,201 @@
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,-1,0,0,144.04749059677124,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7771247860286217,-1,0,0,144.04749059677124,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7701452862995931,-1,0,0,144.04749059677124,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7785637251922022,-1,0,0,144.04749059677124,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,137.776691198349,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.756954112094965,-1,0,0,137.776691198349,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7657640860521693,-1,0,0,137.776691198349,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7657826216618556,-1,0,0,137.776691198349,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,138.86512327194214,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7608084685309845,-1,0,0,138.86512327194214,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7509854936844571,-1,0,0,138.86512327194214,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7605790759845595,-1,0,0,138.86512327194214,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,137.1898331642151,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7493396576405308,-1,0,0,137.1898331642151,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7488632186662345,-1,0,0,137.1898331642151,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7522220864493714,-1,0,0,137.1898331642151,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,137.23128867149353,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7625206319975789,-1,0,0,137.23128867149353,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7584831887997188,-1,0,0,137.23128867149353,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7624530483495309,-1,0,0,137.23128867149353,-1,Adult,ResNet,10,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,133.81653141975403,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7784348983703866,-1,0,0,133.81653141975403,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7769973987327254,-1,0,0,133.81653141975403,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7800059705940567,-1,0,0,133.81653141975403,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,113.98647952079773,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7280690240919919,-1,0,0,113.98647952079773,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.729043768909037,-1,0,0,113.98647952079773,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7354807822399287,-1,0,0,113.98647952079773,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.01779651641846,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.74806780466146,-1,0,0,115.01779651641846,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7478896242979021,-1,0,0,115.01779651641846,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7644096613504432,-1,0,0,115.01779651641846,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,114.74875569343567,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7198416655039166,-1,0,0,114.74875569343567,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7139223738772291,-1,0,0,114.74875569343567,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7138792363943833,-1,0,0,114.74875569343567,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,114.55605411529541,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7410641934438497,-1,0,0,114.55605411529541,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7403599929535576,-1,0,0,114.55605411529541,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7391220361178981,-1,0,0,114.55605411529541,-1,Adult,ResNet,20,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.6501452922821,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7718998392115093,-1,0,0,115.6501452922821,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7743005274902863,-1,0,0,115.6501452922821,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7753050232611642,-1,0,0,115.6501452922821,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.25406169891357,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7045503422056891,-1,0,0,115.25406169891357,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.701675546541987,-1,0,0,115.25406169891357,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7107285557528014,-1,0,0,115.25406169891357,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,114.65301990509033,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.765672196769559,-1,0,0,114.65301990509033,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7591981713642779,-1,0,0,114.65301990509033,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7769686841625336,-1,0,0,114.65301990509033,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.46815991401672,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7442123155546697,-1,0,0,115.46815991401672,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7347678773534161,-1,0,0,115.46815991401672,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7468980850092239,-1,0,0,115.46815991401672,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.54699468612671,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7522209934859305,-1,0,0,115.54699468612671,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7597552128984697,-1,0,0,115.54699468612671,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7589371114482917,-1,0,0,115.54699468612671,-1,Adult,ResNet,30,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,114.49657273292542,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7821760088787852,-1,0,0,114.49657273292542,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7819988476344006,-1,0,0,114.49657273292542,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7819885271258804,-1,0,0,114.49657273292542,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.28377532958984,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7332846933485173,-1,0,0,116.28377532958984,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7343061838877835,-1,0,0,116.28377532958984,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7369187804759731,-1,0,0,116.28377532958984,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.85081744194031,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7670676354094277,-1,0,0,115.85081744194031,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.765970033785869,-1,0,0,115.85081744194031,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7794586490819675,-1,0,0,115.85081744194031,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.07368874549866,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7540689011995632,-1,0,0,115.07368874549866,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7456211284359466,-1,0,0,115.07368874549866,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7527055981329664,-1,0,0,115.07368874549866,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.1806161403656,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.773946079457052,-1,0,0,116.1806161403656,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7746404640825413,-1,0,0,116.1806161403656,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7783849860334766,-1,0,0,116.1806161403656,-1,Adult,ResNet,40,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.07558941841125,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7761206099419881,-1,0,0,116.07558941841125,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7730470304987918,-1,0,0,116.07558941841125,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7760695642776307,-1,0,0,116.07558941841125,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,113.16940140724182,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.728230338029189,-1,0,0,113.16940140724182,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7352475349479076,-1,0,0,113.16940140724182,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7339628042429085,-1,0,0,113.16940140724182,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.69588661193848,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7618386748958912,-1,0,0,115.69588661193848,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7596896515051126,-1,0,0,115.69588661193848,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7695093817334209,-1,0,0,115.69588661193848,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.1369400024414,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7612116100276762,-1,0,0,116.1369400024414,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7612375350185359,-1,0,0,116.1369400024414,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.759283997436554,-1,0,0,116.1369400024414,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.20422101020813,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7725294749133822,-1,0,0,115.20422101020813,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7747234778062144,-1,0,0,115.20422101020813,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7775615475730671,-1,0,0,115.20422101020813,-1,Adult,ResNet,50,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.30395412445068,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7690544903374441,-1,0,0,116.30395412445068,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7650486940487757,-1,0,0,116.30395412445068,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7703054950547639,-1,0,0,116.30395412445068,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.61708521842957,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7544340042278606,-1,0,0,116.61708521842957,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7540696428843778,-1,0,0,116.61708521842957,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7573274356063141,-1,0,0,116.61708521842957,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9916666666666667,-1,0,0,114.1715476512909,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.764072010263332,-1,0,0,114.1715476512909,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7611652690642654,-1,0,0,114.1715476512909,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.770585091608808,-1,0,0,114.1715476512909,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.41603469848633,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.764820388400985,-1,0,0,115.41603469848633,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7641058587728771,-1,0,0,115.41603469848633,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7646437160060431,-1,0,0,115.41603469848633,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.49385166168213,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7803404101475119,-1,0,0,116.49385166168213,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7860240408153196,-1,0,0,116.49385166168213,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7867188975954083,-1,0,0,116.49385166168213,-1,Adult,ResNet,60,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.75246238708496,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7706887932632766,-1,0,0,115.75246238708496,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7664159638563774,-1,0,0,115.75246238708496,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7694505354601502,-1,0,0,115.75246238708496,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.64417004585266,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7556200703207133,-1,0,0,116.64417004585266,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7570155552978366,-1,0,0,116.64417004585266,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7629387092013671,-1,0,0,116.64417004585266,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9857142857142858,-1,0,0,116.46147108078003,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7613753867013209,-1,0,0,116.46147108078003,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.75636464991086,-1,0,0,116.46147108078003,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7685723955509352,-1,0,0,116.46147108078003,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9928571428571429,-1,0,0,115.53842878341675,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7730683512573548,-1,0,0,115.53842878341675,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7717011538702871,-1,0,0,115.53842878341675,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7713188278804841,-1,0,0,115.53842878341675,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9928571428571429,-1,0,0,117.11728572845459,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7833227346368391,-1,0,0,117.11728572845459,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7828785781499485,-1,0,0,117.11728572845459,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7829401992913476,-1,0,0,117.11728572845459,-1,Adult,ResNet,70,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.72782182693481,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7618509345295239,-1,0,0,116.72782182693481,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7528911755592858,-1,0,0,116.72782182693481,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.762901559293198,-1,0,0,116.72782182693481,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,115.8469648361206,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7669621842306587,-1,0,0,115.8469648361206,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.763684290313015,-1,0,0,115.8469648361206,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7678898811223407,-1,0,0,115.8469648361206,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9875,-1,0,0,116.45088386535645,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7644522539509154,-1,0,0,116.45088386535645,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.761244239579449,-1,0,0,116.45088386535645,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7659016446458795,-1,0,0,116.45088386535645,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.44177198410034,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7659023545302,-1,0,0,116.44177198410034,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7667894232531983,-1,0,0,116.44177198410034,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7612924974992892,-1,0,0,116.44177198410034,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.99375,-1,0,0,115.9452612400055,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7869157308174168,-1,0,0,115.9452612400055,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.787083310259749,-1,0,0,115.9452612400055,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7889138124177304,-1,0,0,115.9452612400055,-1,Adult,ResNet,80,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,117.23803067207336,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7605292933852665,-1,0,0,117.23803067207336,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7576020764281047,-1,0,0,117.23803067207336,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7633823077604828,-1,0,0,117.23803067207336,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.75699400901794,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.771623225499692,-1,0,0,116.75699400901794,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.768400513886681,-1,0,0,116.75699400901794,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7756133777331025,-1,0,0,116.75699400901794,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9944444444444445,-1,0,0,116.45309567451477,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7644052175647176,-1,0,0,116.45309567451477,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7596413377226541,-1,0,0,116.45309567451477,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7664580745376577,-1,0,0,116.45309567451477,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,118.22878837585449,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7756413797588104,-1,0,0,118.22878837585449,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7747235801659231,-1,0,0,118.22878837585449,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7747058146872521,-1,0,0,118.22878837585449,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.9944444444444445,-1,0,0,118.1461546421051,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.791286657973019,-1,0,0,118.1461546421051,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7885375346398049,-1,0,0,118.1461546421051,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7908297959047497,-1,0,0,118.1461546421051,-1,Adult,ResNet,90,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,116.71498513221741,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7627009710438216,-1,0,0,116.71498513221741,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7573622988107133,-1,0,0,116.71498513221741,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7624130840543792,-1,0,0,116.71498513221741,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,117.85737633705139,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7651918762145191,-1,0,0,117.85737633705139,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7627723164892586,-1,0,0,117.85737633705139,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7699179795526088,-1,0,0,117.85737633705139,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.99,-1,0,0,117.1326630115509,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7704012405837459,-1,0,0,117.1326630115509,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7609309165114296,-1,0,0,117.1326630115509,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7689129875464911,-1,0,0,117.1326630115509,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,1.0,-1,0,0,112.43115305900574,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7785828623020885,-1,0,0,112.43115305900574,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7775356060805352,-1,0,0,112.43115305900574,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7773940659622717,-1,0,0,112.43115305900574,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train,0.995,-1,0,0,52.478586196899414,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Train - Original,0.7941666332035302,-1,0,0,52.478586196899414,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Val,0.7958984771843792,-1,0,0,52.478586196899414,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
+Test,0.7977508852014621,-1,0,0,52.478586196899414,-1,Adult,ResNet,100,mixed,mixed,Mixed -> [ GM => Original ] -> Mixed,GM,N/A,original,original,False,centroid,Mixed -> [ GM => ORI ] -> Mixed
