@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.5183240269593863,-1,0,0,-1,-1,TencentCTRSmall,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,0.5183240269593863,-1,0,0,-1,-1,TencentCTRSmall,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,0.5175541340060666,-1,0,0,-1,-1,TencentCTRSmall,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,0.5141301216214337,-1,0,0,-1,-1,TencentCTRSmall,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.5183240269593863,0.008487701416015625,0,0,Unknown,-1,0.006803989410400391,TencentCTRSmall,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.5183240269593863,0.008487701416015625,0,0,Unknown,-1,0.006644487380981445,TencentCTRSmall,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.5175541340060666,0.008487701416015625,0,0,Unknown,-1,0.0020155906677246094,TencentCTRSmall,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.5141301216214337,0.008487701416015625,0,0,Unknown,-1,0.001964569091796875,TencentCTRSmall,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.7481934522634811,-1,0,0,-1,-1,Higgs,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,0.7481934522634811,-1,0,0,-1,-1,Higgs,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,0.7183047757894101,-1,0,0,-1,-1,Higgs,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,0.7226277469758047,-1,0,0,-1,-1,Higgs,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.7481934522634811,267.2569577693939,0,0,inwons-mbp.watson.ibm.com,-1,0.06041717529296875,Higgs,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.7481934522634811,267.2569577693939,0,0,inwons-mbp.watson.ibm.com,-1,0.06097006797790527,Higgs,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.7183047757894101,267.2569577693939,0,0,inwons-mbp.watson.ibm.com,-1,0.02669525146484375,Higgs,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.7226277469758047,267.2569577693939,0,0,inwons-mbp.watson.ibm.com,-1,0.017074108123779297,Higgs,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

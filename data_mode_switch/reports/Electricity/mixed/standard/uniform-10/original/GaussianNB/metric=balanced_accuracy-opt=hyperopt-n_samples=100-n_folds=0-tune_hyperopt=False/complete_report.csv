@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.6963557686489514,-1,0,0,-1,-1,Electricity,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,0.6963557686489514,-1,0,0,-1,-1,Electricity,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,0.7033316039324733,-1,0,0,-1,-1,Electricity,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,0.6988743695796252,-1,0,0,-1,-1,Electricity,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.6963557686489514,0.009751558303833008,0,0,Unknown,-1,0.009107828140258789,Electricity,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.6963557686489514,0.009751558303833008,0,0,Unknown,-1,0.008413076400756836,Electricity,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.7033316039324733,0.009751558303833008,0,0,Unknown,-1,0.002541780471801758,Electricity,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.6988743695796252,0.009751558303833008,0,0,Unknown,-1,0.002490520477294922,Electricity,GaussianNB,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

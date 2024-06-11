@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.7347960158866385,-1,0,0,-1,-1,PhishingWebsites,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Train - Original,0.7347960158866385,-1,0,0,-1,-1,PhishingWebsites,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Val,0.738202106411362,-1,0,0,-1,-1,PhishingWebsites,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Test,0.7375541125541125,-1,0,0,-1,-1,PhishingWebsites,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.7347960158866385,0.0177915096282959,0,0,Unknown,-1,0.013100147247314453,PhishingWebsites,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Train - Original,0.7347960158866385,0.0177915096282959,0,0,Unknown,-1,0.012465953826904297,PhishingWebsites,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Val,0.738202106411362,0.0177915096282959,0,0,Unknown,-1,0.004734039306640625,PhishingWebsites,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Test,0.7375541125541125,0.0177915096282959,0,0,Unknown,-1,0.005158901214599609,PhishingWebsites,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot

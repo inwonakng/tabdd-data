@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.7295383382867883,-1,0,0,-1,-1,Higgs,KNeighborsClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Train - Original,0.7295383382867883,-1,0,0,-1,-1,Higgs,KNeighborsClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Val,0.5762305355634627,-1,0,0,-1,-1,Higgs,KNeighborsClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Test,0.5826352275551269,-1,0,0,-1,-1,Higgs,KNeighborsClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.7295383382867883,0.0023818016052246094,0,0,Unknown,-1,95.73530292510986,Higgs,KNeighborsClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Train - Original,0.7295383382867883,0.0023818016052246094,0,0,Unknown,-1,96.07683300971985,Higgs,KNeighborsClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Val,0.5762305355634627,0.0023818016052246094,0,0,Unknown,-1,19.747116088867188,Higgs,KNeighborsClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Test,0.5826352275551269,0.0023818016052246094,0,0,Unknown,-1,20.251972913742065,Higgs,KNeighborsClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot

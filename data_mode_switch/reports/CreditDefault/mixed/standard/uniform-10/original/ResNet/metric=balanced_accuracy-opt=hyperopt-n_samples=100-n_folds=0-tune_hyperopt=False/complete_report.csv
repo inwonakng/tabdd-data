@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.7210979547900969,-1,0,0,-1,-1,CreditDefault,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,0.7210979547900969,-1,0,0,-1,-1,CreditDefault,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,0.716768581865149,-1,0,0,-1,-1,CreditDefault,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,0.7106541744868924,-1,0,0,-1,-1,CreditDefault,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.7210979547900969,14.218179702758789,0,0,inwons-mbp.watson.ibm.com,-1,0.014847993850708008,CreditDefault,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.7210979547900969,14.218179702758789,0,0,inwons-mbp.watson.ibm.com,-1,0.013083219528198242,CreditDefault,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.716768581865149,14.218179702758789,0,0,inwons-mbp.watson.ibm.com,-1,0.006165027618408203,CreditDefault,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.7106541744868924,14.218179702758789,0,0,inwons-mbp.watson.ibm.com,-1,0.005064249038696289,CreditDefault,ResNet,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

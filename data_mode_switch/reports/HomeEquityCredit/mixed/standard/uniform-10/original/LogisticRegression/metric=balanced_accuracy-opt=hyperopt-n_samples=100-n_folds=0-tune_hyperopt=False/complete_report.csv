@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.7087142857142857,-1,0,0,-1,-1,HomeEquityCredit,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,0.7087142857142857,-1,0,0,-1,-1,HomeEquityCredit,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,0.7033333333333334,-1,0,0,-1,-1,HomeEquityCredit,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,0.7226666666666667,-1,0,0,-1,-1,HomeEquityCredit,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.7087142857142857,2.978450298309326,0,0,Unknown,-1,0.021671295166015625,HomeEquityCredit,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.7087142857142857,2.978450298309326,0,0,Unknown,-1,0.003857851028442383,HomeEquityCredit,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.7033333333333334,2.978450298309326,0,0,Unknown,-1,0.002031564712524414,HomeEquityCredit,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.7226666666666667,2.978450298309326,0,0,Unknown,-1,0.0019350051879882812,HomeEquityCredit,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.9807871203775476,-1,0,0,-1,-1,Pol,ResNet,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Train - Original,0.9807871203775476,-1,0,0,-1,-1,Pol,ResNet,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Val,0.9614569388665775,-1,0,0,-1,-1,Pol,ResNet,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Test,0.9540861860138968,-1,0,0,-1,-1,Pol,ResNet,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.9807871203775476,32.305038928985596,0,0,inwons-mbp.watson.ibm.com,-1,0.018780946731567383,Pol,ResNet,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Train - Original,0.9807871203775476,32.305038928985596,0,0,inwons-mbp.watson.ibm.com,-1,0.018720149993896484,Pol,ResNet,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Val,0.9614569388665775,32.305038928985596,0,0,inwons-mbp.watson.ibm.com,-1,0.013497114181518555,Pol,ResNet,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Test,0.9540861860138968,32.305038928985596,0,0,inwons-mbp.watson.ibm.com,-1,0.010773181915283203,Pol,ResNet,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot

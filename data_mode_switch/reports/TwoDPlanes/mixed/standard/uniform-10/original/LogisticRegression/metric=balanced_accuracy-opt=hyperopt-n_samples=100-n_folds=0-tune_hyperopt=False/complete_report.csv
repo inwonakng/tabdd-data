@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.8395769290433046,-1,0,0,-1,-1,TwoDPlanes,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,0.8395769290433046,-1,0,0,-1,-1,TwoDPlanes,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,0.8299164466260944,-1,0,0,-1,-1,TwoDPlanes,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,0.8348562703159408,-1,0,0,-1,-1,TwoDPlanes,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.8395769290433046,0.6346757411956787,0,0,Unknown,-1,0.025888681411743164,TwoDPlanes,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.8395769290433046,0.6346757411956787,0,0,Unknown,-1,0.016109228134155273,TwoDPlanes,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.8299164466260944,0.6346757411956787,0,0,Unknown,-1,0.008411884307861328,TwoDPlanes,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.8348562703159408,0.6346757411956787,0,0,Unknown,-1,0.001967191696166992,TwoDPlanes,LogisticRegression,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

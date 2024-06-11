@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.9508014344869613,-1,0,0,-1,-1,TwoDPlanes,XGBClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,0.9508014344869613,-1,0,0,-1,-1,TwoDPlanes,XGBClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,0.9211718823877257,-1,0,0,-1,-1,TwoDPlanes,XGBClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,0.9321431401428181,-1,0,0,-1,-1,TwoDPlanes,XGBClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.9508014344869613,54.043015003204346,0,0,Unknown,-1,0.06301021575927734,TwoDPlanes,XGBClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.9508014344869613,54.043015003204346,0,0,Unknown,-1,0.06006789207458496,TwoDPlanes,XGBClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.9211718823877257,54.043015003204346,0,0,Unknown,-1,0.06242012977600098,TwoDPlanes,XGBClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.9321431401428181,54.043015003204346,0,0,Unknown,-1,0.06056952476501465,TwoDPlanes,XGBClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

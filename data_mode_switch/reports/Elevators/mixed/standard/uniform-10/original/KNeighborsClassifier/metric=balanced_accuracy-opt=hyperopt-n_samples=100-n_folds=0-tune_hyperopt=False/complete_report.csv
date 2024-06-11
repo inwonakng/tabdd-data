@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.8155976325966885,-1,0,0,-1,-1,Elevators,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,0.8155976325966885,-1,0,0,-1,-1,Elevators,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,0.7596496526729084,-1,0,0,-1,-1,Elevators,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,0.7471137913134545,-1,0,0,-1,-1,Elevators,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.8155976325966885,0.0014040470123291016,0,0,Unknown,-1,0.28375983238220215,Elevators,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,0.8155976325966885,0.0014040470123291016,0,0,Unknown,-1,0.29831528663635254,Elevators,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,0.7596496526729084,0.0014040470123291016,0,0,Unknown,-1,0.06793904304504395,Elevators,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,0.7471137913134545,0.0014040470123291016,0,0,Unknown,-1,0.0639638900756836,Elevators,KNeighborsClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

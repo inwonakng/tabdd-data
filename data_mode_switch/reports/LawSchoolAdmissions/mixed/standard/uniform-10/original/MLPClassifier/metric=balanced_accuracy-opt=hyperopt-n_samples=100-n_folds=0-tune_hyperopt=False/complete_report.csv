@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,1.0,-1,0,0,-1,-1,LawSchoolAdmissions,MLPClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Train - Original,1.0,-1,0,0,-1,-1,LawSchoolAdmissions,MLPClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Val,1.0,-1,0,0,-1,-1,LawSchoolAdmissions,MLPClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
-Test,1.0,-1,0,0,-1,-1,LawSchoolAdmissions,MLPClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,1.0,5.218638896942139,0,0,Unknown,-1,0.019535541534423828,LawSchoolAdmissions,MLPClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Train - Original,1.0,5.218638896942139,0,0,Unknown,-1,0.01026153564453125,LawSchoolAdmissions,MLPClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Val,1.0,5.218638896942139,0,0,Unknown,-1,0.0030565261840820312,LawSchoolAdmissions,MLPClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed
+Test,1.0,5.218638896942139,0,0,Unknown,-1,0.0029065608978271484,LawSchoolAdmissions,MLPClassifier,0,mixed,mixed,Mixed -> Original -> Mixed,Original,N/A,N/A,original,False,centroid,Mixed -> ORI -> Mixed

@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.7002483473388138,-1,0,0,-1,-1,TencentCTRSmall,XGBClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Train - Original,0.7002483473388138,-1,0,0,-1,-1,TencentCTRSmall,XGBClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Val,0.5892159208504157,-1,0,0,-1,-1,TencentCTRSmall,XGBClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Test,0.6104478990945452,-1,0,0,-1,-1,TencentCTRSmall,XGBClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.7002483473388138,0.8285889625549316,0,0,Unknown,-1,0.025753498077392578,TencentCTRSmall,XGBClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Train - Original,0.7002483473388138,0.8285889625549316,0,0,Unknown,-1,0.020934581756591797,TencentCTRSmall,XGBClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Val,0.5892159208504157,0.8285889625549316,0,0,Unknown,-1,0.00680232048034668,TencentCTRSmall,XGBClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Test,0.6104478990945452,0.8285889625549316,0,0,Unknown,-1,0.00621485710144043,TencentCTRSmall,XGBClassifier,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot

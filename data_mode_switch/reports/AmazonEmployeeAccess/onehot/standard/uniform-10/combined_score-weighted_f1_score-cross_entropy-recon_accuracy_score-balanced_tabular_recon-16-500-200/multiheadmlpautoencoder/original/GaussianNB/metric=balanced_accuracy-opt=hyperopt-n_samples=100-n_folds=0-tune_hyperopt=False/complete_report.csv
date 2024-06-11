@@ -1,5 +1,5 @@
-Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
-Train,0.5218291606964647,-1,0,0,-1,-1,AmazonEmployeeAccess,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Train - Original,0.5218291606964647,-1,0,0,-1,-1,AmazonEmployeeAccess,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Val,0.5189449697537416,-1,0,0,-1,-1,AmazonEmployeeAccess,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
-Test,0.521404948345816,-1,0,0,-1,-1,AmazonEmployeeAccess,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Subset,Score,Default Train Time,Opt Train Time,Opt Train Time Total,Hostname,Data Distill Time,Inference Time,Dataset,Classifier,N,Data Parse Mode,Post Data Parse Mode,Data Mode,Distill Method,Encoder,Distill Space,Output Space,Convert Binary,Cluster Center,Short Name
+Train,0.5218291606964647,0.02708911895751953,0,0,Unknown,-1,0.020792007446289062,AmazonEmployeeAccess,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Train - Original,0.5218291606964647,0.02708911895751953,0,0,Unknown,-1,0.019891023635864258,AmazonEmployeeAccess,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Val,0.5189449697537416,0.02708911895751953,0,0,Unknown,-1,0.004263877868652344,AmazonEmployeeAccess,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
+Test,0.521404948345816,0.02708911895751953,0,0,Unknown,-1,0.004109859466552734,AmazonEmployeeAccess,GaussianNB,0,onehot,onehot,Onehot -> Original -> Onehot,Original,N/A,N/A,original,False,centroid,Onehot -> ORI -> Onehot
